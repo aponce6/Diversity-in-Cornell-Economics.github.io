@@ -9,6 +9,12 @@ description: Research on diversity in economics
 #### <u>Links to papers on diversity in economics</u>
 *...*
 
+AEA climate survey final report announcement: <li><a href="https://www.aeaweb.org/news/member-announcements-sept-26-2019">https://www.aeaweb.org/news/member-announcements-sept-26-2019</a></li>
+
+ <li><a href="https://www.aeaweb.org/resources/member-docs/final-climate-survey-results-sept-2019">Direct link to survey</a></li>
+
+AEA draft of Best Practices for Diversifying Economic Quality: <li><a href="https://www.aeaweb.org/resources/best-practices">https://www.aeaweb.org/resources/best-practices</a></li>
+
 <!--[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)-->
 
 

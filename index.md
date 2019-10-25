@@ -7,7 +7,7 @@ keywords: diversity, economics, Cornell
 
 Diversity in Cornell Economics (DICE) aims to foster diversity in economics at Cornell and in the profession more broadly. We are working toward creating an environment where everyone, particularly individuals from underrepresented groups, feels welcome, respected, and included.
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+<!--[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>-->
 
 
 ---
