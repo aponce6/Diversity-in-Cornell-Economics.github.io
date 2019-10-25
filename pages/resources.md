@@ -1,5 +1,7 @@
-<!--
+
 ---
+
+<!--
 layout: page
 title: Resources
 description: Resources on diversity in economics
@@ -41,6 +43,20 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
  <li><a href="https://www.aeaweb.org/resources/member-docs/final-climate-survey-results-sept-2019">Direct link to survey</a></li>
 <br/>
 AEA draft of Best Practices for Diversifying Economic Quality: <li><a href="https://www.aeaweb.org/resources/best-practices">https://www.aeaweb.org/resources/best-practices</a></li>
+
+<br/>
+AEA Committee on the Status of Women in the Economics Profession (CSWEP):
+<li><a href="https://www.aeaweb.org/about-aea/committees/cswep"><https://www.aeaweb.org/about-aea/committees/cswep></a></li>
+
+<br/>
+AEA Committee on the Status of Minority Groups in the Economics Profession (CSMGEP):
+<li><a href="https://www.aeaweb.org/about-aea/committees/csmgep">https://www.aeaweb.org/about-aea/committees/csmgep</a></li>
+
+<br/>
+AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession:
+<li><a href="https://www.aeaweb.org/about-aea/committees/aealgbtq">https://www.aeaweb.org/about-aea/committees/aealgbtq</a></li>
+
+	
 
     <br/>
     <br/>
