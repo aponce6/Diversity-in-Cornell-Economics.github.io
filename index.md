@@ -33,7 +33,6 @@ Diversity in Cornell Economics (DICE) aims to foster diversity in economics at C
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/Diversity-in-Cornell-Economics">GitHub</a></li>
           <li><a href="https://twitter.com/Cornell_DICE">Twitter (@Cornell_DICE)</a></li>
       </ul>
