@@ -46,7 +46,7 @@ AEA draft of Best Practices for Diversifying Economic Quality: <li><a href="http
 
 <br/>
 AEA Committee on the Status of Women in the Economics Profession (CSWEP):
-<li><a href="https://www.aeaweb.org/about-aea/committees/cswep"><https://www.aeaweb.org/about-aea/committees/cswep></a></li>
+<li><a href="https://www.aeaweb.org/about-aea/committees/cswep">https://www.aeaweb.org/about-aea/committees/cswep</a></li>
 
 <br/>
 AEA Committee on the Status of Minority Groups in the Economics Profession (CSMGEP):
