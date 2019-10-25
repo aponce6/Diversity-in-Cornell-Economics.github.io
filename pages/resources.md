@@ -33,17 +33,13 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <div class="row-fluid">
   <div class="span12">
-    AEA climate survey final report announcement: <li><a href="https://www.aeaweb.org/news/member-announcements-sept-26-2019">https://www.aeaweb.org/news/member-announcements-sept-26-2019</a></li>
+    AEA climate survey final report announcement:
+    <li><a href="https://www.aeaweb.org/news/member-announcements-sept-26-2019">https://www.aeaweb.org/news/member-announcements-sept-26-2019</a></li>
 
  <li><a href="https://www.aeaweb.org/resources/member-docs/final-climate-survey-results-sept-2019">Direct link to survey</a></li>
-
+<br/>
 AEA draft of Best Practices for Diversifying Economic Quality: <li><a href="https://www.aeaweb.org/resources/best-practices">https://www.aeaweb.org/resources/best-practices</a></li>
 
-    
-    Here is the link to the list of economics conferences that Barton Willage and I maintain:
-    <br/>
-    <br/>
-    <li><a href="https://docs.google.com/spreadsheets/d/1MNeXLKiwQA4MK3cZ3Hr1WWXZTReh3rKQU_yfTKnu-hg/edit?usp=sharing">Economics Conferences spreadsheet</a></li>
     <br/>
     <br/>
     If you have any suggestions for resources to include, feel free to email us at
