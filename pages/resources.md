@@ -105,6 +105,27 @@ There have now been three cohorts of program participants, in 2004, 2006, and 20
 <br/>
 <br/>	
 
+David Card, Stefano DellaVigna, Patricia Funk, and Nagore Iriberri. 2019.
+<li><a href="https://eml.berkeley.edu/~sdellavi/wp/journals-gender-qje-Jun2019.pdf">Are Referees and Editors in Economics Gender Neutral?</a></li>
+
+<br/>
+Abstract:
+We study the role of gender in the evaluation of economic research using submissions to four leading journals. We find that referee gender has no effect on the relative assessment of female- versus male-authored papers, suggesting that any differential biases of male referees
+are negligible. To determine whether referees as a whole impose different standards for female authors, we compare citations for female and male-authored papers, holding constant referee evaluations and other characteristics. We find that female-authored papers receive about 25\% more citations than observably similar male-authored papers. Editors largely follow the referees, resulting in a 6 percentage point lower probability of a revise and resubmit verdict for female-authored papers relative to a citation-maximizing benchmark. In their desk rejection decisions, editors treat female authors more favorably, though they still impose a higher bar than would be implied by citation-maximization. We find no differences in the informativeness of female versus male referees, or in the weight that editors place on the recommendations of female versus male referees. We also find no differences in editorial delays for female versus male-authored papers.
+
+<br/>
+<br/>
+
+Anusha Chari and Paul Goldsmith-Pinkham. 2018.
+<li><a href="https://paulgp.github.io/papers/cgp_nbergender.pdf">Gender Representation in Economics Across Topics and Time: Evidence from the NBER Summer Institute</a></li>
+
+<br/>
+Abstract:
+We document the representation of female economists on the conference programs at the NBER Summer Institute from 2001-2018. Over the period from 2016-2018, women made up slightly over 21 percent of all authors on scheduled papers. However, there was large dispersion in the female author share across programs. While the average share of women has slightly risen from 18 percent since 2001-2003, a persistent gap between finance, macroeconomics and microeconomics subfields remains. We examine several channels potentially affecting female representation including gender differences in acceptance and submissions rates, institutional rank, NBER affiliation, faculty seniority and the role of organizers.
+
+<br/>
+<br/>
+
 Donna K. Ginther and Shulamit Kahn. 2004. Journal of Economic Perspectives.
 <li><a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330042162386">Women in Economics: Moving Up or Falling Off the Academic Career Ladder?</a></li>
 
@@ -134,6 +155,16 @@ Erin Hengel and Eunyoung Moon. 2019.
 <br/>
 Abstract:
 We show articles published in “top-five” economics journals authored by men are lower quality—as measured by citations—than articles those same journals publish by women. Additionally, the quality of a man’s paper rises when he co-authors with the opposite sex whereas the quality of a woman’s paper falls. Under strong—but reasonable—assumptions, our findings imply top economics journals hold female-authored papers to higher standards and, as a result, fail to publish the best research. They also suggest that authors of both sexes may forgo co-authoring opportunities with women in order to pursue less productive collaborations with men.
+
+<br/>
+<br/>
+
+Laura Hospido and Carlos Sanz. 2019.
+<li><a href="http://ftp.iza.org/dp12494.pdf">Gender Gaps in the Evaluation of Research: Evidence from Submissions to Economics Conferences</a></li>
+
+<br/>
+Abstract:
+We study gender differences in the evaluation of submissions to economics conferences. Using data from the Annual Congress of the European Economic Association (2015-2017), the Annual Meeting of the Spanish Economic Association (2012-2017), and the Spring Meeting of Young Economists (2017), we find that all-female-authored papers are 3.2 p.p. (6.8\%) less likely to be accepted than all-male-authored papers. This gap is present after controlling for (i) number of authors, (ii) referee fixed effects, (iii) field, (iv) cites of the paper at submission year, (v) previous publication record of the authors, and (vi) the quality of the affiliations of the authors. We also find that the gap is entirely driven by male referees - female referees evaluate male and female-authored papers similarly, but male referees are more favorable towards papers written by men.
 
 <br/>
 <br/>
