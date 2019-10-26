@@ -60,6 +60,10 @@ AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession:
 <li><a href="https://www.aeaweb.org/about-aea/committees/aealgbtq">https://www.aeaweb.org/about-aea/committees/aealgbtq</a></li>
 
 <br/>
+Diversifying Economic Quality (Div.E.Q.):
+<li><a href="http://diversifyingecon.org/index.php/Main_Page">http://diversifyingecon.org/index.php/Main_Page</a></li>
+
+<br/>
 Women in Economics at Berkeley:
 <li><a href="http://calwomenofecon.weebly.com/">http://calwomenofecon.weebly.com/</a></li>
 
@@ -74,6 +78,25 @@ Minnesota Center for Diversity in Economics:
 <br/>
 The Sadie Collective:
 <li><a href="https://www.sadiecollective.org/">https://www.sadiecollective.org/</a></li>
+
+<div class="page-header">
+<h3>News Articles on Diversity in Economics (and the Lack Thereof)</h3>
+</div>
+
+Economist article about women in economics:
+<li><a href="https://www.economist.com/news/christmas-specials/21732699-professions-problem-women-could-be-problem-economics-itself-women-and">https://www.economist.com/news/christmas-specials/21732699-professions-problem-women-could-be-problem-economics-itself-women-and</a></li>
+
+<br/>
+New York Times article by Justin Wolfers about the lack of women in economics:
+<li><a href="https://www.nytimes.com/2018/02/02/business/why-womens-voices-are-scarce-in-economics.html">https://www.nytimes.com/2018/02/02/business/why-womens-voices-are-scarce-in-economics.html</a></li>
+
+<br/>
+New York Times article by Lisa Cook and Anna Gifty Opoku-Agyeman on the underrepresentation of black women in economics:
+<li><a href="https://www.nytimes.com/2019/09/30/opinion/economics-black-women.html">https://www.nytimes.com/2019/09/30/opinion/economics-black-women.html</a></li>
+
+<br/>
+Open letter on harassment and discrimination in economics:
+<li><a href="https://medium.com/@diversityinecon/a-letter-in-response-to-roland-fryers-resignation-from-the-aea-executive-committee-6761217abfa">https://medium.com/@diversityinecon/a-letter-in-response-to-roland-fryers-resignation-from-the-aea-executive-committee-6761217abfa</a></li>
 	
 
     <br/>
