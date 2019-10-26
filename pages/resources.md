@@ -71,6 +71,18 @@ Open letter on harassment and discrimination in economics:
 <h3>Research on Discrimination and/or Underrepresented Groups in Economics</h3>
 </div>
 
+Erin Hengel. 2019.
+<li><a href="http://www.erinhengel.com/research/publishing_female.pdf">Publishing while Female</a></li>
+
+<br/>
+Erin Hengel and Eunyoung Moon. 2019.
+<li><a href="https://erinhengel.github.io/Gender-Quality/quality.pdf">Gender and Quality at Top Economics Journals</a></li>
+
+<br/>
+Heather Sarsons. 2019.
+<li>Ka href="https://drive.google.com/open?id=1PUFdQAgmKcHK1NXm-bQKUNdn-oo_cGr5">Gender Differences in Recognition for Group Work</a></li>
+
+<br/>
 Alice Wu. Forthcoming, Review of Economics and Statistics
 <li><a href="https://scholar.harvard.edu/files/alicewu/files/ejr2019.pdf">Gender Bias in Rumors among Professionals: An Identity-based Interpretation</a></li>
 
