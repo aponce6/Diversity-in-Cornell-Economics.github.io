@@ -32,7 +32,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
         
 
 <div class="page-header">
-  <h2>Links to Resources on Diversity in Economics </h2>
+  <h2>Links to Resources and Research on Diversity in Economics </h2>
 </div>
 
 <div class="row-fluid">
@@ -77,6 +77,26 @@ Heather Antecol, Kelly Bedard, and Jenna Stearns. 2018. American Economic Review
 <br/>
 Abstract:
 Many skilled professional occupations are characterized by an early period of intensive skill accumulation and career establishment. Examples include law firm associates, surgical residents, and untenured faculty at research-intensive universities. High female exit rates are sometimes blamed on the inability of new mothers to survive the sustained negative productivity shock associated with childbearing and early childrearing in these environments. Gender-neutral family policies have been adopted in some professions in an attempt to ``level the playing field.'' The gender-neutral tenure clock stopping policies adopted by the majority of research-intensive universities in the United States in recent decades are an excellent example. But to date, there is no empirical evidence showing that these policies help women. Using a unique dataset on the universe of assistant professor hires at top-50 economics departments from 1980–2005, we show that the adoption of gender-neutral tenure clock stopping policies substantially reduced female tenure rates while substantially increasing male tenure rates. However, these policies do not reduce the probability that either men or women eventually earn tenure in the profession.
+
+<br/>
+<br/>
+
+Tatiana Avilova and Claudia Goldin. 2018.
+<li><a href="https://scholar.harvard.edu/files/goldin/files/nberversion_uwe_jan2018.pdf">What Can UWE Do for Economics?</a></li>
+
+<br/>
+Abstract:
+Men outnumber women as undergraduate economics majors by three to one nationwide. Even at the best research universities and liberal arts colleges men outnumber women by two to one or more. The Undergraduate Women in Economics Challenge was begun in 2015 as an RCT with 20 treatment schools and at least 30 control schools to evaluate whether better course information, mentoring, encouragement, career counseling, and more relevant instructional content could move the needle. Although the RCT is still in the field, results from several within treatment-school randomized trials demonstrate that uncomplicated and inexpensive interventions can substantially increase the interest of women to major in economics.
+
+<br/>
+<br/>
+
+Donna K. Ginther and Shulamit Kahn. 2004. Journal of Economic Perspectives.
+<li><a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330042162386">Women in Economics: Moving Up or Falling Off the Academic Career Ladder?</a></li>
+
+<br/>
+Abstract:
+The percentage of economics doctorates awarded to women increased from 8.7 percent in 1974 to 26.9 percent in 2000, according to data from the National Science Foundation (NSF) Survey of Earned Doctorates. This article considers whether the corresponding increases of women economists that one might expect as women move up the academic career ladder have occurred. A number of studies based on data through the 1980s find that women economists are less likely to be promoted to tenure than men (Kahn, 1993; Broder, 1993; McDowell, Singell and Ziliak, 1999, 2001) and that these differences are not fully explained by observable characteristics. Other recent studies on Sweden and the United Kingdom find that women are underrepresented in tenured academic ranks in economics there (Persson, 2002; Booth, Frank and Blackaby, 2002). However, relatively little is known about women economists’ academic employment outcomes in the United States during the most recent decade. Our study draws upon several empirical approaches and multiple data sets for the 1990s. We find that when compared with other academic disciplines, women in economics are less likely to get tenure and take longer to achieve it. Although gender differences in productivity and the effect of children on promotion partly explain women’s lesser chances of receiving tenure in economics, a significant portion of the gender promotion gap remains unexplained by observable characteristics.
 
 <br/>
 <br/>
