@@ -44,6 +44,38 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <br/>
 AEA draft of Best Practices for Diversifying Economic Quality: <li><a href="https://www.aeaweb.org/resources/best-practices">https://www.aeaweb.org/resources/best-practices</a></li>
 
+<br/>
+
+<div class="page-header">
+<h3>News Articles on Diversity in Economics (and the Lack Thereof)</h3>
+</div>
+
+Economist article about women in economics:
+<li><a href="https://www.economist.com/news/christmas-specials/21732699-professions-problem-women-could-be-problem-economics-itself-women-and">https://www.economist.com/news/christmas-specials/21732699-professions-problem-women-could-be-problem-economics-itself-women-and</a></li>
+
+<br/>
+New York Times article by Justin Wolfers about the lack of women in economics:
+<li><a href="https://www.nytimes.com/2018/02/02/business/why-womens-voices-are-scarce-in-economics.html">https://www.nytimes.com/2018/02/02/business/why-womens-voices-are-scarce-in-economics.html</a></li>
+
+<br/>
+New York Times article by Lisa Cook and Anna Gifty Opoku-Agyeman on the underrepresentation of black women in economics:
+<li><a href="https://www.nytimes.com/2019/09/30/opinion/economics-black-women.html">https://www.nytimes.com/2019/09/30/opinion/economics-black-women.html</a></li>
+
+<br/>
+Open letter on harassment and discrimination in economics:
+<li><a href="https://medium.com/@diversityinecon/a-letter-in-response-to-roland-fryers-resignation-from-the-aea-executive-committee-6761217abfa">https://medium.com/@diversityinecon/a-letter-in-response-to-roland-fryers-resignation-from-the-aea-executive-committee-6761217abfa</a></li>
+
+<br/>
+
+<div class="page-header">
+<h3>Research on Discrimination and/or Underrepresented Groups in Economics</h3>
+</div>
+
+Alice Wu. Forthcoming, Review of Economics and Statistics
+<li><a href="https://scholar.harvard.edu/files/alicewu/files/ejr2019.pdf">Gender Bias in Rumors among Professionals: An Identity-based Interpretation</a></li>
+
+<br/>
+
 <div class="page-header">
 <h3>Other Groups Working Toward Diversity in Economics</h3>
 </div>
@@ -79,25 +111,6 @@ Minnesota Center for Diversity in Economics:
 The Sadie Collective:
 <li><a href="https://www.sadiecollective.org/">https://www.sadiecollective.org/</a></li>
 
-<div class="page-header">
-<h3>News Articles on Diversity in Economics (and the Lack Thereof)</h3>
-</div>
-
-Economist article about women in economics:
-<li><a href="https://www.economist.com/news/christmas-specials/21732699-professions-problem-women-could-be-problem-economics-itself-women-and">https://www.economist.com/news/christmas-specials/21732699-professions-problem-women-could-be-problem-economics-itself-women-and</a></li>
-
-<br/>
-New York Times article by Justin Wolfers about the lack of women in economics:
-<li><a href="https://www.nytimes.com/2018/02/02/business/why-womens-voices-are-scarce-in-economics.html">https://www.nytimes.com/2018/02/02/business/why-womens-voices-are-scarce-in-economics.html</a></li>
-
-<br/>
-New York Times article by Lisa Cook and Anna Gifty Opoku-Agyeman on the underrepresentation of black women in economics:
-<li><a href="https://www.nytimes.com/2019/09/30/opinion/economics-black-women.html">https://www.nytimes.com/2019/09/30/opinion/economics-black-women.html</a></li>
-
-<br/>
-Open letter on harassment and discrimination in economics:
-<li><a href="https://medium.com/@diversityinecon/a-letter-in-response-to-roland-fryers-resignation-from-the-aea-executive-committee-6761217abfa">https://medium.com/@diversityinecon/a-letter-in-response-to-roland-fryers-resignation-from-the-aea-executive-committee-6761217abfa</a></li>
-	
 
     <br/>
     <br/>
