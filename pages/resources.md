@@ -71,6 +71,16 @@ Open letter on harassment and discrimination in economics:
 <h3>Research on Discrimination and/or Underrepresented Groups in Economics</h3>
 </div>
 
+Heather Antecol, Kelly Bedard, and Jenna Stearns. 2018. American Economic Review.
+<li><a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20160613">Equal but Inequitable: Who Benefits from Gender-Neutral Tenure Clock Stopping Policies?</a></li>
+
+<br/>
+Abstract:
+Many skilled professional occupations are characterized by an early period of intensive skill accumulation and career establishment. Examples include law firm associates, surgical residents, and untenured faculty at research-intensive universities. High female exit rates are sometimes blamed on the inability of new mothers to survive the sustained negative productivity shock associated with childbearing and early childrearing in these environments. Gender-neutral family policies have been adopted in some professions in an attempt to ``level the playing field.'' The gender-neutral tenure clock stopping policies adopted by the majority of research-intensive universities in the United States in recent decades are an excellent example. But to date, there is no empirical evidence showing that these policies help women. Using a unique dataset on the universe of assistant professor hires at top-50 economics departments from 1980–2005, we show that the adoption of gender-neutral tenure clock stopping policies substantially reduced female tenure rates while substantially increasing male tenure rates. However, these policies do not reduce the probability that either men or women eventually earn tenure in the profession.
+
+<br/>
+<br/>
+
 Erin Hengel. 2019.
 <li><a href="http://www.erinhengel.com/research/publishing_female.pdf">Publishing while Female</a></li>
 
@@ -82,6 +92,8 @@ the model suggests higher writing standards could cause senior female economists
 present in male-authored papers, I document evidence that the cost to women of publishing a paper is much higher than it is for men: female authors spend 3–6 months longer under review. As a final exercise, I show women gradually anticipate higher writing standards in peer review by writing more readably before it, suggesting they probably respond to biased treatment in ways that inadvertently disguise it as voluntary choice.
 
 <br/>
+<br/>
+
 Erin Hengel and Eunyoung Moon. 2019.
 <li><a href="https://erinhengel.github.io/Gender-Quality/quality.pdf">Gender and Quality at Top Economics Journals</a></li>
 
@@ -90,6 +102,8 @@ Abstract:
 We show articles published in “top-five” economics journals authored by men are lower quality—as measured by citations—than articles those same journals publish by women. Additionally, the quality of a man’s paper rises when he co-authors with the opposite sex whereas the quality of a woman’s paper falls. Under strong—but reasonable—assumptions, our findings imply top economics journals hold female-authored papers to higher standards and, as a result, fail to publish the best research. They also suggest that authors of both sexes may forgo co-authoring opportunities with women in order to pursue less productive collaborations with men.
 
 <br/>
+<br/>
+
 Heather Sarsons. 2019.
 <li><a href="https://drive.google.com/open?id=1PUFdQAgmKcHK1NXm-bQKUNdn-oo_cGr5">Gender Differences in Recognition for Group Work</a></li>
 
@@ -98,6 +112,8 @@ Abstract:
 Does gender influence how credit for group work is allocated? Using data from academic economists’ CVs, I test whether coauthored and solo-authored publications matter differently for tenure for men and women. Because coauthors are listed alphabetically in economics, coauthored papers do not provide specific information about each contributor’s skills or ability. Solo-authored papers, on the other hand, provide a relatively clear signal of ability. I find that conditional on publication quality and other observables, men are tenured at roughly the same rate regardless of whether they coauthor or solo-author. Women, however, become less likely to receive tenure the more they coauthor. The result is most pronounced for women coauthoring with men and less pronounced among women who coauthor with other women. An online experiment finds similar patterns when women perform male-stereotyped tasks. However, women receive equal credit for joint work with men when the task is perceived to be gender-neutral. Taken together, the results suggest that gender and stereotypes influence the allocation of credit for group work.
 
 <br/>
+<br/>
+
 Alice Wu. Forthcoming, Review of Economics and Statistics
 <li><a href="https://scholar.harvard.edu/files/alicewu/files/ejr2019.pdf">Gender Bias in Rumors among Professionals: An Identity-based Interpretation</a></li>
 
