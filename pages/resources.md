@@ -103,7 +103,7 @@ We are evaluating the success of the program using a randomized trial. Applicant
 There have now been three cohorts of program participants, in 2004, 2006, and 2008. A fourth cohort begins in January 2010, and another is planned for January 2012. This paper thus presents an interim assessment. We find that CeMENT significantly increased publication rates and successful grant applications. While it is too early to tell what the eventual effect on tenure will be, the results suggest that this program may be a useful way to help women advance in the economics profession. 
 
 <br/>
-<br/>
+<br/>	
 
 Donna K. Ginther and Shulamit Kahn. 2004. Journal of Economic Perspectives.
 <li><a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330042162386">Women in Economics: Moving Up or Falling Off the Academic Career Ladder?</a></li>
@@ -134,6 +134,16 @@ Erin Hengel and Eunyoung Moon. 2019.
 <br/>
 Abstract:
 We show articles published in “top-five” economics journals authored by men are lower quality—as measured by citations—than articles those same journals publish by women. Additionally, the quality of a man’s paper rises when he co-authors with the opposite sex whereas the quality of a woman’s paper falls. Under strong—but reasonable—assumptions, our findings imply top economics journals hold female-authored papers to higher standards and, as a result, fail to publish the best research. They also suggest that authors of both sexes may forgo co-authoring opportunities with women in order to pursue less productive collaborations with men.
+
+<br/>
+<br/>
+
+David Neumark and Rosella Gardecki. 1998. Journal of Human Resources.
+<li><a href="https://ideas.repec.org/a/uwp/jhriss/v33y1998i1p220-246.html">Women Helping Women? Role Model and Mentoring Effects on Female Ph.D. Students in Economics</a></li>
+
+<br/>
+Abstract:
+One potential method to increase the success of female graduate students in economics is to encourage mentoring efforts between these students and female faculty members, via increased hiring of female faculty, or having female faculty serve as dissertation chairs for female students. This paper examines whether either of these strategies results in more successful outcomes for female graduate students, using survey information on female graduate students and faculties of Ph.D.-producing economics departments. The empirical evidence provides virtually no support for the hypothesis that initial job placements for female graduate students are improved by adding female faculty members, or by having a female dissertation chair. However, female faculty members appear to reduce time spent in graduate school by female students.
 
 <br/>
 <br/>
