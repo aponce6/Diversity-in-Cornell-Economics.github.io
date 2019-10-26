@@ -44,6 +44,10 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <br/>
 AEA draft of Best Practices for Diversifying Economic Quality: <li><a href="https://www.aeaweb.org/resources/best-practices">https://www.aeaweb.org/resources/best-practices</a></li>
 
+<div class="page-header">
+<h3>Other Groups Working Toward Diversity in Economics</h3>
+</div>
+
 <br/>
 AEA Committee on the Status of Women in the Economics Profession (CSWEP):
 <li><a href="https://www.aeaweb.org/about-aea/committees/cswep">https://www.aeaweb.org/about-aea/committees/cswep</a></li>
@@ -56,6 +60,21 @@ AEA Committee on the Status of Minority Groups in the Economics Profession (CSMG
 AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession:
 <li><a href="https://www.aeaweb.org/about-aea/committees/aealgbtq">https://www.aeaweb.org/about-aea/committees/aealgbtq</a></li>
 
+<br/>
+Women in Economics at Berkeley:
+<li><a href="http://calwomenofecon.weebly.com/">http://calwomenofecon.weebly.com/</a></li>
+
+<br/>
+Harvard Graduate Women in Econ:
+<li><a href="https://harvardgwe.com/">https://harvardgwe.com/</a></li>
+
+<br/>
+Minnesota Center for Diversity in Economics:
+<li><a href="https://www.stkate.edu/academics/centers-and-institutes/mcde">https://www.stkate.edu/academics/centers-and-institutes/mcde</a></li>
+
+<br/>
+The Sadie Collective:
+<li><a href="https://www.sadiecollective.org/">https://www.sadiecollective.org/</a></li>
 	
 
     <br/>
