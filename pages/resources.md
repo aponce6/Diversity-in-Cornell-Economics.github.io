@@ -75,16 +75,35 @@ Erin Hengel. 2019.
 <li><a href="http://www.erinhengel.com/research/publishing_female.pdf">Publishing while Female</a></li>
 
 <br/>
+Abstract:
+Conditional on the quality of a paper, are women held to higher writing standards in academic peer review? Using readability scores to investigate, I find: (i) female-authored papers are 1–6 percent better written than equivalent papers by men; (ii) the gap widens during peer
+review; (iii) women improve their writing as they publish more papers (but men do not). Using a subjective expected utility framework, I show that tougher editorial standards are most obviously consistent with authors’ observed choices. A conservative estimate derived from
+the model suggests higher writing standards could cause senior female economists to write at least 7 percent more clearly than they otherwise would. To rule out a remaining alternative that a female comparative advantage in writing well compensates for some other quality
+present in male-authored papers, I document evidence that the cost to women of publishing a paper is much higher than it is for men: female authors spend 3–6 months longer under review. As a final exercise, I show women gradually anticipate higher writing standards in peer review by writing more readably before it, suggesting they probably respond to biased treatment in ways that inadvertently disguise it as voluntary choice.
+
+<br/>
 Erin Hengel and Eunyoung Moon. 2019.
 <li><a href="https://erinhengel.github.io/Gender-Quality/quality.pdf">Gender and Quality at Top Economics Journals</a></li>
 
 <br/>
+Abstract:
+We show articles published in “top-five” economics journals authored by men are lower quality—as measured by citations—than articles those same journals publish by women. Additionally, the quality of a man’s paper rises when he co-authors with the opposite sex whereas the quality of a woman’s paper falls. Under strong—but reasonable—assumptions, our findings imply top economics journals hold female-authored papers to higher standards and, as a result, fail to publish the best research. They also suggest that authors of both sexes may forgo co-authoring opportunities with women in order to pursue less productive collaborations with men.
+
+<br/>
 Heather Sarsons. 2019.
-<li>Ka href="https://drive.google.com/open?id=1PUFdQAgmKcHK1NXm-bQKUNdn-oo_cGr5">Gender Differences in Recognition for Group Work</a></li>
+<li><a href="https://drive.google.com/open?id=1PUFdQAgmKcHK1NXm-bQKUNdn-oo_cGr5">Gender Differences in Recognition for Group Work</a></li>
+
+<br/>
+Abstract:
+Does gender influence how credit for group work is allocated? Using data from academic economists’ CVs, I test whether coauthored and solo-authored publications matter differently for tenure for men and women. Because coauthors are listed alphabetically in economics, coauthored papers do not provide specific information about each contributor’s skills or ability. Solo-authored papers, on the other hand, provide a relatively clear signal of ability. I find that conditional on publication quality and other observables, men are tenured at roughly the same rate regardless of whether they coauthor or solo-author. Women, however, become less likely to receive tenure the more they coauthor. The result is most pronounced for women coauthoring with men and less pronounced among women who coauthor with other women. An online experiment finds similar patterns when women perform male-stereotyped tasks. However, women receive equal credit for joint work with men when the task is perceived to be gender-neutral. Taken together, the results suggest that gender and stereotypes influence the allocation of credit for group work.
 
 <br/>
 Alice Wu. Forthcoming, Review of Economics and Statistics
 <li><a href="https://scholar.harvard.edu/files/alicewu/files/ejr2019.pdf">Gender Bias in Rumors among Professionals: An Identity-based Interpretation</a></li>
+
+<br/>
+Abstract:
+This paper measures gender bias in what people say about women versus men in an anonymous online professional forum. I study the content of posts that refer to each gender, and the transitions in the topics of discussion that occur between consecutive posts in a thread once attention turns to one gender or the other. I find that discussions about women tend to highlight their personal characteristics (such as physical appearance or family circumstances) rather than their professional accomplishments. Posts about women are also more likely to lead to deviations from professional topics than posts about men. I interpret these findings through a model that highlights posters’ incentives to boost their own identities relative to the underrepresented out-group in a profession.
 
 <br/>
 
