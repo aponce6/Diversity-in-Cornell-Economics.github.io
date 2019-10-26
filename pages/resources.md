@@ -91,6 +91,20 @@ Men outnumber women as undergraduate economics majors by three to one nationwide
 <br/>
 <br/>
 
+Francine D. Blau, Janet M. Currie, Rachel T.A. Croson, and Donna K. Ginther. 2010. American Economic Review Papers and Proceedings.
+<li><a href="http://www.people.ku.edu/~dginther/Publications/AER_May2010.pdf">Can Mentoring Help Female Assistant Professors? Interim Results from a Randomized Trial</a></li>
+
+<br/>
+Abstract:
+Since its inception in 1971, the American Economic Association (AEA) Committee on the Status of Women in the Economics Profession (CSWEP) has tracked the number of women at various ranks in the profession. CSWEP’s statistics indicate a “leaky pipeline” from PhD programs into tenured academic jobs. The significant underrepresentation of women in economics at the tenured level prompted CSWEP to establish the CSWEP Mentoring Program (CeMENT) with the support of the National Science Foundation’s (NSF) ADVANCE program and the AEA. The program is aimed at assisting female junior faculty in preparing themselves for the tenure hurdle.
+<br/>
+We are evaluating the success of the program using a randomized trial. Applicants were randomly assigned to be treatments (mentees who attended the workshop) or controls who did not participate. Our study will compare the academic performance (i.e., papers, grants) of these two groups. To our knowledge, this randomized trial of a mentoring program is unique in academia.
+<br/>
+There have now been three cohorts of program participants, in 2004, 2006, and 2008. A fourth cohort begins in January 2010, and another is planned for January 2012. This paper thus presents an interim assessment. We find that CeMENT significantly increased publication rates and successful grant applications. While it is too early to tell what the eventual effect on tenure will be, the results suggest that this program may be a useful way to help women advance in the economics profession. 
+
+<br/>
+<br/>
+
 Donna K. Ginther and Shulamit Kahn. 2004. Journal of Economic Perspectives.
 <li><a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330042162386">Women in Economics: Moving Up or Falling Off the Academic Career Ladder?</a></li>
 
