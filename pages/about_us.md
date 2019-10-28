@@ -16,7 +16,7 @@
   
   </div>
 </div>
-	
+</html>
         
  <p><center><img src="../assets/burton.jpg" alt="" width="30%"/>
 
@@ -86,8 +86,3 @@
 
      
   <span id="lastModified"></span>
-
-  
-
-    
-</html>
