@@ -18,7 +18,7 @@
 </div>
 	
         
- <p><center><img src="../assets/burton.jpg" alt="" width="30%"/></p>
+ <p><center><img src="../assets/burton.jpg" alt="" width="30%"/>
 
 <p><strong>Anne Burton</strong> is a Ph.D. candidate in the Economics program. Her research fields are health economics, public economics, and economics of crime. </p>
 
