@@ -13,9 +13,32 @@
 
 <div class="row-fluid">
   <div class="span12">
-    Coming soon!
+  
+  <div class="span2">
+        <a href="../assets/burton.jpg">
+            <img src="../assets/burton.jpg"
+                  title="Anne Burton" alt="Anne Burton"/></a>
+        </div>
+
+    Anne Burton is a Ph.D. candidate in the Economics program. Her research fields are health economics, public economics, and economics of crime.
+    <br/>
+    <li><a href="https://annemburton.com>Anne's website</a></li>
     <br/>
     <br/>
+    
+    <div class="span2">
+        <a href="../assets/byrne.jpg">
+            <img src="../assets/byrne.jpg"
+                  title="Anne Byrne" alt="Anne Byrne"/></a>
+        </div>
+
+    Anne Byrne is a Ph.D. candidate in the Applied Economics and Management program. She researches topics in food markets, particularly food access, food assistance programs, and behavioral phenomena related to food acquisition.
+    <br/>
+    <li><a href="https://www.econanne.com>Anne's website</a></li>
+    <br/>
+    <br/>
+
+    
     If you would like to join us, feel free to reach out at
     <br/>
     <br/>
