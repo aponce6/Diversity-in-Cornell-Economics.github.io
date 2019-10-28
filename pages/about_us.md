@@ -14,18 +14,9 @@
 <div class="row-fluid">
   <div class="span12">
   
-  
-  <!--
-  <div class="span2">
-        <a href="../assets/burton.jpg">
-            <img src="../assets/burton.jpg"
-                  title="Anne Burton" alt="Anne Burton"/></a>
-        </div>
+ 
         
-        -->
-        
-     <p><center>
-<img src="../assets/burton.jpg" alt="" width="30%"/></p>
+ <p><center><img src="../assets/burton.jpg" alt="" width="30%"/></p>
 
 <p><strong>Anne Burton</strong> is a Ph.D. candidate in the Economics program. Her research fields are health economics, public economics, and economics of crime. </p>
 <br/>
