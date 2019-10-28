@@ -21,7 +21,7 @@
  <p><center><img src="../assets/burton.jpg" alt="" width="30%"/></p>
 
 <p><strong>Anne Burton</strong> is a Ph.D. candidate in the Economics program. Her research fields are health economics, public economics, and economics of crime. </p>
-<br/>
+
  <a href="https://annemburton.com">Anne's website</a>
     <br/>
     <br/>
@@ -30,7 +30,7 @@
     
     
  <p><strong>Anne Byrne</strong> is a Ph.D. candidate in the Applied Economics and Management program. She researches topics in food markets, particularly food access, food assistance programs, and behavioral phenomena related to food acquisition. </p>
-    <br/>
+
     <a href="https://www.econanne.com">Anne's website</a>
     <br/>
     <br/>
