@@ -34,14 +34,14 @@
     <br/>
     <br/>
 
-<p><img src="../assets/crespin.jpg" alt="" width="30%/></p>
+<p><img src="../assets/crespin.jpg" alt="" width="30%"/></p>
 
 <p><strong>Rene Crespin</strong> is a Ph.D. student in the Policy Analysis and Management program. His research... </p>
 
 <br/>
 <br/>
 
-<p><img src="../assets/phillips.jpg" alt="" width="30%/></p>
+<p><img src="../assets/phillips.jpg" alt="" width="30%"/></p>
 
 <p><strong>Grace Phillips</strong> is a Ph.D. student in the Economics program. Her research ... </p>
 
