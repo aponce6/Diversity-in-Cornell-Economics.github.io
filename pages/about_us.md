@@ -41,9 +41,33 @@
 <br/>
 <br/>
 
-<p><img src="../assets/phillips.jpg" alt="" width="30%"/></p>
+<p><img src="../assets/phillips.png" alt="" width="30%"/></p>
 
 <p><strong>Grace Phillips</strong> is a Ph.D. student in the Economics program. Her research ... </p>
+
+<br/>
+<br/>
+
+<p><img src="../assets/wasser.png" alt="" width="30%"/></p>
+
+<p><strong>David Wasser</strong> is a Ph.D. student in the Economics program. He researches the intersection of labor market monopsony and public policy. </p>
+
+<a href="https://www.davidnwasser.com">David's website</a>
+
+<br/>
+<br/>
+
+<p><img src="../assets/wu.jpg" alt="" width="30%"/></p>
+
+<p><strong>Joy Wu</strong> is a Ph.D. candidate in the Applied Economics and Management program. Her research ... </p>
+
+<br/>
+<br/>
+
+<p><img src="../assets/yeh.jpg" alt="" width="30%"/></p>
+
+<p><strong>Adeline Yeh</strong> is a Ph.D. candidate in the Applied Economics and Management program. Her research ... </p>
+
 
 <br/>
 <br/>
