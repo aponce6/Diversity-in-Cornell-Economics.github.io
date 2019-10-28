@@ -23,10 +23,13 @@
         </div>
         
         -->
+        
+     <p><center>
+<img src="../assets/burton.jpg" alt="" width="30%"/></p>
 
-    Anne Burton is a Ph.D. candidate in the Economics program. Her research fields are health economics, public economics, and economics of crime.
-    <br/>
-    <li><a href="https://annemburton.com">Anne's website</a></li>
+<p><strong>Anne Burton</strong> is a Ph.D. candidate in the Economics program. Her research fields are health economics, public economics, and economics of crime. 
+<br/>
+ <a href="https://annemburton.com">Anne's website</a></p>
     <br/>
     <br/>
     
