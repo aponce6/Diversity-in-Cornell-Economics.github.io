@@ -14,7 +14,9 @@
 <div class="row-fluid">
   <div class="span12">
   
- 
+  </div>
+</div>
+	
         
  <p><center><img src="../assets/burton.jpg" alt="" width="30%"/></p>
 
@@ -39,9 +41,7 @@
     <br/>
     speakingeconomics@gmail.com
 
-  </div>
-</div>
-
+ 
 
 <br/>
 <br/>
