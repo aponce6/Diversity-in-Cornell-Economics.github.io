@@ -121,7 +121,7 @@ h1, h2, h3, h4, h5 {
    color:#f7f7f7;
 }
 .navbar-link:hover {
-   color:#f7f7f7;
+   color:#222222;
 }
 /*Change color of your website name in navigation bar
 .navbar .brand {
@@ -136,4 +136,4 @@ h1, h2, h3, h4, h5 {
 
 /*I THNK one of these will change the color of a link in the navbar when you hover over it*/
 .navbar .nav>li>a:focus,.navbar .nav>li>a:hover{background-color:transparent;color:#f7f7f7;text-decoration:none;}
-.navbar .nav>.active>a,.navbar .nav>.active>a:hover,.navbar .nav>.active>a:focus{color:#f7f7f7;text-decoration:none;background-color:#f7f7f7;-webkit-box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);-moz-box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);}
+.navbar .nav>.active>a,.navbar .nav>.active>a:hover,.navbar .nav>.active>a:focus{color:#222222;text-decoration:none;background-color:#f7f7f7;-webkit-box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);-moz-box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);}
