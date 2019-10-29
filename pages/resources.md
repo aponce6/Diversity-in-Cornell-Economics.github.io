@@ -80,6 +80,7 @@ Many skilled professional occupations are characterized by an early period of in
 
 <br/>
 <br/>
+<br/>
 
 Tatiana Avilova and Claudia Goldin. 2018.
 <li><a href="https://scholar.harvard.edu/files/goldin/files/nberversion_uwe_jan2018.pdf">What Can UWE Do for Economics?</a></li>
@@ -88,6 +89,7 @@ Tatiana Avilova and Claudia Goldin. 2018.
 Abstract:
 Men outnumber women as undergraduate economics majors by three to one nationwide. Even at the best research universities and liberal arts colleges men outnumber women by two to one or more. The Undergraduate Women in Economics Challenge was begun in 2015 as an RCT with 20 treatment schools and at least 30 control schools to evaluate whether better course information, mentoring, encouragement, career counseling, and more relevant instructional content could move the needle. Although the RCT is still in the field, results from several within treatment-school randomized trials demonstrate that uncomplicated and inexpensive interventions can substantially increase the interest of women to major in economics.
 
+<br/>
 <br/>
 <br/>
 
@@ -106,6 +108,7 @@ There have now been three cohorts of program participants, in 2004, 2006, and 20
 
 <br/>
 <br/>	
+<br/>
 
 David Card, Stefano DellaVigna, Patricia Funk, and Nagore Iriberri. Forthcoming, Quarterly Journal of Economics.
 <li><a href="https://economics.harvard.edu/files/economics/files/ms30505.pdf">Are Referees and Editors in Economics Gender Neutral?</a></li>
@@ -113,6 +116,7 @@ David Card, Stefano DellaVigna, Patricia Funk, and Nagore Iriberri. Forthcoming,
 <br/>
 Abstract:
 We study the role of gender in the evaluation of economic research using submissions to four leading journals. We find that referee gender has no effect on the relative assessment of female- versus male-authored papers, suggesting that any differential biases of male referees are negligible. To determine whether referees as a whole impose different standards for female authors, we compare citations for female and male-authored papers, holding constant referee evaluations and other characteristics. We find that female-authored papers receive about 25% more citations than observably similar male-authored papers. Editors largely follow the referees, resulting in a 1.7 percentage point lower probability of a revise and resubmit verdict for papers with female authors relative to a citation-maximizing benchmark. In their desk rejection decisions, editors treat female authors more favorably, though they still impose a higher bar than would be implied by citation-maximization. We find no differences in the informativeness of female versus male referees, or in the weight that editors place on the recommendations of female versus male referees. We also find no differences in editorial delays for female versus male-authored papers.
+<br/>
 <br/>
 <br/>
 
@@ -125,6 +129,7 @@ We document the representation of female economists on the conference programs a
 
 <br/>
 <br/>
+<br/>
 
 Donna K. Ginther and Shulamit Kahn. 2004. Journal of Economic Perspectives.
 <li><a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330042162386">Women in Economics: Moving Up or Falling Off the Academic Career Ladder?</a></li>
@@ -133,6 +138,7 @@ Donna K. Ginther and Shulamit Kahn. 2004. Journal of Economic Perspectives.
 Abstract:
 The percentage of economics doctorates awarded to women increased from 8.7 percent in 1974 to 26.9 percent in 2000, according to data from the National Science Foundation (NSF) Survey of Earned Doctorates. This article considers whether the corresponding increases of women economists that one might expect as women move up the academic career ladder have occurred. A number of studies based on data through the 1980s find that women economists are less likely to be promoted to tenure than men (Kahn, 1993; Broder, 1993; McDowell, Singell and Ziliak, 1999, 2001) and that these differences are not fully explained by observable characteristics. Other recent studies on Sweden and the United Kingdom find that women are underrepresented in tenured academic ranks in economics there (Persson, 2002; Booth, Frank and Blackaby, 2002). However, relatively little is known about women economists’ academic employment outcomes in the United States during the most recent decade. Our study draws upon several empirical approaches and multiple data sets for the 1990s. We find that when compared with other academic disciplines, women in economics are less likely to get tenure and take longer to achieve it. Although gender differences in productivity and the effect of children on promotion partly explain women’s lesser chances of receiving tenure in economics, a significant portion of the gender promotion gap remains unexplained by observable characteristics.
 
+<br/>
 <br/>
 <br/>
 
@@ -148,6 +154,7 @@ present in male-authored papers, I document evidence that the cost to women of p
 
 <br/>
 <br/>
+<br/>
 
 Erin Hengel and Eunyoung Moon. 2019.
 <li><a href="https://erinhengel.github.io/Gender-Quality/quality.pdf">Gender and Quality at Top Economics Journals</a></li>
@@ -156,6 +163,7 @@ Erin Hengel and Eunyoung Moon. 2019.
 Abstract:
 We show articles published in “top-five” economics journals authored by men are lower quality—as measured by citations—than articles those same journals publish by women. Additionally, the quality of a man’s paper rises when he co-authors with the opposite sex whereas the quality of a woman’s paper falls. Under strong—but reasonable—assumptions, our findings imply top economics journals hold female-authored papers to higher standards and, as a result, fail to publish the best research. They also suggest that authors of both sexes may forgo co-authoring opportunities with women in order to pursue less productive collaborations with men.
 
+<br/>
 <br/>
 <br/>
 
@@ -168,6 +176,7 @@ We study gender differences in the evaluation of submissions to economics confer
 
 <br/>
 <br/>
+<br/>
 
 David Neumark and Rosella Gardecki. 1998. Journal of Human Resources.
 <li><a href="https://ideas.repec.org/a/uwp/jhriss/v33y1998i1p220-246.html">Women Helping Women? Role Model and Mentoring Effects on Female Ph.D. Students in Economics</a></li>
@@ -178,6 +187,7 @@ One potential method to increase the success of female graduate students in econ
 
 <br/>
 <br/>
+<br/>
 
 Heather Sarsons. 2019.
 <li><a href="https://drive.google.com/open?id=1PUFdQAgmKcHK1NXm-bQKUNdn-oo_cGr5">Gender Differences in Recognition for Group Work</a></li>
@@ -186,6 +196,7 @@ Heather Sarsons. 2019.
 Abstract:
 Does gender influence how credit for group work is allocated? Using data from academic economists’ CVs, I test whether coauthored and solo-authored publications matter differently for tenure for men and women. Because coauthors are listed alphabetically in economics, coauthored papers do not provide specific information about each contributor’s skills or ability. Solo-authored papers, on the other hand, provide a relatively clear signal of ability. I find that conditional on publication quality and other observables, men are tenured at roughly the same rate regardless of whether they coauthor or solo-author. Women, however, become less likely to receive tenure the more they coauthor. The result is most pronounced for women coauthoring with men and less pronounced among women who coauthor with other women. An online experiment finds similar patterns when women perform male-stereotyped tasks. However, women receive equal credit for joint work with men when the task is perceived to be gender-neutral. Taken together, the results suggest that gender and stereotypes influence the allocation of credit for group work.
 
+<br/>
 <br/>
 <br/>
 
