@@ -244,6 +244,18 @@ Minnesota Center for Diversity in Economics:
 The Sadie Collective:
 <li><a href="https://www.sadiecollective.org/">https://www.sadiecollective.org/</a></li>
 
+<br/>
+UC Irvine Women in Econ
+<li><a href="https://twitter.com/econwomen_uci">https://twitter.com/econwomen_uci</a></li>
+
+<br/>
+Diversifying Economics Network
+<li><a href="https://diversifyeconomics.wixsite.com/home">https://diversifyeconomics.wixsite.com/home</a></li>
+
+<br/>
+The Black Economists Network
+<li><a href="https://twitter.com/TheBlackEcon_">https://twitter.com/TheBlackEcon_</a></li>
+
 
     <br/>
     <br/>
