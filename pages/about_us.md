@@ -23,6 +23,7 @@
 <p><strong>Anne Burton</strong> is a Ph.D. candidate in the Economics program. Her research fields are health economics, public economics, and economics of crime. </p>
 
 <a href="https://annemburton.com">Anne's website</a>
+<br/>
 <a href="https://twitter.com/anne_m_burton">Twitter (@anne_m_burton)</a>
 
     <br/>
