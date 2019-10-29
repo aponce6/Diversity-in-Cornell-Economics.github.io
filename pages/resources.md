@@ -105,14 +105,12 @@ There have now been three cohorts of program participants, in 2004, 2006, and 20
 <br/>
 <br/>	
 
-David Card, Stefano DellaVigna, Patricia Funk, and Nagore Iriberri. 2019.
-<li><a href="https://eml.berkeley.edu/~sdellavi/wp/journals-gender-qje-Jun2019.pdf">Are Referees and Editors in Economics Gender Neutral?</a></li>
+David Card, Stefano DellaVigna, Patricia Funk, and Nagore Iriberri. Forthcoming, Quarterly Journal of Economics.
+<li><a href="https://economics.harvard.edu/files/economics/files/ms30505.pdf">Are Referees and Editors in Economics Gender Neutral?</a></li>
 
 <br/>
 Abstract:
-We study the role of gender in the evaluation of economic research using submissions to four leading journals. We find that referee gender has no effect on the relative assessment of female- versus male-authored papers, suggesting that any differential biases of male referees
-are negligible. To determine whether referees as a whole impose different standards for female authors, we compare citations for female and male-authored papers, holding constant referee evaluations and other characteristics. We find that female-authored papers receive about 25\% more citations than observably similar male-authored papers. Editors largely follow the referees, resulting in a 6 percentage point lower probability of a revise and resubmit verdict for female-authored papers relative to a citation-maximizing benchmark. In their desk rejection decisions, editors treat female authors more favorably, though they still impose a higher bar than would be implied by citation-maximization. We find no differences in the informativeness of female versus male referees, or in the weight that editors place on the recommendations of female versus male referees. We also find no differences in editorial delays for female versus male-authored papers.
-
+We study the role of gender in the evaluation of economic research using submissions to four leading journals. We find that referee gender has no effect on the relative assessment of female- versus male-authored papers, suggesting that any differential biases of male referees are negligible. To determine whether referees as a whole impose different standards for female authors, we compare citations for female and male-authored papers, holding constant referee evaluations and other characteristics. We find that female-authored papers receive about 25% more citations than observably similar male-authored papers. Editors largely follow the referees, resulting in a 1.7 percentage point lower probability of a revise and resubmit verdict for papers with female authors relative to a citation-maximizing benchmark. In their desk rejection decisions, editors treat female authors more favorably, though they still impose a higher bar than would be implied by citation-maximization. We find no differences in the informativeness of female versus male referees, or in the weight that editors place on the recommendations of female versus male referees. We also find no differences in editorial delays for female versus male-authored papers.
 <br/>
 <br/>
 
