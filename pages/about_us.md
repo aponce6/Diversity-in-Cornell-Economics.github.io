@@ -42,9 +42,9 @@
 
 <p><img src="../assets/crespin.jpg" alt="" width="30%"/></p>
 
-<p><strong>Rene Crespin</strong> is a Ph.D. student in the Policy Analysis and Management program. His research... </p>
+<p><strong>Ren&eacute;' Crespin</strong> is a Ph.D. student in the Policy Analysis and Management program. His research... </p>
 
-<a href="https://twitter.com/Crespin_Rene">Rene's Twitter (@Crespin_Rene)</a>
+<a href="https://twitter.com/Crespin_Rene">Ren&eacute;'s Twitter (@Crespin_Rene)</a>
 
 <br/>
 <br/>
