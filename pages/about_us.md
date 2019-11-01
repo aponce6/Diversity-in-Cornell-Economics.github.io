@@ -49,7 +49,7 @@
 <br/>
 <br/>
 
-<p><img src="../assets/dodini.jpg" alt="" width="30%/></p>
+<p><img src="../assets/dodini.jpg" alt="" width="30%"/></p>
 
 <p><strong>Sam Dodini</strong> is a Ph.D. student in the Policy Analysis and Management program. His research interests are broad but mainly focused on worker incentives, labor market institutions, education, and the effects of public expenditures on wellbeing. </p>
 
