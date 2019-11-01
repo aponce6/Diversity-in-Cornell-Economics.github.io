@@ -269,7 +269,7 @@ The Black Economists Network:
 
 <br/>
 Diversity in Economics (at Erasmus School of Economics):
-<li><ar href="https://twitter.com/DiversityinEcon">https://twitter.com/DiversityinEcon</a></li>
+<li><a href="https://twitter.com/DiversityinEcon">https://twitter.com/DiversityinEcon</a></li>
 
 
     <br/>
