@@ -189,6 +189,17 @@ One potential method to increase the success of female graduate students in econ
 <br/>
 <br/>
 
+Catherine Porter and Danila Serra. Forthcoming, American Economic Journal: Applied Economics.
+<li><a href="http://people.tamu.edu/~dserra/WP_PorterSerra_FemaleRoleModels_July2019.pdf">Gender Differences in the Choice of Major: The Importance of Female Role Models</a></li>
+
+<br/>
+Abstract:
+We conducted a field experiment aimed at increasing the percentage of women majoring in economics. We exposed students enrolled in introductory classes to successful and charismatic women who majored in economics at the same university. The intervention significantly impacted female students’ enrollment in further economics classes, increasing their likelihood to major in economics by 8 percentage points. This is a large effect, given that only 9 percent of women were majoring in economics at baseline. Since the impacted women were previously planning to major in lower-earning fields, our low-cost intervention may have a positive effect on their future incomes.
+
+<br/>
+<br/>
+<br/>
+
 Heather Sarsons. 2019.
 <li><a href="https://drive.google.com/open?id=1PUFdQAgmKcHK1NXm-bQKUNdn-oo_cGr5">Gender Differences in Recognition for Group Work</a></li>
 
