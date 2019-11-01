@@ -256,16 +256,20 @@ The Sadie Collective:
 <li><a href="https://www.sadiecollective.org/">https://www.sadiecollective.org/</a></li>
 
 <br/>
-UC Irvine Women in Econ
+UC Irvine Women in Econ:
 <li><a href="https://twitter.com/econwomen_uci">https://twitter.com/econwomen_uci</a></li>
 
 <br/>
-Diversifying Economics Network
+Diversifying Economics Network:
 <li><a href="https://diversifyeconomics.wixsite.com/home">https://diversifyeconomics.wixsite.com/home</a></li>
 
 <br/>
-The Black Economists Network
+The Black Economists Network:
 <li><a href="https://twitter.com/TheBlackEcon_">https://twitter.com/TheBlackEcon_</a></li>
+
+<br/>
+Diversity in Economics (at Erasmus School of Economics):
+<li><ar href="https://twitter.com/DiversityinEcon">https://twitter.com/DiversityinEcon</a></li>
 
 
     <br/>
