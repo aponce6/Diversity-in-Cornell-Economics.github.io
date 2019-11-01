@@ -218,6 +218,9 @@ Alice Wu. Forthcoming, Review of Economics and Statistics
 Abstract:
 This paper measures gender bias in what people say about women versus men in an anonymous online professional forum. I study the content of posts that refer to each gender, and the transitions in the topics of discussion that occur between consecutive posts in a thread once attention turns to one gender or the other. I find that discussions about women tend to highlight their personal characteristics (such as physical appearance or family circumstances) rather than their professional accomplishments. Posts about women are also more likely to lead to deviations from professional topics than posts about men. I interpret these findings through a model that highlights posters’ incentives to boost their own identities relative to the underrepresented out-group in a profession.
 
+
+    <br/>
+    <br/>
     <br/>
     <br/>
     If you have any suggestions for resources or research to include, feel free to email us at
