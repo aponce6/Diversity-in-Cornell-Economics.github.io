@@ -18,7 +18,7 @@
 </div>
 </html>
         
- <p><center><img src="../assets/burton.jpg" alt="" width="30%"/>
+ <p><center><img src="../assets/burton.jpg" alt="" width="30%"/></p>
 
 <p><strong>Anne Burton</strong> is a Ph.D. candidate in the Economics program. Her research focuses on the social welfare implications of risky health behaviors and crime. </p>
 
