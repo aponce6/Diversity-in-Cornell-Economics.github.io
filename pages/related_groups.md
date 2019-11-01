@@ -50,6 +50,14 @@ AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession:
 <li><a href="https://www.aeaweb.org/about-aea/committees/aealgbtq">https://www.aeaweb.org/about-aea/committees/aealgbtq</a></li>
 
 <br/>
+American Society of Hispanic Economists (ASHE):
+<li><a href="https://asheweb.org/"https://asheweb.org/</a></li>
+
+<br/>
+National Economic Association (NEA):
+<li><a href="https://www.neaecon.org/">https://www.neaecon.org/</a></li>
+
+<br/>
 Diversifying Economic Quality (Div.E.Q.):
 <li><a href="http://diversifyingecon.org/index.php/Main_Page">http://diversifyingecon.org/index.php/Main_Page</a></li>
 
