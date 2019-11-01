@@ -51,7 +51,7 @@ AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession:
 
 <br/>
 American Society of Hispanic Economists (ASHE):
-<li><a href="https://asheweb.org/"https://asheweb.org/</a></li>
+<li><a href="https://asheweb.org/">https://asheweb.org/</a></li>
 
 <br/>
 National Economic Association (NEA):
