@@ -107,17 +107,19 @@
 
 <a href="https://twitter.com/ZhouyuWu">Joy's Twitter (@ZhouyuWu)</a>
 
-<br/>
-<br/>
 <!--
+<br/>
+<br/>
+
 <p><img src="../assets/yeh.jpg" alt="" width="30%"/></p>
 
 <p><strong>Adeline Yeh</strong> is a Ph.D. candidate in the Applied Economics and Management program. Her research ... </p>
 
-
-<br/>
-<br/>
 -->
+<br/>
+<br/>
+<br/>
+<br/>
     
     If you would like to join us, feel free to reach out at
     <br/>
