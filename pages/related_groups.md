@@ -37,12 +37,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <div class="row-fluid">
   <div class="span12">
-  
-  
-<div class="page-header">
-<h3>Other Groups Working Toward Diversity in Economics</h3>
-</div>
-
+ 
 AEA Committee on the Status of Women in the Economics Profession (CSWEP):
 <li><a href="https://www.aeaweb.org/about-aea/committees/cswep">https://www.aeaweb.org/about-aea/committees/cswep</a></li>
 
