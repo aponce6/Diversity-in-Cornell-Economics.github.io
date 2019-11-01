@@ -218,63 +218,9 @@ Alice Wu. Forthcoming, Review of Economics and Statistics
 Abstract:
 This paper measures gender bias in what people say about women versus men in an anonymous online professional forum. I study the content of posts that refer to each gender, and the transitions in the topics of discussion that occur between consecutive posts in a thread once attention turns to one gender or the other. I find that discussions about women tend to highlight their personal characteristics (such as physical appearance or family circumstances) rather than their professional accomplishments. Posts about women are also more likely to lead to deviations from professional topics than posts about men. I interpret these findings through a model that highlights posters’ incentives to boost their own identities relative to the underrepresented out-group in a profession.
 
-<br/>
-
-<div class="page-header">
-<h3>Other Groups Working Toward Diversity in Economics</h3>
-</div>
-
-AEA Committee on the Status of Women in the Economics Profession (CSWEP):
-<li><a href="https://www.aeaweb.org/about-aea/committees/cswep">https://www.aeaweb.org/about-aea/committees/cswep</a></li>
-
-<br/>
-AEA Committee on the Status of Minority Groups in the Economics Profession (CSMGEP):
-<li><a href="https://www.aeaweb.org/about-aea/committees/csmgep">https://www.aeaweb.org/about-aea/committees/csmgep</a></li>
-
-<br/>
-AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession:
-<li><a href="https://www.aeaweb.org/about-aea/committees/aealgbtq">https://www.aeaweb.org/about-aea/committees/aealgbtq</a></li>
-
-<br/>
-Diversifying Economic Quality (Div.E.Q.):
-<li><a href="http://diversifyingecon.org/index.php/Main_Page">http://diversifyingecon.org/index.php/Main_Page</a></li>
-
-<br/>
-Women in Economics at Berkeley:
-<li><a href="http://calwomenofecon.weebly.com/">http://calwomenofecon.weebly.com/</a></li>
-
-<br/>
-Harvard Graduate Women in Econ:
-<li><a href="https://harvardgwe.com/">https://harvardgwe.com/</a></li>
-
-<br/>
-Minnesota Center for Diversity in Economics:
-<li><a href="https://www.stkate.edu/academics/centers-and-institutes/mcde">https://www.stkate.edu/academics/centers-and-institutes/mcde</a></li>
-
-<br/>
-The Sadie Collective:
-<li><a href="https://www.sadiecollective.org/">https://www.sadiecollective.org/</a></li>
-
-<br/>
-UC Irvine Women in Econ:
-<li><a href="https://twitter.com/econwomen_uci">https://twitter.com/econwomen_uci</a></li>
-
-<br/>
-Diversifying Economics Network:
-<li><a href="https://diversifyeconomics.wixsite.com/home">https://diversifyeconomics.wixsite.com/home</a></li>
-
-<br/>
-The Black Economists Network:
-<li><a href="https://twitter.com/TheBlackEcon_">https://twitter.com/TheBlackEcon_</a></li>
-
-<br/>
-Diversity in Economics (at Erasmus School of Economics):
-<li><a href="https://twitter.com/DiversityinEcon">https://twitter.com/DiversityinEcon</a></li>
-
-
     <br/>
     <br/>
-    If you have any suggestions for resources to include, feel free to email us at
+    If you have any suggestions for resources or research to include, feel free to email us at
     <br/>
     <br/>
     speakingeconomics@gmail.com
