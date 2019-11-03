@@ -174,6 +174,73 @@ We document the representation of female economists on the conference programs a
 <br/>
 <br/>
 
+Jennifer Doleac, Elizabeth Pancotti, Nate Apathy, and Kelsey Skvoretz. 2019.
+<li><a href="https://econseminardiversity.shinyapps.io/EconSeminarDiversity/"Econ Seminar Diversity</a></li>
+
+<br/>
+About the Project:
+One of the primary ways that academic economists build networks, share their work, and get feedback on their work is through invited talks in other departments’ seminar series. This means that the choice of whom to invite to give talks can play an important “gatekeeper” role in shaping individuals’ careers, and may contribute to or help reduce existing disparities in the profession. This website provides information about who gives invited talks, in aggregate, by department, and for each seminar series within a department. The goal is to make such information about this aspect of departments’ activities more accessible.
+
+Our team collected information on which individuals spoke in department seminar series, and coded their gender and under-represented minority (URM) status (a person is a URM if they are Black, Hispanic, or Native American, and were born in the United States). So far, our team has collected data on 5,956 seminars at 22 schools, which equates to 3,089 unique speakers. We exclude seminar talks given by speakers at their own institutions.
+
+For context, 23.7% of tenure track faculty in economics departments are women; 8.2% of full-time faculty (tenured, tenure-track, and non-tenure track) are URMs. Focusing on the newest additions to the profession, 32.9% of new economics Ph.D.s were awarded to women, and 7.3% were awarded to URM students. See the CSWEP Annual Report for more information on women in the profession; see the CSMGEP Annual Report for more information on URM economists.
+
+<br/>
+<br/>
+<br/>
+
+<!--AEA panel on gender and the economics profession
+
+Francine Blau, Rachel Croson, Janet Currie, and Donna Ginther. 20??.
+<li><a href="">Can Mentoring Help Female Assistant Professors in Economics? An Evaluation by Randomized Trial</a></li>
+
+<br/>
+Abstract:
+Women continue to be underrepresented in academic ranks in the economics profession. The Committee on the Status of Women in the Economics Profession (CSWEP) of the American Economics Association (AEA) established the CEMENT mentoring workshop to support women in research careers. With the support of the National Science Foundation (NSF) and the AEA, CSWEP established the ongoing CEMENT mentoring program to support junior female economists. The National Workshop (now the Workshop for Faculty in Doctoral Programs) focuses on junior female economists employed at institutions where research accomplishments weigh heavily in the promotion decision. It was originally designed as a randomized controlled trial, held every other year from 2004-2014. Based on an interim evaluation (Blau et al 2010), the AEA funded the workshop every year starting in 2015. Those interim results showed that the CEMENT program increased the number of publications, publications in top journals, and the number of federal grants for treated cohorts (Blau et al 2010).
+<br/>
+<br/>
+This study evaluates differences in publications, grants, employment in academia, and tenure status between the treatment and control groups in the CEMENT randomized controlled trial with a complete dataset. Preliminary results indicate that treated women publish more papers, publish more papers in top journals and receive more federal research grants. Subsequent analyses will examine differences in employment in tenure stream academia and promotion to tenure.
+
+<br/>
+<br/>
+<br/>
+
+Cleo Chassonery-Zaigouche, Beatrice Cherrier, and John Singleton. 20??.
+<li><a href="">Economics is Not a Man's Field: A History of CSWEP and the First Gender Reckoning of the Profession>/a></li>
+
+<br/>
+Abstract:
+Our paper is a history of this first gender reckoning in US economics, one beginning in the early 1970s. Based on hitherto closed AEA archives, comprehensive oral interviews with major protagonists, and quantitative data from the first decade of the CSWEP’s Roster, we reconstruct the historical context that led to the establishment of the CSWEP in order to unpack its successes and failures, the enthusiasm it generated, and the resistance it encountered. We show that then (as now), the birth of CSWEP was tied to larger social movements: the feminist and civil rights movements, growing public awareness of issues surrounding discrimination, and the shifting legal context that drew many scientific societies toward such a reckoning. But we also emphasize how economists’ peculiar approach to social phenomena shaped their views of their own gender issues. For economists both study and experience discrimination, which led them to approach gender issues within the profession as an economic phenomenon. The status of women in economics was thus tied to ongoing debates within labor economics. The theories, models, and empirical evidence that labor economists – from Becker and Arrow, Bell and Bergmann, Ashenfelter and Blinder, Ferber and Blau, among many others – developed and produced to understand the role of women in the economy also shaped economists’ understanding of gender issues within their profession. CSWEP pursued actions common to most scientific societies, such as mentorship programs and the development of a roster, but also very specific changes to the profession, such as the establishment of Job Openings for Economists (rationalized in economic terms), and the sponsorship of conferences on women’s labor supply, discrimination, and occupational segregation.
+
+<br/>
+<br/>
+<br/>
+
+
+Pascaline Dupas, Alicia Modestino, Muriel Niederle, and Justin Wolfers. 20??.
+<li><a href="">Gender and the Dynamics of Economics Seminars</a></li>
+
+<br/>
+Abstract:
+Economics has a distinctively aggressive seminar culture, and some have speculated that it may have a disparate impact on women. This paper represents the first systematic attempt at quantitatively measuring aspects of seminar culture to explore the extent to which women are treated differently from men. We study the seminar culture in economics across a variety of professional settings including job market talks, department seminars, and videotaped seminar series publicly available on YouTube. Our rich microdata code every interaction, including many attributes of the speaker and their paper, the gender and seniority of those making interjections, and the type and tenor of their question or comment. To date, we have collected data on 176 job market talks and 228 total seminars presented by on 292 speakers (104 females and 188 males), across 26 universities including 20 of the top 30 economics departments. We have also collected a rich set of speaker characteristics including home institution, position (e.g. graduate student, post-doc, junior/senior faculty), field of study, publications, and major grants. Our early results suggest that there are important differences in how male and female economists are treated when presenting their work in economics seminars, yet these impacts differ across job market talks compared to regular seminar series. In addition to documenting the main effects in terms of number of and time spent in questions, we also explore the mediators of these differences by field of study, gender of the asker, and gender composition of the audience. These results help shed light on the implicit bias within the profession that potentially prevents women from succeeding and/or deters women from entering the profession.
+
+<br/>
+<br/>
+<br/>
+
+Lucia Foster, Julia Manzella, Erika McEntarfer, and Dani Sandler. 20??.
+<li><a href="">Employment Dynamics for Economists: Empirical Evidence by Gender and Race</a></li>
+
+<br/>
+Abstract:
+A large literature has shown that economics has a pervasive diversity problem; women and minorities are underrepresented throughout all areas of the economics profession as college graduates, graduate students, and professors; as representatives on governing bodies; at conferences as authors, chairs, and discussants; and in publications as authors, editors, and representative examples. An existing literature elucidates the importance of diversity and attempts to quantify the benefits of inclusion. We focus on measuring and describing the dynamics of one area: employment of PhD economists. Whereas much of the existing literature on diversity of economists focuses on the academic market, we bring a broader perspective and focus on multiple labor markets, including the federal government, in this descriptive paper. We combine information on PhD economists from multiple sources with detailed labor market information from the Longitudinal Employer-Household Dynamics (LEHD) database to provide a more formal accounting of the gender and racial distribution, pay, and career trajectories of economists.
+
+<br/>
+<br/>
+<br/>
+
+-->
+
 Donna K. Ginther and Shulamit Kahn. 2004. Journal of Economic Perspectives.
 <li><a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330042162386">Women in Economics: Moving Up or Falling Off the Academic Career Ladder?</a></li>
 
