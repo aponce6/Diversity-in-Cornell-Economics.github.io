@@ -175,7 +175,7 @@ We document the representation of female economists on the conference programs a
 <br/>
 
 Jennifer Doleac, Elizabeth Pancotti, Nate Apathy, and Kelsey Skvoretz. 2019.
-<li><a href="https://econseminardiversity.shinyapps.io/EconSeminarDiversity/"Econ Seminar Diversity</a></li>
+<li><a href="https://econseminardiversity.shinyapps.io/EconSeminarDiversity/">Econ Seminar Diversity</a></li>
 
 <br/>
 About the Project:
