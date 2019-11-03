@@ -73,7 +73,7 @@ Open letter on harassment and discrimination in economics:
 </div>
 
 <div class="page-header">
-<h5>Journal of Economic Perspectives Symposium: Women in Economics</h5>
+<h4>Journal of Economic Perspectives Symposium: Women in Economics</h4>
 </div>
 
 Shelly Lundberg and Jenna Stearns. 2019. Journal of Economic Perspectives.
@@ -106,9 +106,11 @@ Abstract:
 While women comprise over half of all undergraduate students in the United States, they account for less than one-third of economics majors. From there, the proportion of women at each stage of the academic tenure track continues to decrease, creating a "leaky pipeline." In this paper, I provide a toolkit of interventions that could be implemented by individuals, organizations, or academic units who are working to attract and retain women students and faculty at each stage of this pipeline. I focus on smaller-scale, targeted interventions that have been evaluated in a way that allows for the credible estimation of causal effects.
 
 <br/>
+<br/>
+<br/>
 
 <div class="page-header">
-<h5>Additional Research</h5>
+<h4>Additional Research</h4>
 </div>
 
 
