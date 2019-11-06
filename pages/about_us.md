@@ -61,16 +61,16 @@
 <br/>
 <br/>
 
-<!--
+
 <p><img src="../assets/doruska.jpg" alt="" width="30%"/></p>
 
-<p><strong>Molly Doruska</strong> is an M.S./Ph.D. student in the Applied Economics and Management program.</p>
+<p><strong>Molly Doruska</strong> is an M.S./Ph.D. student in the Applied Economics and Management program. Her research interests are in development economics with a specific focus in Francophone Sub-Saharan Africa.</p>
 
 <a href="https://twitter.com/mdoruska3">Molly's Twitter (@mdoruska3)</a>
 
 <br/>
 <br/>
--->
+	
 <p><img src="../assets/ortiz_bobea.jpg" alt="" width="30%"/></p>
 
 <p><strong>Ariel Ortiz-Bobea</strong> is our faculty advisor and an Assistant Professor of Applied Economics and Policy. His research fields are agricultural economics, environmental and resource economics, and applied econometrics, with a focus on climate change impacts and adaptation.</p>
