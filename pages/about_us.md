@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<p><img src="../assets/burton.jpg" alt="" width="30%"/></p>
+<p><img src="../assets/doruska.JPG" alt="" width="30%"/></p>
 
 <p><strong>Molly Doruska</strong> is an M.S./Ph.D. student in the Applied Economics and Management program. Her research interests are in development economics with a specific focus in Francophone Sub-Saharan Africa.</p>
 
