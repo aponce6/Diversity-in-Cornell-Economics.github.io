@@ -66,7 +66,9 @@
 
 <p><strong>Molly Doruska</strong> is an M.S./Ph.D. student in the Applied Economics and Management program. Her research interests are in development economics with a specific focus in Francophone Sub-Saharan Africa.</p>
 
+<!-- 
 <a href="https://twitter.com/mdoruska3">Molly's Twitter (@mdoruska3)</a>
+-->
 
 <br/>
 <br/>
