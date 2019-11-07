@@ -288,7 +288,7 @@ We study gender differences in the evaluation of submissions to economics confer
 <br/>
 <br/>
 
-Friederike Mengel, Jan Sauermann, and Ulf Z&ouml litz. 2019. Journal of the European Economic Association.
+Friederike Mengel, Jan Sauermann, and Ulf Z&ouml;litz. 2019. Journal of the European Economic Association.
 <li><a href="https://doi.org/10.1093/jeea/jvx057">Gender Bias in Teaching Evaluations</a></li>
 
 <br/>
