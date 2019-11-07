@@ -288,6 +288,17 @@ We study gender differences in the evaluation of submissions to economics confer
 <br/>
 <br/>
 
+Friederike Mengel, Jan Sauermann, and Ulf Z&ouml litz. 2019. Journal of the European Economic Association.
+<li><a href="https://doi.org/10.1093/jeea/jvx057">Gender Bias in Teaching Evaluations</a></li>
+
+<br/>
+Abstract:
+This paper provides new evidence on gender bias in teaching evaluations. We exploit a quasi-experimental dataset of 19,952 student evaluations of university faculty in a context where students are randomly allocated to female or male instructors. Despite the fact that neither students' grades nor self-study hours are affected by the instructor’s gender, we find that women receive systematically lower teaching evaluations than their male colleagues. This bias is driven by male students' evaluations, is larger for mathematical courses, and particularly pronounced for junior women. The gender bias in teaching evaluations we document may have direct as well as indirect effects on the career progression of women by affecting junior women’s confidence and through the reallocation of instructor resources away from research and toward teaching.
+
+<br/>
+<br/>
+<br/>
+
 David Neumark and Rosella Gardecki. 1998. Journal of Human Resources.
 <li><a href="https://ideas.repec.org/a/uwp/jhriss/v33y1998i1p220-246.html">Women Helping Women? Role Model and Mentoring Effects on Female Ph.D. Students in Economics</a></li>
 
