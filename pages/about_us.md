@@ -92,6 +92,13 @@
 <br/>
 <br/>
 
+<p><img src="../assets/tapia.jpg" alt="" width="30%"/></p>
+
+<p><strong>Jose Maria U. Tapia</strong> is an undergraduate Economics major. He is interested in researching the economics of education and economic growth. </p>
+
+<br/>
+<br/>	
+
 <p><img src="../assets/wasser.png" alt="" width="30%"/></p>
 
 <p><strong>David Wasser</strong> is a Ph.D. student in the Economics program. He researches the intersection of labor market monopsony and public policy. </p>
