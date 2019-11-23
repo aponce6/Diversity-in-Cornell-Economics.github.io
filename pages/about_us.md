@@ -43,7 +43,7 @@
 
 <p><img src="../assets/crespin.jpg" alt="" width="30%"/></p>
 
-<p><strong>Ren&eacute; Crespin</strong> is a Ph.D. student in the Policy Analysis and Management program. His research focuses on education, labor, and urban economics. </p>
+<p><strong>Ren&eacute; Crespin</strong> is a Ph.D. candidate in the Policy Analysis and Management program. His research focuses on education, labor, and urban economics. </p>
 
 <a href="https://twitter.com/Crespin_Rene">Ren&eacute;'s Twitter (@Crespin_Rene)</a>
 
@@ -52,7 +52,7 @@
 
 <p><img src="../assets/dodini.jpg" alt="" width="30%"/></p>
 
-<p><strong>Sam Dodini</strong> is a Ph.D. student in the Policy Analysis and Management program. His research interests are broad but mainly focused on worker incentives, labor market institutions, education, and the effects of public expenditures on wellbeing. </p>
+<p><strong>Sam Dodini</strong> is a Ph.D. candidate in the Policy Analysis and Management program. His research interests are broad but mainly focused on worker incentives, labor market institutions, education, and the effects of public expenditures on wellbeing. </p>
 
 <a href="https://www.human.cornell.edu/people/snd46">Sam's Cornell website</a>
 <br/>
