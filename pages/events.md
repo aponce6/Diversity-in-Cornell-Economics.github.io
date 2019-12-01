@@ -115,12 +115,13 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <li>Anne Burton</li>
 <li>Maura Coughlin</li>
 <br/>
-<li>Graduate Student Association For Economics (GSAFE)</li>
+<li>Graduate Student Association For Economics (GSAFE) (reps)</li>
 	<ul type="circle">
+	<li>Anne Burton</li>
 	<li>Stephanie Schauder</li>
 	<li>Fikri Pitsuwan</li>
 	</ul>
-<li>Graduate Students in Policy Analysis and Management (GSPAM)</li>
+<li>Graduate Students in Policy Analysis and Management (GSPAM) (reps)</li>
 	<ul type="circle">
 	<li>Erin McCauley</li>
 	<li>Ren&eacute; Crespin</li>
@@ -128,7 +129,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 	<li>Martha Johnson</li>
 	<li>Julia Zhu</li>
 	</ul>
-<li>Applied Economics and Management Graduate Student Association (AEM GSA)</li>
+<li>Applied Economics and Management Graduate Student Association (AEM GSA) (reps)</li>
 	<ul type="circle">
 	<li>Ali Abbas</li>
 	<li>Anne Byrne</li>
