@@ -114,22 +114,23 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <strong>Grad student organizers and cosponsors:</strong>
 <li>Anne Burton</li>
 <li>Maura Coughlin</li>
-<li>Graduate Student Association For Economics (GSAFE) reps</li>
-	<ul type="square">
+<br/>
+<li>Graduate Student Association For Economics (GSAFE)</li>
+	<ul type="circle">
 	<li>Stephanie Schauder</li>
 	<li>Fikri Pitsuwan</li>
 	</ul>
-<li>Graduate Students in Policy Analysis and Management (GSPAM) reps</li>
-	<ul type="square">
+<li>Graduate Students in Policy Analysis and Management (GSPAM)</li>
+	<ul type="circle">
 	<li>Erin McCauley</li>
 	<li>Ren&eacute; Crespin</li>
 	<li>Sam Dodini</li>
 	<li>Martha Johnson</li>
 	<li>Julia Zhu</li>
 	</ul>
-<li>Applied Economics and Management Graduate Student Association (AEM GSA) reps</li>
-	<ul type="square">
-	<li>Ali Abbas</li
+<li>Applied Economics and Management Graduate Student Association (AEM GSA)</li>
+	<ul type="circle">
+	<li>Ali Abbas</li>
 	<li>Anne Byrne</li>
 	<li>Yuanning Liang</li>
 	<li>Joy Wu</li>
