@@ -79,7 +79,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <li>Joy Wu</li>
 <li>Adeline Yeh</li>
 <br/>
-<strong>Funded by a grant from the President's Council of Cornell Women (PCCW); Johnson College of Business Office of Diversity and Inclusion; and the Health Institute on Health Economics, Health Behaviors, and Disparities (IHEHBD)</strong>
+<strong>Funded by a grant from the President's Council of Cornell Women (PCCW); the Johnson College of Business Office of Diversity and Inclusion; and the Health Institute on Health Economics, Health Behaviors, and Disparities (IHEHBD)</strong>
 <br/>
 <br/>
 <br/>
@@ -116,7 +116,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <br/>
 
 <strong>Discussion on Sexism and Women's Issues in Economics.</strong> Friday, February 23, 2018.
-<br/>
+<li><a href={{ BASE_PATH}}/pages/resources.html">See the Resources page for links to many of the articles discussed at and after this event</a></li>
 <br/>
 <strong>Grad student organizers:</strong>
 <li>Anne Burton</li>
