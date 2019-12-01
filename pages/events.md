@@ -116,7 +116,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <br/>
 
 <strong>Discussion on Sexism and Women's Issues in Economics.</strong> Friday, February 23, 2018.
-<li><a href={{ BASE_PATH}}/pages/resources.html">See the Resources page for links to many of the articles discussed at and after this event</a></li>
+<li><a href="{{ BASE_PATH}}/pages/resources.html">See the Resources page for links to many of the articles discussed at and after this event</a></li>
 <br/>
 <strong>Grad student organizers:</strong>
 <li>Anne Burton</li>
