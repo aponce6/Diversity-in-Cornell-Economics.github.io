@@ -348,8 +348,10 @@ This paper measures gender bias in what people say about women versus men in an 
     <br/>
     <br/>
     speakingeconomics@gmail.com
+<br/>
+<br/>
 
-  </div>
+ </div>
 
 <hr>
 <span id="lastModified"></span>
