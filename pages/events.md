@@ -57,7 +57,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <strong>AEA Summer Program Info Session.</strong> Thursday, November 14, 2019.
 <li><a href="{{ BASE_PATH }}/assets/AEASP_info_session_cornell.pdf">AEASP Info Session flyer</a></li>
 <br/>
-<strong>Organizers:</strong>
+<strong>Grad student organizers:</strong>
 <li>DICE</li>
 
 <br/>
@@ -67,7 +67,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <strong>Speaking Economics Symposium.</strong> Monday, August 19, 2019.
 <li><a href="{{ BASE_PATH }}/assets/Speaking Economics.pdf">Speaking Economics flyer</a></li>
 <br/>
-<strong>Organizers:</strong>
+<strong>Grad student organizers:</strong>
 <li>Anne Burton</li>
 <li>Anne Byrne</li>
 <li>Ren&eacute; Crespin</li>
@@ -85,6 +85,10 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <strong>Diversity in Economics Luncheon.</strong> Wednesday, November 14, 2018.
 <li><a href="{{ BASE_PATH}}/assets/Diversity Luncheon Notes.pdf">Notes from Diversity in Economics Luncheon</a></li>
+<br/>
+<strong>Grad student organizers:</strong>
+<li>Anne Byrne</li>
+<li>Stephanie Schauder</li>
 
 <br/>
 <br/>
@@ -95,12 +99,39 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 </div>
 
 <strong>Women in Economics: Negotiating Seminar.</strong> Monday, April 9, 2018.
+<br/>
+<strong>Grad student organizers:</strong>
+<li>Anne Byrne</li>
 
 <br/>
 <br/>
 <br/>
 
 <strong>Discussion on Sexism and Women's Issues in Economics.</strong> Friday, February 23, 2018.
+<br/>
+<strong>Grad student organizers and cosponsors:</strong>
+<li>Anne Burton</li>
+<li>Maura Coughlin</li>
+<li>Graduate Student Association For Economics (GSAFE) reps</li>
+	<ul>
+	<li>Stephanie Schauder</li>
+	<li>Fikri Pitsuwan</li>
+	</ul>
+<li>Graduate Students in Policy Analysis and Management (GSPAM) reps</li>
+	<ul>
+	<li>Erin McCauley</li>
+	<li>Ren&eacute; Crespin</li>
+	<li>Sam Dodini</li>
+	<li>Martha Johnson</li>
+	<li>Julia Zhu</li>
+	</ul>
+<li>Applied Economics and Management Graduate Student Association (AEM GSA) reps</li>
+	<ul>
+	<li>Ali Abbas</li
+	<li>Anne Byrne</li>
+	<li>Yuanning Liang</li>
+	<li>Joy Wu</li>
+	</ul>
 
 <br/>
 <br/>
