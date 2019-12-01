@@ -48,8 +48,6 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 </div>
 
 <br/>
-
-
 <div class="page-header">
 <h4>2019-2020 Academic Year</h4>
 </div>
