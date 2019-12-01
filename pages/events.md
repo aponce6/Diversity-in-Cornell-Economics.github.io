@@ -29,7 +29,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
   
   </head>
 
-        
+ <body>
 
 <div class="page-header">
   <h3>Upcoming Events </h3>
@@ -152,17 +152,17 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 
   </div>
+
+<br/>
+<br/>
+<br/>
+
+
+<span id="lastModified"></span>
+
 </div>
 
 
-<br/>
-<br/>
-<br/>
-
-     
-  <span id="lastModified"></span>
-
-  
-
+</body>
     
 </html>

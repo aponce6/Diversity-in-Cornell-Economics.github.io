@@ -29,7 +29,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
   
   </head>
 
-        
+<body>
 
 <div class="page-header">
   <h2>Links to Resources and Research on Diversity in Economics </h2>
@@ -350,17 +350,9 @@ This paper measures gender bias in what people say about women versus men in an 
     speakingeconomics@gmail.com
 
   </div>
+
+<hr>
+<span id="lastModified"></span>
 </div>
-
-
-<br/>
-<br/>
-<br/>
-
-     
-  <span id="lastModified"></span>
-
-  
-
-    
+</body>
 </html>
