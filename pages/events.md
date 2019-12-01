@@ -100,6 +100,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <strong>Women in Economics: Negotiating Seminar.</strong> Monday, April 9, 2018.
 <br/>
+<br/>
 <strong>Grad student organizers:</strong>
 <li>Anne Byrne</li>
 
@@ -108,6 +109,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <br/>
 
 <strong>Discussion on Sexism and Women's Issues in Economics.</strong> Friday, February 23, 2018.
+<br/>
 <br/>
 <strong>Grad student organizers and cosponsors:</strong>
 <li>Anne Burton</li>
