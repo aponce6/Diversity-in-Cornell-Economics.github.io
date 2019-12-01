@@ -13,7 +13,15 @@ Diversity in Cornell Economics (DICE) aims to foster diversity in economics at C
 ---
 <body>
 
+
 <div class="container-narrow">
+  <div class="content">
+
+<div class="row-fluid">
+  <div class="span5">
+ 
+ 
+<div class="container">
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
@@ -21,6 +29,8 @@ Diversity in Cornell Economics (DICE) aims to foster diversity in economics at C
             Diversity in Cornell Economics<br/>
             Email: speakingeconomics@gmail.com<br/>
         </div>
+    </div>
+</div>
 
 <!--
         <div class="span2">
@@ -29,7 +39,7 @@ Diversity in Cornell Economics (DICE) aims to foster diversity in economics at C
                   title="Diversity in Cornell Economics" alt="Diversity in Cornell Economics"/></a>
         </div>
         -->
-    </div>
+    
 
 <div class="navbar">
   <div class="navbar-inner">
@@ -39,7 +49,12 @@ Diversity in Cornell Economics (DICE) aims to foster diversity in economics at C
       </ul>
   </div>
 </div>
+  
 
+  </div>
+</div>
+
+</div>
 <hr>
 <span id="lastModified"></span>
 
