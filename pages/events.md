@@ -40,6 +40,8 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
     stay tuned...
    
    <br/>
+   <br/>
+   <br/>
 
 <div class="page-header">
 <h3>Past Events (includes events organized by Diversity in Cornell Economics members pre-DICE)</h3>
