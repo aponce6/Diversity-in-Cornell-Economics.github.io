@@ -93,6 +93,9 @@ The Black Economists Network:
 Diversity in Economics (at Erasmus School of Economics):
 <li><a href="https://twitter.com/DiversityinEcon">https://twitter.com/DiversityinEcon</a></li>
 
+<br/>
+Research in Color Foundation:
+<li><a href="https://www.researchincolor.org/">https://www.researchincolor.org/</a></li>
 
     <br/>
     <br/>
