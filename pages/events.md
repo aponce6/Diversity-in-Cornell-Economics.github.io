@@ -126,8 +126,8 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <li>Graduate Student Association For Economics (GSAFE)</li>
 	<ul type="circle">
 	<li>Anne Burton</li>
-	<li>Stephanie Schauder</li>
 	<li>Fikri Pitsuwan</li>
+	<li>Stephanie Schauder</li>
 	</ul>
 <li>Graduate Students in Policy Analysis and Management (GSPAM)</li>
 	<ul type="circle">
