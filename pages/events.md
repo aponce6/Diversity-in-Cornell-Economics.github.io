@@ -57,7 +57,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <strong>AEA Summer Program Info Session.</strong> Thursday, November 14, 2019.
 <li><a href="{{ BASE_PATH }}/assets/AEASP_info_session_cornell.pdf">AEASP Info Session flyer</a></li>
 <br/>
-<strong>Grad student organizers:</strong>
+<strong>Organizers:</strong>
 <li>DICE</li>
 
 <br/>
@@ -115,12 +115,12 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <li>Anne Burton</li>
 <li>Maura Coughlin</li>
 <li>Graduate Student Association For Economics (GSAFE) reps</li>
-	<ul>
+	<ul type="square">
 	<li>Stephanie Schauder</li>
 	<li>Fikri Pitsuwan</li>
 	</ul>
 <li>Graduate Students in Policy Analysis and Management (GSPAM) reps</li>
-	<ul>
+	<ul type="square">
 	<li>Erin McCauley</li>
 	<li>Ren&eacute; Crespin</li>
 	<li>Sam Dodini</li>
@@ -128,7 +128,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 	<li>Julia Zhu</li>
 	</ul>
 <li>Applied Economics and Management Graduate Student Association (AEM GSA) reps</li>
-	<ul>
+	<ul type="square">
 	<li>Ali Abbas</li
 	<li>Anne Byrne</li>
 	<li>Yuanning Liang</li>
