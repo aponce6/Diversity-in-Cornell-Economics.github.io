@@ -57,9 +57,8 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <strong>AEA Summer Program Info Session.</strong> Thursday, November 14, 2019.
 <li><a href="{{ BASE_PATH }}/assets/AEASP_info_session_cornell.pdf">AEASP Info Session flyer</a></li>
 <br/>
-<li><strong>Organizers:
-	<li>DICE</li>
-	</li>
+<strong>Organizers:</strong>
+<li>DICE</li>
 
 <br/>
 <br/>
