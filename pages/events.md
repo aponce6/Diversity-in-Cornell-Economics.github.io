@@ -54,14 +54,18 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <h4>2019-2020 Academic Year</h4>
 </div>
 
-AEA Summer Program Info Session. Thursday, November 14, 2019.
+<strong>AEA Summer Program Info Session.</strong> Thursday, November 14, 2019.
 <li><a href="{{ BASE_PATH }}/assets/AEASP_info_session_cornell.pdf">AEASP Info Session flyer</a></li>
+<br/>
+<li><strong>Organizers:
+	<li>DICE</li>
+	</li>
 
 <br/>
 <br/>
 <br/>
 
-Speaking Economics Symposium. Monday, August 19, 2019.
+<strong>Speaking Economics Symposium.</strong> Monday, August 19, 2019.
 <li><a href="{{ BASE_PATH }}/assets/Speaking Economics.pdf">Speaking Economics flyer</a></li>
 
 <br/>
@@ -72,7 +76,7 @@ Speaking Economics Symposium. Monday, August 19, 2019.
 <h4>2018-2019 Academic Year</h4>
 </div>
 
-Diversity in Economics Luncheon. Wednesday, November 14, 2018.
+<strong>Diversity in Economics Luncheon.</strong> Wednesday, November 14, 2018.
 <li><a href="{{ BASE_PATH}}/assets/Diversity Luncheon Notes.pdf">Notes from Diversity in Economics Luncheon</a></li>
 
 <br/>
@@ -83,13 +87,13 @@ Diversity in Economics Luncheon. Wednesday, November 14, 2018.
 <h4>2017-2018 Academic Year</h4>
 </div>
 
-Women in Economics: Negotiating Seminar. Monday, April 9, 2018.
+<strong>Women in Economics: Negotiating Seminar.</strong> Monday, April 9, 2018.
 
 <br/>
 <br/>
 <br/>
 
-Discussion on Sexism and Women's Issues in Economics. Friday, February 23, 2018.
+<strong>Discussion on Sexism and Women's Issues in Economics.</strong> Friday, February 23, 2018.
 
 <br/>
 <br/>
