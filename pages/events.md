@@ -60,6 +60,9 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <strong>Organizers:</strong>
 <li>DICE</li>
 
+<br/>	
+<strong>Funded by the Johnson College of Business Office of Diversity and Inclusion</strong>
+
 <br/>
 <br/>
 <br/>
@@ -76,6 +79,8 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <li>Joy Wu</li>
 <li>Adeline Yeh</li>
 <br/>
+<strong>Funded by a grant from the President's Council of Cornell Women (PCCW); Johnson College of Business Office of Diversity and Inclusion; and the Health Institute on Health Economics, Health Behaviors, and Disparities (IHEHBD)</strong>
+<br/>
 <br/>
 <br/>
 
@@ -89,6 +94,8 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <strong>Grad student organizers:</strong>
 <li>Anne Byrne</li>
 <li>Stephanie Schauder</li>
+<br/>	
+<strong>Funded by Professor Francine Blau, Professor Todd Schmidt, and the Johnson College of Business Office of Diversity and Inclusion</strong>
 
 <br/>
 <br/>
@@ -111,17 +118,18 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <strong>Discussion on Sexism and Women's Issues in Economics.</strong> Friday, February 23, 2018.
 <br/>
 <br/>
-<strong>Grad student organizers and cosponsors:</strong>
+<strong>Grad student organizers:</strong>
 <li>Anne Burton</li>
 <li>Maura Coughlin</li>
 <br/>
-<li>Graduate Student Association For Economics (GSAFE) (reps)</li>
+<strong>Cosponsoring grad student organizations (representatives listed below):</strong>
+<li>Graduate Student Association For Economics (GSAFE)</li>
 	<ul type="circle">
 	<li>Anne Burton</li>
 	<li>Stephanie Schauder</li>
 	<li>Fikri Pitsuwan</li>
 	</ul>
-<li>Graduate Students in Policy Analysis and Management (GSPAM) (reps)</li>
+<li>Graduate Students in Policy Analysis and Management (GSPAM)</li>
 	<ul type="circle">
 	<li>Erin McCauley</li>
 	<li>Ren&eacute; Crespin</li>
@@ -129,13 +137,16 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 	<li>Martha Johnson</li>
 	<li>Julia Zhu</li>
 	</ul>
-<li>Applied Economics and Management Graduate Student Association (AEM GSA) (reps)</li>
+<li>Applied Economics and Management Graduate Student Association (AEM GSA)</li>
 	<ul type="circle">
 	<li>Ali Abbas</li>
 	<li>Anne Byrne</li>
 	<li>Yuanning Liang</li>
 	<li>Joy Wu</li>
 	</ul>
+
+<br/>	
+<strong>Funded by a microgrant from the President's Council of Cornell Women (PCCW)</strong>
 
 <br/>
 <br/>
