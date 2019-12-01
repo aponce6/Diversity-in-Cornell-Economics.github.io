@@ -66,7 +66,15 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <strong>Speaking Economics Symposium.</strong> Monday, August 19, 2019.
 <li><a href="{{ BASE_PATH }}/assets/Speaking Economics.pdf">Speaking Economics flyer</a></li>
-
+<br/>
+<strong>Organizers:</strong>
+<li>Anne Burton</li>
+<li>Anne Byrne</li>
+<li>Ren&eacute; Crespin</li>
+<li>Grace Phillips</li>
+<li>David Wasser</li>
+<li>Joy Wu</li>
+<li>Adeline Yeh</li>
 <br/>
 <br/>
 <br/>
