@@ -60,7 +60,7 @@ AEA Summer Program Info Session. Thursday, November 14, 2019.
 <br/>
 
 Speaking Economics Symposium. Monday, August 19, 2019.
-<li><a href="{{ BASE_PATH }}/assets/Speaking Economics.pdf">Speaking Economics flyer</a></li>-
+<li><a href="{{ BASE_PATH }}/assets/Speaking Economics.pdf">Speaking Economics flyer</a></li>
 
 <br/>
 <br/>
