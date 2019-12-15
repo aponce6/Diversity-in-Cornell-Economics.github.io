@@ -104,11 +104,6 @@ George Washington University Women in Economics:
 <br/>
 Canadian Women Economists Committee:
 <li><a href="https://twitter.com/CdnWomenEcon/">https://twitter.com/CdnWomenEcon</a></li>
-
-<br/>
-Canadian Women Economists Committee:
-<li><a href="https://twitter.com/CdnWomenEcon/">https://twitter.com/CdnWomenEcon</a></li>
-
 <br/>
 Jennifer Doleac, Elizabeth Pancotti, Nate Apathy, and Kelsey Skvoretz:
 <li><a href="https://econseminardiversity.shinyapps.io/EconSeminarDiversity/">https://econseminardiversity.shinyapps.io/EconSeminarDiversity/</a></li>
