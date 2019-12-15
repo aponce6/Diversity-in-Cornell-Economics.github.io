@@ -97,6 +97,38 @@ Diversity in Economics (at Erasmus School of Economics):
 Research in Color Foundation:
 <li><a href="https://www.researchincolor.org/">https://www.researchincolor.org/</a></li>
 
+<br/>
+George Washington University Women in Economics:
+<li><a href="https://www.gwuwomeninecon.org/">https://www.gwuwomeninecon.org/</a></li>
+
+<br/>
+Canadian Women Economists Committee:
+<li><a href="https://twitter.com/CdnWomenEcon/">https://twitter.com/CdnWomenEcon</a></li>
+
+<br/>
+Canadian Women Economists Committee:
+<li><a href="https://twitter.com/CdnWomenEcon/">https://twitter.com/CdnWomenEcon</a></li>
+
+<br/>
+Jennifer Doleac, Elizabeth Pancotti, Nate Apathy, and Kelsey Skvoretz:
+<li><a href="https://econseminardiversity.shinyapps.io/EconSeminarDiversity/">https://econseminardiversity.shinyapps.io/EconSeminarDiversity/</a></li>
+
+<br/>
+WeSB (at UC Santa Barbara):
+<li><a href="http://econ.ucsb.edu/graduate/resources/women-in-economics-at-santa-barbara-(wesb)">http://econ.ucsb.edu/graduate/resources/women-in-economics-at-santa-barbara-(wesb)</a></li>
+
+<br/>
+Women in Economics Network (Australia):
+<li><a href="https://twitter.com/WomenEconAU">https://twitter.com/WomenEconAU</a></li>
+
+<br/>
+Consortium for Inclusive Economics at UNSW:
+<li><a href="https://www.ciee.unsw.edu.au">https://www.ciee.unsw.edu.au</a></li>
+
+<br/>
+VrauWL (in Vienna, Austria):
+<li><a href="http://vrauwl.org">http://vrauwl.org</a></li>
+
     <br/>
     <br/>
     If you have any suggestions for related groups to include, feel free to email us at
