@@ -104,8 +104,9 @@ George Washington University Women in Economics:
 <br/>
 Canadian Women Economists Committee:
 <li><a href="https://twitter.com/CdnWomenEcon/">https://twitter.com/CdnWomenEcon</a></li>
+
 <br/>
-Jennifer Doleac, Elizabeth Pancotti, Nate Apathy, and Kelsey Skvoretz:
+Econ Seminar Diversity (Jennifer Doleac, Elizabeth Pancotti, Nate Apathy, and Kelsey Skvoretz):
 <li><a href="https://econseminardiversity.shinyapps.io/EconSeminarDiversity/">https://econseminardiversity.shinyapps.io/EconSeminarDiversity/</a></li>
 
 <br/>
@@ -123,6 +124,10 @@ Consortium for Inclusive Economics at UNSW:
 <br/>
 VrauWL (in Vienna, Austria):
 <li><a href="http://vrauwl.org">http://vrauwl.org</a></li>
+
+<br/>
+Women's Empowerment and Rational Inclusion at Stanford Economics (WeRISE):
+<li><a href="https://twitter.com/WeRISEStanford">https://twitter.com/WeRISEStanford</a></li>
 
     <br/>
     <br/>
