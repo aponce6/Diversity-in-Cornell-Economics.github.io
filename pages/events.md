@@ -52,7 +52,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <h4>2019-2020 Academic Year</h4>
 </div>
 
-<strong>Proseminar on #EconTwitter</strong> Friday, January 24, 2020.
+<strong>Proseminar on #EconTwitter.</strong> Friday, January 24, 2020.
 <li><a href="{{ BASE_PATH }}/assets/burton_econtwitter_slides.pdf">Slides</a></li>
 <br/>
 <strong>Organizers:</strong>
