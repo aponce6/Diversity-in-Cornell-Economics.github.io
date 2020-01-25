@@ -52,6 +52,21 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <h4>2019-2020 Academic Year</h4>
 </div>
 
+<strong>Proseminar on #EconTwitter</strong> Friday, January 24, 2020.
+<li><a href="{{ BASE_PATH }}/assets/burton_econtwitter_slides.pdf">Slides</a></li>
+<br/>
+<strong>Organizers:</strong>
+<li>DICE</li>
+
+<br/>	
+<strong>Presenter: Anne 	Burton</strong>
+
+<br/>
+<br/>
+<br/>
+
+
+
 <strong>AEA Summer Program Info Session.</strong> Thursday, November 14, 2019.
 <li><a href="{{ BASE_PATH }}/assets/AEASP_info_session_cornell.pdf">AEASP Info Session flyer</a></li>
 <br/>
