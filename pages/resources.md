@@ -288,6 +288,18 @@ We study gender differences in the evaluation of submissions to economics confer
 <br/>
 <br/>
 
+Marl&e`;ne Koffi. 2019.
+<li><a href="https://sites.google.com/view/marlenekoffi/research">Innovative Ideas and Gender Inequality</a></li>
+
+<br/>
+Abstract:
+This paper analyzes the recognition of women's innovative ideas. Bibliometric data from research in economics are used to investigate gender biases in citation patterns. Based on deep learning and machine learning techniques, one can (1) establish the similarities between papers (2) build a link between articles by identifying the papers citing, cited and that should be cited. This study finds that, on average, a paper omits almost half of related prior papers. There are, however, substantial heterogeneities among the authors. In fact, omitted papers are 15% to 30% more likely to be female-authored than male-authored. First, the most likely to be omitted are papers written by women (solo, mostly female team) working at mid-tier institutions, publishing in non-top journals. In a group of related papers, the probability of omission of those papers increases by 6 percentage points compared to men in similar affiliation when the citing authors are only males. Overall, for similar papers, having at least one female author reduces the probability of omitting other women's papers by up to 10 percentage points, whereas having only male authors increases the probability of being omitted by almost 4 percentage points. Second, the omission bias is twice as high in theoretical fields that involve mathematical economics than it is in applied fields such as education and health economics. Third, men benefit twice as much as women from publishing in a top journal, in terms of likelihood of being omitted. Lastly, being omitted with respect to past publications affects future productivity and reduces the probability of getting published in a top journal. Finally, peer effects and more editorial board diversity tend to counteract and reduce the omission bias.
+
+<br/>
+<br/>
+<br/>
+
+
 Friederike Mengel, Jan Sauermann, and Ulf Z&ouml;litz. 2019. Journal of the European Economic Association.
 <li><a href="https://doi.org/10.1093/jeea/jvx057">Gender Bias in Teaching Evaluations</a></li>
 
@@ -344,10 +356,10 @@ This paper measures gender bias in what people say about women versus men in an 
     <br/>
     <br/>
     <br/>
-    If you have any suggestions for resources or research to include, feel free to email us at
+    <strong>If you have any suggestions for resources or research to include, feel free to email us at
     <br/>
     <br/>
-    speakingeconomics@gmail.com
+    speakingeconomics@gmail.com</strong>
 <br/>
 <br/>
 
