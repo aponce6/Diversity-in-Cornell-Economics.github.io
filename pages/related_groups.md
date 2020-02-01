@@ -131,10 +131,10 @@ Women's Empowerment and Rational Inclusion at Stanford Economics (WeRISE):
 
     <br/>
     <br/>
-    If you have any suggestions for related groups to include, feel free to email us at
+    <strong>If you have any suggestions for related groups to include, feel free to email us at
     <br/>
     <br/>
-    speakingeconomics@gmail.com
+    speakingeconomics@gmail.com </strong>
 
   </div>
 </div>

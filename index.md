@@ -33,6 +33,11 @@ In the spring 2020 semester, we are working on building community among graduate
 
 <br>
 <br>
+
+If you're an undergraduate or graduate student at Cornell and you (1) are interested in or working toward a degree in Economics, Policy Analysis and Management, or Applied Economics and Management, (2) would like to get involved, and (3) are committed to advancing our mission, you are more than welcome to join us! Feel free to contact us at the email address below.
+
+<br>
+<br>
 <br>
 
 
