@@ -19,7 +19,17 @@ keywords: diversity, economics, Cornell
 <div class="row-fluid">
   <div class="span12">
  
-Diversity in Cornell Economics (DICE) aims to foster diversity in economics at Cornell and in the profession more broadly. We are working toward creating an environment where everyone, particularly individuals from underrepresented groups, feels welcome, respected, and included.
+Diversity in Cornell Economics (DICE) was founded by a group of Cornell graduate students in the fall of 2019.
+
+<br>
+<br>
+
+Our mission is to strive towards equity in economics and related fields, empower students to progress in the field, and provide a sense of belonging for all members of the economics community, particularly those from historically underrepresented groups.
+
+<br>
+<br>
+
+In the spring 2020 semester, we are working on building community among graduate students in the Applied Economics and Management, Policy Analysis and Management, and Economics programs at Cornell. We are also working on outreach to Cornell undergraduates. In the economics profession more broadly, we are continuing to promote the diversity, equity, and inclusion efforts of other groups and individuals through our <a href="https://twitter.com/Cornell_DICE">Twitter (@Cornell_DICE)</a>.
 
 
 <div class="container">

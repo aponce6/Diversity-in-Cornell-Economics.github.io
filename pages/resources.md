@@ -288,7 +288,7 @@ We study gender differences in the evaluation of submissions to economics confer
 <br/>
 <br/>
 
-Marl&e`;ne Koffi. 2019.
+Marl&egrave;ne Koffi. 2019.
 <li><a href="https://sites.google.com/view/marlenekoffi/research">Innovative Ideas and Gender Inequality</a></li>
 
 <br/>
