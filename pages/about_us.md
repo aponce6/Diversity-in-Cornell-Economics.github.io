@@ -130,10 +130,10 @@
 <br/>
 <br/>
     
-    If you would like to join us, feel free to reach out at
+    <strong>If you would like to join us, feel free to reach out at
     <br/>
     <br/>
-    speakingeconomics@gmail.com
+    speakingeconomics@gmail.com</strong>
 
  
 
