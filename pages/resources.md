@@ -37,7 +37,13 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <div class="row-fluid">
   <div class="span12">
-    AEA climate survey final report announcement:
+  
+Diversifying Economics Seminars--Speakers List
+<li><a href="https://econspeakerdiversity.shinyapps.io/EconSpeakerDiversity/">https://econspeakerdiversity.shinyapps.io/EconSpeakerDiversity/</a></li>
+
+<br/>
+  
+AEA climate survey final report announcement:
     <li><a href="https://www.aeaweb.org/news/member-announcements-sept-26-2019">https://www.aeaweb.org/news/member-announcements-sept-26-2019</a></li>
 
  <li><a href="https://www.aeaweb.org/resources/member-docs/final-climate-survey-results-sept-2019">Direct link to survey</a></li>
