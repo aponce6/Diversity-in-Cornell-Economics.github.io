@@ -71,6 +71,13 @@
 
 <br/>
 <br/>
+
+<p><img src="../assets/glass.jpg" alt="" width="30%"/></p>
+
+<p><strong>Mia Glass</strong> is an undergraduate double majoring in Government and Economics with an International Relations minor. Her interests lie in the realm of global economic policies.</p>
+
+<br/>
+<br/>
 	
 <p><img src="../assets/ortiz_bobea.jpg" alt="" width="30%"/></p>
 
@@ -85,7 +92,7 @@
 
 <p><img src="../assets/phillips.jpg" alt="" width="30%"/></p>
 
-<p><strong>Grace Phillips</strong> is a Ph.D. student in the Economics program. She is interested in labor, public, and the economics of crime as they relate to vulnerable populations.</p>
+<p><strong>Grace Phillips</strong> is a Ph.D. candidate in the Economics program. She is interested in labor, public, and the economics of crime as they relate to vulnerable populations.</p>
 
 <a href="https://twitter.com/Grace_Nettie">Grace's Twitter (@Grace_Nettie)</a>
 
@@ -101,11 +108,20 @@
 
 <p><img src="../assets/wasser.png" alt="" width="30%"/></p>
 
-<p><strong>David Wasser</strong> is a Ph.D. student in the Economics program. He researches the intersection of labor market monopsony and public policy. </p>
+<p><strong>David Wasser</strong> is a Ph.D. candidate in the Economics program. He researches the intersection of labor market monopsony and public policy. </p>
 
 <a href="https://www.davidnwasser.com">David's website</a>
 <br/>
 <a href="https://twitter.com/dwasser2">David's Twitter (@dwasser2)</a>
+
+<br/>
+<br/>	
+
+<p><img src="../assets/welch.png" alt="" width="30%"/></p>
+
+<p><strong>Meredith Welch</strong> is a Ph.D. student in the Policy Analysis and Management program. She is interested in labor economics, the economics of higher education, and social policy with a particular focus on gender disparities. </p>
+
+<a href="https://twitter.com/meredithswelch">Meredith's Twitter (@meredithswelch)</a>
 
 <br/>
 <br/>
