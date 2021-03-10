@@ -68,6 +68,10 @@ New York Times article by Lisa Cook and Anna Gifty Opoku-Agyeman on the underrep
 <li><a href="https://www.nytimes.com/2019/09/30/opinion/economics-black-women.html">https://www.nytimes.com/2019/09/30/opinion/economics-black-women.html</a></li>
 
 <br/>
+New York Times article by Ben Casselman about gender and seminar culture in economics:
+<li><a href="https://www.nytimes.com/2021/02/23/business/economy/economics-women-gender-bias.html">https://www.nytimes.com/2021/02/23/business/economy/economics-women-gender-bias.html</a></li>
+
+<br/>
 Open letter on harassment and discrimination in economics:
 <li><a href="https://medium.com/@diversityinecon/a-letter-in-response-to-roland-fryers-resignation-from-the-aea-executive-committee-6761217abfa">https://medium.com/@diversityinecon/a-letter-in-response-to-roland-fryers-resignation-from-the-aea-executive-committee-6761217abfa</a></li>
 
@@ -159,7 +163,7 @@ There have now been three cohorts of program participants, in 2004, 2006, and 20
 <br/>	
 <br/>
 
-David Card, Stefano DellaVigna, Patricia Funk, and Nagore Iriberri. Forthcoming, Quarterly Journal of Economics.
+David Card, Stefano DellaVigna, Patricia Funk, and Nagore Iriberri. 2020. Quarterly Journal of Economics.
 <li><a href="https://economics.harvard.edu/files/economics/files/ms30505.pdf">Are Referees and Editors in Economics Gender Neutral?</a></li>
 
 <br/>
@@ -180,20 +184,30 @@ We document the representation of female economists on the conference programs a
 <br/>
 <br/>
 
-Jennifer Doleac, Elizabeth Pancotti, Nate Apathy, and Kelsey Skvoretz. 2019.
-<li><a href="https://econseminardiversity.shinyapps.io/EconSeminarDiversity/">Econ Seminar Diversity</a></li>
+Jennifer Doleac, Erin Hengel, and Elizabeth Pancotti. 2021. American Economic Review Papers and Proceedings.
+<li><a href="https://erinhengel.github.io/seminars-aea-pp/seminars-aea-pp.pdf">Diversity in Economics Seminars: Who Gives Invited Talks?</a></li>
+<li><a href="https://econseminardiversity.shinyapps.io/EconSeminarDiversity/">Database: Econ Seminar Diversity</a></li>
 
 <br/>
-About the Project:
-One of the primary ways that academic economists build networks, share their work, and get feedback on their work is through invited talks in other departments’ seminar series. This means that the choice of whom to invite to give talks can play an important “gatekeeper” role in shaping individuals’ careers, and may contribute to or help reduce existing disparities in the profession. This website provides information about who gives invited talks, in aggregate, by department, and for each seminar series within a department. The goal is to make such information about this aspect of departments’ activities more accessible.
-
-Our team collected information on which individuals spoke in department seminar series, and coded their gender and under-represented minority (URM) status (a person is a URM if they are Black, Hispanic, or Native American, and were born in the United States). So far, our team has collected data on 5,956 seminars at 22 schools, which equates to 3,089 unique speakers. We exclude seminar talks given by speakers at their own institutions.
-
-For context, 23.7% of tenure track faculty in economics departments are women; 8.2% of full-time faculty (tenured, tenure-track, and non-tenure track) are URMs. Focusing on the newest additions to the profession, 32.9% of new economics Ph.D.s were awarded to women, and 7.3% were awarded to URM students. See the CSWEP Annual Report for more information on women in the profession; see the CSMGEP Annual Report for more information on URM economists.
+Abstract:
+This paper describes the diversity of economics seminars. It summarizes both the type of research presented and the demographics and institutional background of the presenting economists. The analysis is based on a comprehensive database of over 15,000 seminars held between 2005-2018 in the economics departments of over 70 universities worldwide. It includes data on presenters' gender, race, nationality, current affiliation, PhD institution and experience in the profession; it also contains information on the subfield, publication outlet and citations of the papers they presented. We conclude by outlining several actionable steps departments can take to increase the diversity of their own seminar series.
 
 <br/>
 <br/>
 <br/>
+
+Pascaline Dupas, Alicia Sasser Modestino, Muriel Niederle, Justin Wolfers, and the Seminar Dynamics Collective. 2021.
+<li><a href="https://web.stanford.edu/~pdupas/Gender&SeminarDynamics.pdf">Gender and the Dynamics of Economics Seminars</a></li>
+
+<br/>
+Abstract:
+This paper reports the results of the first systematic attempt at quantitatively measuring the seminar culture within economics and testing whether it is gender neutral. We collected data on every interaction between presenters and their audience in hundreds of research seminars and job market talks across most leading economics departments, as well as during summer conferences. We find that women presenters are treated differently than their male counterparts. Women are asked more questions during a seminar and the questions asked of women presenters are more likely to be patronizing or hostile. These effects are not due to women presenting in different fields, different seminar series, or different topics, as our analysis controls for the institution, seminar series, and JEL codes associated with each presentation. Moreover, it appears that there are important differences by field and that these differences are not uniformly mitigated by more rigid seminar formats. Our findings add to an emerging literature documenting ways in which women economists are treated differently than men, and suggest yet another potential explanation for their under-representation at senior levels within the economics profession.
+
+<br/>
+<br/>
+<br/>
+
+
 
 <!--AEA panel on gender and the economics profession
 
@@ -222,17 +236,6 @@ Our paper is a history of this first gender reckoning in US economics, one begin
 <br/>
 <br/>
 
-
-Pascaline Dupas, Alicia Modestino, Muriel Niederle, and Justin Wolfers. 20??.
-<li><a href="">Gender and the Dynamics of Economics Seminars</a></li>
-
-<br/>
-Abstract:
-Economics has a distinctively aggressive seminar culture, and some have speculated that it may have a disparate impact on women. This paper represents the first systematic attempt at quantitatively measuring aspects of seminar culture to explore the extent to which women are treated differently from men. We study the seminar culture in economics across a variety of professional settings including job market talks, department seminars, and videotaped seminar series publicly available on YouTube. Our rich microdata code every interaction, including many attributes of the speaker and their paper, the gender and seniority of those making interjections, and the type and tenor of their question or comment. To date, we have collected data on 176 job market talks and 228 total seminars presented by on 292 speakers (104 females and 188 males), across 26 universities including 20 of the top 30 economics departments. We have also collected a rich set of speaker characteristics including home institution, position (e.g. graduate student, post-doc, junior/senior faculty), field of study, publications, and major grants. Our early results suggest that there are important differences in how male and female economists are treated when presenting their work in economics seminars, yet these impacts differ across job market talks compared to regular seminar series. In addition to documenting the main effects in terms of number of and time spent in questions, we also explore the mediators of these differences by field of study, gender of the asker, and gender composition of the audience. These results help shed light on the implicit bias within the profession that potentially prevents women from succeeding and/or deters women from entering the profession.
-
-<br/>
-<br/>
-<br/>
 
 Lucia Foster, Julia Manzella, Erika McEntarfer, and Dani Sandler. 20??.
 <li><a href="">Employment Dynamics for Economists: Empirical Evidence by Gender and Race</a></li>
@@ -328,7 +331,7 @@ One potential method to increase the success of female graduate students in econ
 <br/>
 <br/>
 
-Catherine Porter and Danila Serra. Forthcoming, American Economic Journal: Applied Economics.
+Catherine Porter and Danila Serra. 2020. American Economic Journal: Applied Economics.
 <li><a href="http://people.tamu.edu/~dserra/WP_PorterSerra_FemaleRoleModels_July2019.pdf">Gender Differences in the Choice of Major: The Importance of Female Role Models</a></li>
 
 <br/>
@@ -339,18 +342,18 @@ We conducted a field experiment aimed at increasing the percentage of women majo
 <br/>
 <br/>
 
-Heather Sarsons. 2019.
+Heather Sarsons, Klarita G&euml;rxhani, Ernesto Reuben, and Arthur Schram. 2021. Journal of Political Economy
 <li><a href="https://drive.google.com/open?id=1PUFdQAgmKcHK1NXm-bQKUNdn-oo_cGr5">Gender Differences in Recognition for Group Work</a></li>
 
 <br/>
 Abstract:
-Does gender influence how credit for group work is allocated? Using data from academic economists’ CVs, I test whether coauthored and solo-authored publications matter differently for tenure for men and women. Because coauthors are listed alphabetically in economics, coauthored papers do not provide specific information about each contributor’s skills or ability. Solo-authored papers, on the other hand, provide a relatively clear signal of ability. I find that conditional on publication quality and other observables, men are tenured at roughly the same rate regardless of whether they coauthor or solo-author. Women, however, become less likely to receive tenure the more they coauthor. The result is most pronounced for women coauthoring with men and less pronounced among women who coauthor with other women. An online experiment finds similar patterns when women perform male-stereotyped tasks. However, women receive equal credit for joint work with men when the task is perceived to be gender-neutral. Taken together, the results suggest that gender and stereotypes influence the allocation of credit for group work.
+We study whether gender influences credit attribution for group work using observational data and two experiments. We use data from academic economists to test whether coauthorship matters differently for tenure for men and women. We find that, conditional on quality and other observables, men are tenured similarly regardless of whether they coauthor or solo author. Women, however, are less likely to receive tenure the more they coauthor. We then conduct two experiments that demonstrate that biases in credit attribution in settings without confounds exist. Taken together, our results are best explained by gender and stereotypes influencing credit attribution for group work.
 
 <br/>
 <br/>
 <br/>
 
-Alice Wu. Forthcoming, Review of Economics and Statistics
+Alice Wu. 2020. Review of Economics and Statistics
 <li><a href="https://scholar.harvard.edu/files/alicewu/files/ejr2019.pdf">Gender Bias in Rumors among Professionals: An Identity-based Interpretation</a></li>
 
 <br/>
