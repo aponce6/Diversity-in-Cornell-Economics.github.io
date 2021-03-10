@@ -62,8 +62,8 @@ Diversifying Economic Quality (Div.E.Q.):
 <li><a href="http://diversifyingecon.org/index.php/Main_Page">http://diversifyingecon.org/index.php/Main_Page</a></li>
 
 <br/>
-Women in Economics at Berkeley:
-<li><a href="http://calwomenofecon.weebly.com/">http://calwomenofecon.weebly.com/</a></li>
+Economists for Equity at Berkeley (formerly Women in Economics at Berkeley):
+<li><a href="https://berkeleyeconomistsforequity.weebly.com/">https://berkeleyeconomistsforequity.weebly.com/</a></li>
 
 <br/>
 Harvard Graduate Women in Econ:
