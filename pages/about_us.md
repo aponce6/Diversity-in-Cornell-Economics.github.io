@@ -117,7 +117,7 @@
 <br/>
 <br/>	
 
-<p><img src="../assets/welch.png" alt="" width="30%"/></p>
+<p><img src="../assets/welch.jpg" alt="" width="30%"/></p>
 
 <p><strong>Meredith Welch</strong> is a Ph.D. student in the Policy Analysis and Management program. She is interested in labor economics, the economics of higher education, and social policy with a particular focus on gender disparities. </p>
 
