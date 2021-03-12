@@ -132,6 +132,18 @@
 
 <a href="https://twitter.com/ZhouyuWu">Joy's Twitter (@ZhouyuWu)</a>
 
+<br/>
+<br/>
+
+<p><img src="../assets/zhu.jpg" alt="" width="30%"/></p>
+
+<p><strong>Julia Li Zhu</strong> is a Ph.D. candidate in the Policy Analysis and Management program. Her research interests are labor economics, economics of migration, and economics of education. </p>
+
+<a href="https://www.julializhu.com">Julia's website</a>
+<br/>
+<a href="https://twitter.com/julializhu">Julia's Twitter (@JuliaLiZhu)</a>
+
+
 <!--
 <br/>
 <br/>
