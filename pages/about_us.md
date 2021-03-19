@@ -170,7 +170,7 @@
     <strong>If you would like to join us, feel free to reach out at
     <br/>
     <br/>
-    speakingeconomics@gmail.com</strong>
+    Cornell.DICE@gmail.com</strong>
 
  
 
