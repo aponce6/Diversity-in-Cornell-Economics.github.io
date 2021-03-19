@@ -31,11 +31,9 @@ keywords: diversity, equity, inclusion, underrepresented, URM, women, BIPOC, LGB
         <div class="span5">
             <b><font size="+2">Diversity in Cornell Economics</font></b><br/>
             <br/>
-            Ph.D. Candidate in Economics<br/>
-            Cornell University<br/>
             <br/>
             <div id="hide_email">
-            Email: speakingeconomics@gmail.com<br/>
+            Email: Cornell.DICE@gmail.com<br/>
             Twitter: <a href="https://twitter.com/Cornell_DICE">@Cornell_DICE</a><br/>
             </div>
         </div> 
