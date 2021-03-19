@@ -2,7 +2,7 @@
 layout: frontpage
 title: Diversity in Cornell Economics
 description: Diversity in Cornell Economics
-keywords: diversity, economics, Cornell
+keywords: diversity, equity, inclusion, underrepresented, URM, women, BIPOC, LGBTQ+, econ, economics, Cornell
 ---
 
 
@@ -18,6 +18,30 @@ keywords: diversity, economics, Cornell
 
 <div class="row-fluid">
   <div class="span12">
+  
+  <div class="container">
+<h4><a name="contact"></a><!--contact--></h4>
+
+    <div class="row-fluid">
+        <div class="span3">
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/DICE.png"
+                  title="Diversity in Cornell Economics" alt="Diversity in Cornell Economics logo"/></a>
+        </div>
+        <div class="span5">
+            <b><font size="+2">Diversity in Cornell Economics</font></b><br/>
+            <br/>
+            Ph.D. Candidate in Economics<br/>
+            Cornell University<br/>
+            <br/>
+            <div id="hide_email">
+            Email: speakingeconomics@gmail.com<br/>
+            Twitter: <a href="https://twitter.com/Cornell_DICE">@Cornell_DICE</a><br/>
+            </div>
+        </div> 
+    </div>
+</div>
+
  
 Diversity in Cornell Economics (DICE) was founded by a group of Cornell graduate students in the fall of 2019.
 
@@ -34,14 +58,14 @@ In the spring 2020 semester, we are working on building community among graduate
 <br>
 <br>
 
-If you're an undergraduate or graduate student at Cornell and you (1) are interested in or working toward a degree in Economics, Policy Analysis and Management, or Applied Economics and Management, (2) would like to get involved, and (3) are committed to advancing our mission, you are more than welcome to join us! Feel free to contact us at the email address below.
+If you're an undergraduate or graduate student at Cornell and you (1) are interested in or working toward a degree in Economics, Policy Analysis and Management, or Applied Economics and Management, (2) would like to get involved, and (3) are committed to advancing our mission, you are more than welcome to join us! Feel free to contact us at our email address above.
 
 <br>
 <br>
 <br>
 
 
-<div class="container">
+<!-- <div class="container">
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
@@ -51,6 +75,7 @@ If you're an undergraduate or graduate student at Cornell and you (1) are intere
         </div>
     </div>
 </div>
+-->
 
 <!--
         <div class="span2">
