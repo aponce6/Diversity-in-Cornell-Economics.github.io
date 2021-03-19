@@ -49,6 +49,23 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <br/>
 <div class="page-header">
+<h4>2020-2021 Academic Year</h4>
+</div>
+
+<strong>Three Minute Econ: Taking the Spooky Out of Economics.</strong> Thursday, October 29, 2020.
+<li>Brief presentations of graduate student research followed by speed mentoring</li>
+<li><a href="{{ BASE_PATH }}/assets/Three Minute Economics.pdf">Flyer</a></li>
+<br/>
+<strong>Organizers:</strong>
+<li>DICE</li>
+
+<br/>
+<br/>
+<br/>
+
+
+<br/>
+<div class="page-header">
 <h4>2019-2020 Academic Year</h4>
 </div>
 
