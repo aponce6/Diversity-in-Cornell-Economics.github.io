@@ -99,6 +99,15 @@
 <br/>
 <br/>
 
+<p><img src="../assets/sadowski.jpg" alt="" width="30%"/></p>
+
+<p><strong>Katharine Sadowski</strong> is a Ph.D. student in the Policy Analysis and Management program. She is interested in Natural Language Processing, education interventions, and the economics of education.</p>
+
+<a href="https://twitter.com/kcsadow">Katharine's Twitter (@kcsadow)</a>
+
+<br/>
+<br/>
+
 <p><img src="../assets/tapia.jpg" alt="" width="30%"/></p>
 
 <p><strong>Jose Maria U. Tapia</strong> is an undergraduate Economics major. He is interested in researching the economics of education and economic growth. </p>
