@@ -38,8 +38,20 @@
     <br/>
     <a href="https://twitter.com/EconAnne">Anne (Byrne's) Twitter (@EconAnne)</a>
     
+<br/>
     <br/>
+    
+<p><img src="../assets/comey.jpg" alt="" width="30%"/></p>
+
+ <p><strong>Matt Comey</strong> is a Ph.D. candidate in the Economics program. His research interests are in public finance, urban economics, labor economics, and the economics of education. </p>
+
+    <a href="https://www.matthewcomey.com/">Matt's website</a>
     <br/>
+    <a href="https://twitter.com/matthewcomey">Matt's Twitter (@matthewcomey)</a>
+
+    
+<br/>
+<br/>
 
 <p><img src="../assets/crespin.jpg" alt="" width="30%"/></p>
 
