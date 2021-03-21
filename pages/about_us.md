@@ -75,9 +75,9 @@
 <br/>
 <br/>
 
-<p><img src="../assets/denault.jpg" alt="" width="30%"/></p>
+<p><img src="../assets/deneault.jpg" alt="" width="30%"/></p>
 
-<p><strong>Christa Denault</strong> is a Ph.D. candidate in the Economics program. Her areas of research include labor economics, economics of education, and applied microeconomics. </p>
+<p><strong>Christa Deneault</strong> is a Ph.D. candidate in the Economics program. Her areas of research include labor economics, economics of education, and applied microeconomics. </p>
 
 <a href="https://www.christa-deneault.com/">Christa's website</a>
 
