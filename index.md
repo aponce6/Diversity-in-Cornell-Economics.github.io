@@ -51,7 +51,7 @@ Our mission is to strive towards equity in economics and related fields, empower
 <br>
 <br>
 
-In the spring 2020 semester, we are working on building community among graduate students in the Applied Economics and Management, Policy Analysis and Management, and Economics programs at Cornell. We are also working on outreach to Cornell undergraduates. In the economics profession more broadly, we are continuing to promote the diversity, equity, and inclusion efforts of other groups and individuals through our <a href="https://twitter.com/Cornell_DICE">Twitter (@Cornell_DICE)</a>.
+We are currently working on improving diversity, equity, and inclusion, as well as building community among graduate students, in the Applied Economics and Management, Policy Analysis and Management, and Economics programs at Cornell. We are also working on outreach to Cornell undergraduates. In the economics profession more broadly, we are continuing to promote the diversity, equity, and inclusion efforts of other groups and individuals through our <a href="https://twitter.com/Cornell_DICE">Twitter (@Cornell_DICE)</a>.
 
 <br>
 <br>
