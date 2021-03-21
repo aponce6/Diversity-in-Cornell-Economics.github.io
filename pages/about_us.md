@@ -18,7 +18,20 @@
 </div>
 </html>
         
- <p><center><img src="../assets/burton.jpg" alt="" width="30%"/>
+  <p><center><img src="../assets/abbas.png" alt="" width="30%"/>
+ <br/>
+
+<p><strong>Ali Abbas</strong> is a Ph.D. candidate in the Applied Economics and Management program. His research interests are in public finance, political economy, and development economics, with a focus on fiscal policies in advanced and developing economies. </p>
+
+<a href="https://www.ali-abbas.com/">Ali's website</a>
+<br/>
+<a href="https://twitter.com/AliAbbas_Abidi">Ali's Twitter (@AliAbbas_Abidi)</a>
+
+    <br/>
+    <br/>
+
+
+<p><center><img src="../assets/burton.jpg" alt="" width="30%"/>
  <br/>
 
 <p><strong>Anne Burton</strong> is a Ph.D. candidate in the Economics program. Her research focuses on the social welfare implications of risky health behaviors and crime. </p>
@@ -62,11 +75,20 @@
 <br/>
 <br/>
 
+<p><img src="../assets/denault.jpg" alt="" width="30%"/></p>
+
+<p><strong>Christa Denault</strong> is a Ph.D. candidate in the Economics program. Her areas of research include labor economics, economics of education, and applied microeconomics. </p>
+
+<a href="https://www.christa-deneault.com/">Christa's website</a>
+
+<br/>
+<br/>
+
 <p><img src="../assets/dodini.jpg" alt="" width="30%"/></p>
 
 <p><strong>Sam Dodini</strong> is a Ph.D. candidate in the Policy Analysis and Management program. His research interests are broad but mainly focused on worker incentives, labor market institutions, education, and the effects of public expenditures on wellbeing. </p>
 
-<a href="https://www.human.cornell.edu/people/snd46">Sam's Cornell website</a>
+<a href="https://samueldodini.com/">Sam's website</a>
 <br/>
 <a href="https://twitter.com/microsamonomics">Sam's Twitter (@microsamonomics)</a>
 
