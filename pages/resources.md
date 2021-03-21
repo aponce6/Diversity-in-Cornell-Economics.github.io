@@ -368,7 +368,7 @@ This paper measures gender bias in what people say about women versus men in an 
     <strong>If you have any suggestions for resources or research to include, feel free to email us at
     <br/>
     <br/>
-    speakingeconomics@gmail.com</strong>
+    Cornell.DICE@gmail.com</strong>
 <br/>
 <br/>
 
