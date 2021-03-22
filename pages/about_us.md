@@ -126,7 +126,7 @@
 
 <p><img src="../assets/phillips.jpg" alt="" width="30%"/></p>
 
-<p><strong>Grace Phillips</strong> is a Ph.D. candidate in the Economics program. She is interested in labor economics, public economics, and the economics of crime as they relate to vulnerable populations.</p>
+<p><strong>Grace Phillips</strong> is a Ph.D. candidate in the Economics program. She is interested in labor, public, and the economics of crime as they relate to vulnerable populations.</p>
 
 <a href="https://twitter.com/Grace_Nettie">Grace's Twitter (@Grace_Nettie)</a>
 
@@ -135,7 +135,7 @@
 
 <p><img src="../assets/pierce.jpg" alt="" width="30%"/></p>
 
-<p><strong>Kalie Pierce</strong> is a Ph.D. student in the Economics program. She is interested in labor, public, discrimination, and stratification.</p>
+<p><strong>Kalie Pierce</strong> is a Ph.D. student in the Economics program. She is interested in labor economics, public economics, discrimination, and stratification.</p>
 
 <br/>
 <br/>
