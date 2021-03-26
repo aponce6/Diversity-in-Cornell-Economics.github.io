@@ -24,7 +24,7 @@ keywords: diversity, equity, inclusion, underrepresented, URM, women, BIPOC, LGB
 
     <div class="row-fluid">
         <div class="span3">
-        <a href="../assets/headshot.jpg">
+        <a href="../assets/DICE.png">
             <img src="../assets/DICE.png"
                   title="Diversity in Cornell Economics" alt="Diversity in Cornell Economics logo"/></a>
         </div>
@@ -87,7 +87,8 @@ If you're an undergraduate or graduate student at Cornell and you (1) are intere
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-      	 <li><a href="{{ BASE_PATH}}/pages/newsletter.html">Newsletter</a></li>
+     	 <li><a href="{{ BASE_PATH }}/pages/events.html">Events</a></li>
+      	 <li><a href="{{ BASE_PATH }}/pages/newsletter.html">Newsletter</a></li>
           <li><a href="https://github.com/Diversity-in-Cornell-Economics">GitHub</a></li>
           <li><a href="https://twitter.com/Cornell_DICE">Twitter (@Cornell_DICE)</a></li>
       </ul>
