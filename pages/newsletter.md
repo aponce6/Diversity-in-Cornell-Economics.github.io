@@ -50,8 +50,6 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 
 
-  </div>
-
 <br/>
 <br/>
 <br/>
@@ -59,7 +57,6 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <span id="lastModified"></span>
 
-</div>
 
 
 </body>

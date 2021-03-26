@@ -87,7 +87,6 @@ If you're an undergraduate or graduate student at Cornell and you (1) are intere
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-     	 <li><a href="{{ BASE_PATH }}/pages/events.html">Events</a></li>
       	 <li><a href="{{ BASE_PATH }}/pages/newsletter.html">Newsletter</a></li>
           <li><a href="https://github.com/Diversity-in-Cornell-Economics">GitHub</a></li>
           <li><a href="https://twitter.com/Cornell_DICE">Twitter (@Cornell_DICE)</a></li>
