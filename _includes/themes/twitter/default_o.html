@@ -1,4 +1,10 @@
-<!DOCTYPE html>
+\documentclass[10pt]{article}
+\usepackage[usenames]{color} %used for font color
+\usepackage{amssymb} %maths
+\usepackage{amsmath} %maths
+\usepackage[utf8]{inputenc} %useful to type directly diacritic characters
+\begin{document}
+\begin{align*}<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -41,9 +47,12 @@
         <div class="container-narrow">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
           <ul class="nav">
-              <li><a href="{{ BASE_PATH }}/assets/Anne_M_Burton_CV.pdf">CV</a></li>
-              <li><a href="{{ BASE_PATH }}/pages/research.html">Research</a></li>
-              <li><a href="https://docs.google.com/spreadsheets/d/1MNeXLKiwQA4MK3cZ3Hr1WWXZTReh3rKQU_yfTKnu-hg/edit?usp=sharing">Economics Conferences</a></li>
+              <li><a href="{{ BASE_PATH }}/pages/events.html">Events</a></li>
+              <li><a href="{{ BASE_PATH }}/pages/resources.html">Resources</a></li>
+              <!--<li><a href="{{ BASE_PATH }}/assets/Speaking Economics.pdf">Speaking Economics</a></li>-->
+              <li><a href="{{ BASE_PATH }}/pages/about_us.html">About Us</a></li>
+              <li><a href="{{ BASE_PATH }}/pages/related_groups.html">Related Groups</a></li>
+              <!--<li><a href="{{ BASE_PATH }}/assets/AEASP_info_session_cornell.pdf">AEASP Info Session</a></li>-->
           </ul>
         </div>
       </div>
@@ -62,3 +71,5 @@
     {% include JB/analytics %}
   </body>
 </html>
+\end{align*}
+\end{document}
