@@ -48,7 +48,7 @@ AEA climate survey final report announcement:
 
  <li><a href="https://www.aeaweb.org/resources/member-docs/final-climate-survey-results-sept-2019">Direct link to survey</a></li>
 <br/>
-AEA Best Practices for Economists: Building a More Diverse, Inclusive, and Productive Profession. Bayer, Amanda, &Scedil; ebnem Kalemli-&Ouml;zcan, Rohini Pande, Cecilia Elena Rouse, Anthony A. Smith Jr., Juan Carlos Su&aacute;rez-Serrato, and David W. Wilcox. 2019. American Economic Association. <li><a href="https://www.aeaweb.org/resources/best-practices">https://www.aeaweb.org/resources/best-practices</a></li>
+AEA Best Practices for Economists: Building a More Diverse, Inclusive, and Productive Profession. Bayer, Amanda, &Scedil;ebnem Kalemli-&Ouml;zcan, Rohini Pande, Cecilia Elena Rouse, Anthony A. Smith Jr., Juan Carlos Su&aacute;rez-Serrato, and David W. Wilcox. 2019. American Economic Association. <li><a href="https://www.aeaweb.org/resources/best-practices">https://www.aeaweb.org/resources/best-practices</a></li>
 
 <br/>
 
