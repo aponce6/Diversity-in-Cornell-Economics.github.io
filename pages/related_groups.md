@@ -88,6 +88,10 @@ AEA Summer Program:
 AEA Task Force on Best Practices for Professional Conduct in Economics:
 <li><a href="https://www.aeaweb.org/about-aea/committees/task-force-best-practices-professional-conduct">https://www.aeaweb.org/about-aea/committees/task-force-best-practices-professional-conduct</a></li>
 
+<br/>
+AEA Best Practices for Economists: Building a More Diverse, Inclusive, and Productive Profession:
+<li><a href="https://www.aeaweb.org/resources/best-practices">https://www.aeaweb.org/resources/best-practices</a></li>
+
 <!--
 <br/>
 AEA Mentoring Program:
