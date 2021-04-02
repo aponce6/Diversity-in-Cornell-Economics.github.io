@@ -37,6 +37,11 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <div class="row-fluid">
   <div class="span12">
+  
+<br/>
+<div class="page-header">
+<h4>Groups Affiliated with Professional Organizations</h4>
+</div>
  
 AEA Committee on the Status of Women in the Economics Profession (CSWEP):
 <li><a href="https://www.aeaweb.org/about-aea/committees/cswep">https://www.aeaweb.org/about-aea/committees/cswep</a></li>
@@ -63,6 +68,15 @@ Committee of Women in Agricultural Economics of the AAEA (CWAE):
 <li><a href="https://twitter.com/cwae_aaea">https://twitter.com/cwae_aaea</a></li>
 
 <br/>
+Canadian Women Economists Committee:
+<li><a href="https://twitter.com/CdnWomenEcon/">https://twitter.com/CdnWomenEcon</a></li>
+
+<br/>
+Discover Economics:
+<li><a href="https://www.discovereconomics.co.uk/">https://www.discovereconomics.co.uk/</a></li>
+<li><a href="https://twitter.com/DiscoverEcon">https://twitter.com/DiscoverEcon</a></li>
+
+<br/>
 AEA Summer Program:
 <li><a href="https://www.aeaweb.org/about-aea/committees/aeasp">https://www.aeaweb.org/about-aea/committees/aeasp</a></li>
 
@@ -74,6 +88,11 @@ AEA Mentoring Program:
 -->
 
 <br/>
+<div class="page-header">
+<h4>Professional Associations and Networks</h4>
+</div>
+
+<br/>
 American Society of Hispanic Economists (ASHE):
 <li><a href="https://asheweb.org/">https://asheweb.org/</a></li>
 
@@ -82,107 +101,17 @@ National Economic Association (NEA):
 <li><a href="https://www.neaecon.org/">https://www.neaecon.org/</a></li>
 
 <br/>
-Diversifying Economic Quality (Div.E.Q.):
-<li><a href="http://diversifyingecon.org/index.php/Main_Page">http://diversifyingecon.org/index.php/Main_Page</a></li>
+Association for Economic Research of Indigenous Peoples (AERIP):
+<li><a href="https://twitter.com/AERIPecon">https://twitter.com/AERIPecon</a></li>
 
 <br/>
-Economists for Equity at Berkeley (formerly Women in Economics at Berkeley):
-<li><a href="https://berkeleyeconomistsforequity.weebly.com/">https://berkeleyeconomistsforequity.weebly.com/</a></li>
-
-<br/>
-Harvard Graduate Women in Econ:
-<li><a href="https://harvardgwe.com/">https://harvardgwe.com/</a></li>
-<li><a href="https://twitter.com/HarvardGWE">https://twitter.com/HarvardGWE</a></li>
-
-<br/>
-Harvard Undergrads for Inclusion in Econ:
-<li><a href="https://twitter.com/harvarduie/">https://twitter.com/harvarduie/</a></li>
-
-<br/>
-Minnesota Center for Diversity in Economics:
-<li><a href="https://www.stkate.edu/academics/centers-and-institutes/mcde">https://www.stkate.edu/academics/centers-and-institutes/mcde</a></li>
-
-<br/>
-The Sadie Collective:
-<li><a href="https://www.sadiecollective.org/">https://www.sadiecollective.org/</a></li>
-<li><a href="https://twitter.com/SadieCollective">https://twitter.com/SadieCollective</a></li>
-
-<br/>
-UC Irvine Women in Econ:
-<li><a href="https://twitter.com/econwomen_uci">https://twitter.com/econwomen_uci</a></li>
-
-<br/>
-Diversifying Economics Network:
-<li><a href="https://diversifyeconomics.wixsite.com/home">https://diversifyeconomics.wixsite.com/home</a></li>
-<li><a href="https://twitter.com/DiversifyEcon">https://twitter.com/DiversifyEcon</a></li>
-
-<br/>
-The Black Economists Network:
-<li><a href="https://twitter.com/TheBlackEcon_">https://twitter.com/TheBlackEcon_</a></li>
-
-<br/>
-Diversity in Economics (at Erasmus School of Economics):
-<li><a href="https://twitter.com/DiversityinEcon">https://twitter.com/DiversityinEcon</a></li>
-
-<br/>
-Research in Color Foundation:
-<li><a href="https://www.researchincolor.org/">https://www.researchincolor.org/</a></li>
-<li><a href="https://twitter.com/ResearchInColor">https://twitter.com/ResearchInColor</a></li>
-
-<br/>
-George Washington University Women in Economics:
-<li><a href="https://www.gwuwomeninecon.org/">https://www.gwuwomeninecon.org/</a></li>
-
-<br/>
-Canadian Women Economists Committee:
-<li><a href="https://twitter.com/CdnWomenEcon/">https://twitter.com/CdnWomenEcon</a></li>
-
-<br/>
-Econ Seminar Diversity (Jennifer Doleac, Elizabeth Pancotti, Nate Apathy, and Kelsey Skvoretz):
-<li><a href="https://econseminardiversity.shinyapps.io/EconSeminarDiversity/">https://econseminardiversity.shinyapps.io/EconSeminarDiversity/</a></li>
-
-<br/>
-WeSB (at UC Santa Barbara):
-<li><a href="http://econ.ucsb.edu/graduate/resources/women-in-economics-at-santa-barbara-(wesb)">http://econ.ucsb.edu/graduate/resources/women-in-economics-at-santa-barbara-(wesb)</a></li>
-
-<br/>
-Women in Economics Network (Australia):
-<li><a href="https://twitter.com/WomenEconAU">https://twitter.com/WomenEconAU</a></li>
-
-<br/>
-Consortium for Inclusive Economics at UNSW:
-<li><a href="https://www.ciee.unsw.edu.au">https://www.ciee.unsw.edu.au</a></li>
-
-<br/>
-VrauWL (in Vienna, Austria):
-<li><a href="http://vrauwl.org">http://vrauwl.org</a></li>
-
-<br/>
-Women's Empowerment and Rational Inclusion at Stanford Economics (WeRISE):
-<li><a href="https://twitter.com/WeRISEStanford">https://twitter.com/WeRISEStanford</a></li>
-
-<br/>
-Women in Economics Initiative (WiE):
-<li><a href="https://women-in-economics.com/">https://women-in-economics.com/</a></li>
-<li><a href="https://twitter.com/Women_in_Econ">https://twitter.com/Women_in_Econ</a></li>
-
-<br/>
-Women in Econ at Toulouse School of Economics:
-<li><a href="https://twitter.com/WomenTSE">https://twitter.com/WomenTSE</a></li>
+Indigenous Econ:
+<li><a href="https://indigenousecon.org/">https://indigenousecon.org/</a></li>
+<li><a href="https://twitter.com/IndigenousEcon">https://twitter.com/IndigenousEcon</a></li>
 
 <br/>
 Women in Macro:
 <li><a href="https://twitter.com/WomenInMacro">https://twitter.com/WomenInMacro</a></li>
-
-<br/>
-Discover Economics:
-<li><a href="https://www.discovereconomics.co.uk/">https://www.discovereconomics.co.uk/</a></li>
-<li><a href="https://twitter.com/DiscoverEcon">https://twitter.com/DiscoverEcon</a></li>
-
-<br/>
-Pathways to Research and Doctoral Careers (PREDOC):
-<li><a href="https://predoc.org/">https://predoc.org/</a></li>
-<li><a href="https://twitter.com/predoc_org">https://twitter.com/predoc_org</a></li>
 
 <br/>
 SOAS Feminist Economics Network:
@@ -203,13 +132,107 @@ REPP -- The Brazilian Black Economists Network:
 <li><a href="https://twitter.com/repp_economia">https://twitter.com/repp_economia</a></li>
 
 <br/>
+Diversifying Economics Network:
+<li><a href="https://diversifyeconomics.wixsite.com/home">https://diversifyeconomics.wixsite.com/home</a></li>
+<li><a href="https://twitter.com/DiversifyEcon">https://twitter.com/DiversifyEcon</a></li>
+
+<br/>
+The Black Economists Network:
+<li><a href="https://twitter.com/TheBlackEcon_">https://twitter.com/TheBlackEcon_</a></li>
+
+<br/>
+Women in Economics Network (Australia):
+<li><a href="https://twitter.com/WomenEconAU">https://twitter.com/WomenEconAU</a></li>
+
+<br/>
+VrauWL (in Vienna, Austria):
+<li><a href="http://vrauwl.org">http://vrauwl.org</a></li>
+
+<br/>
+Women in Economics Initiative (WiE):
+<li><a href="https://women-in-economics.com/">https://women-in-economics.com/</a></li>
+<li><a href="https://twitter.com/Women_in_Econ">https://twitter.com/Women_in_Econ</a></li>
+
+<br/>
 Women in Econ/Policy:
 <li><a href="https://www.womenineconpolicy.com/">https://www.womenineconpolicy.com/</a></li>
 <li><a href="https://twitter.com/weconpol">https://twitter.com/weconpol</a></li>
 
+
+
+
 <br/>
-Association for Economic Research of Indigenous Peoples (AERIP):
-<li><a href="https://twitter.com/AERIPecon">https://twitter.com/AERIPecon</a></li>
+<div class="page-header">
+<h4>Groups Working to Improve the Pipeline</h4>
+</div>
+
+<br/>
+The Sadie Collective:
+<li><a href="https://www.sadiecollective.org/">https://www.sadiecollective.org/</a></li>
+<li><a href="https://twitter.com/SadieCollective">https://twitter.com/SadieCollective</a></li>
+
+<br/>
+Research in Color Foundation:
+<li><a href="https://www.researchincolor.org/">https://www.researchincolor.org/</a></li>
+<li><a href="https://twitter.com/ResearchInColor">https://twitter.com/ResearchInColor</a></li>
+
+<br/>
+Diversifying Economic Quality (Div.E.Q.):
+<li><a href="http://diversifyingecon.org/index.php/Main_Page">http://diversifyingecon.org/index.php/Main_Page</a></li>
+
+<br/>
+Ph.D. Excellence Initiative:
+<li><a href="https://www.phdexcellence.org/">https://www.phdexcellence.org/</a></li>
+<li><a href="https://twitter.com/PhDEI_Econ">https://twitter.com/PhDEI_Econ</a></li>
+
+<br/>
+Pathways to Research and Doctoral Careers (PREDOC):
+<li><a href="https://predoc.org/">https://predoc.org/</a></li>
+<li><a href="https://twitter.com/predoc_org">https://twitter.com/predoc_org</a></li>
+
+<br/>
+Econ Seminar Diversity (Jennifer Doleac, Elizabeth Pancotti, Nate Apathy, and Kelsey Skvoretz):
+<li><a href="https://econseminardiversity.shinyapps.io/EconSeminarDiversity/">https://econseminardiversity.shinyapps.io/EconSeminarDiversity/</a></li>
+
+
+
+<br/>
+<div class="page-header">
+<h4>Groups Affiliated with Universities</h4>
+</div>
+
+<br/>
+Economists for Equity at Berkeley (formerly Women in Economics at Berkeley):
+<li><a href="https://berkeleyeconomistsforequity.weebly.com/">https://berkeleyeconomistsforequity.weebly.com/</a></li>
+
+<br/>
+Harvard Graduate Women in Econ:
+<li><a href="https://harvardgwe.com/">https://harvardgwe.com/</a></li>
+<li><a href="https://twitter.com/HarvardGWE">https://twitter.com/HarvardGWE</a></li>
+
+<br/>
+Harvard Undergrads for Inclusion in Econ:
+<li><a href="https://twitter.com/harvarduie/">https://twitter.com/harvarduie/</a></li>
+
+<br/>
+Minnesota Center for Diversity in Economics:
+<li><a href="https://www.stkate.edu/academics/centers-and-institutes/mcde">https://www.stkate.edu/academics/centers-and-institutes/mcde</a></li>
+
+<br/>
+UC Irvine Women in Econ:
+<li><a href="https://twitter.com/econwomen_uci">https://twitter.com/econwomen_uci</a></li>
+
+<br/>
+Diversity in Economics (at Erasmus School of Economics):
+<li><a href="https://twitter.com/DiversityinEcon">https://twitter.com/DiversityinEcon</a></li>
+
+<br/>
+George Washington University Women in Economics:
+<li><a href="https://www.gwuwomeninecon.org/">https://www.gwuwomeninecon.org/</a></li>
+
+<br/>
+WeSB (at UC Santa Barbara):
+<li><a href="http://econ.ucsb.edu/graduate/resources/women-in-economics-at-santa-barbara-(wesb)">http://econ.ucsb.edu/graduate/resources/women-in-economics-at-santa-barbara-(wesb)</a></li>
 
 <br/>
 University of San Francisco Women and Diversity in Economics:
@@ -224,14 +247,19 @@ Graduate Women in Economics at Ohio State:
 <li><a href="https://twitter.com/OSUGWE">https://twitter.com/OSUGWE</a></li>
 
 <br/>
-Ph.D. Excellence Initiative:
-<li><a href="https://www.phdexcellence.org/">https://www.phdexcellence.org/</a></li>
-<li><a href="https://twitter.com/PhDEI_Econ">https://twitter.com/PhDEI_Econ</a></li>
+Women's Empowerment and Rational Inclusion at Stanford Economics (WeRISE):
+<li><a href="https://twitter.com/WeRISEStanford">https://twitter.com/WeRISEStanford</a></li>
 
 <br/>
-Indigenous Econ:
-<li><a href="https://indigenousecon.org/">https://indigenousecon.org/</a></li>
-<li><a href="https://twitter.com/IndigenousEcon">https://twitter.com/IndigenousEcon</a></li>
+Women in Econ at Toulouse School of Economics:
+<li><a href="https://twitter.com/WomenTSE">https://twitter.com/WomenTSE</a></li>
+
+<br/>
+Consortium for Inclusive Economics at UNSW:
+<li><a href="https://www.ciee.unsw.edu.au">https://www.ciee.unsw.edu.au</a></li>
+
+
+
 
     <br/>
     <br/>
