@@ -88,11 +88,12 @@ AEA Mentoring Program:
 -->
 
 <br/>
+
+<br/>
 <div class="page-header">
 <h4>Professional Associations and Networks</h4>
 </div>
 
-<br/>
 American Society of Hispanic Economists (ASHE):
 <li><a href="https://asheweb.org/">https://asheweb.org/</a></li>
 
@@ -159,14 +160,13 @@ Women in Econ/Policy:
 <li><a href="https://twitter.com/weconpol">https://twitter.com/weconpol</a></li>
 
 
-
+<br/>
 
 <br/>
 <div class="page-header">
 <h4>Groups Working to Improve the Pipeline</h4>
 </div>
 
-<br/>
 The Sadie Collective:
 <li><a href="https://www.sadiecollective.org/">https://www.sadiecollective.org/</a></li>
 <li><a href="https://twitter.com/SadieCollective">https://twitter.com/SadieCollective</a></li>
@@ -197,11 +197,12 @@ Econ Seminar Diversity (Jennifer Doleac, Elizabeth Pancotti, Nate Apathy, and Ke
 
 
 <br/>
+<br/>
 <div class="page-header">
 <h4>Groups Affiliated with Universities</h4>
 </div>
 
-<br/>
+
 Economists for Equity at Berkeley (formerly Women in Economics at Berkeley):
 <li><a href="https://berkeleyeconomistsforequity.weebly.com/">https://berkeleyeconomistsforequity.weebly.com/</a></li>
 
