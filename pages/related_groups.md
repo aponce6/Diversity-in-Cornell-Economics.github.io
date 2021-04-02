@@ -58,6 +58,10 @@ AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession:
 <li><a href="https://twitter.com/LGBTQ_Econ">https://twitter.com/LGBTQ_Econ</a></li>
 
 <br/>
+AEA Committee on Equity, Diversity, and Professional Conduct:
+<li><a href="https://www.aeaweb.org/about-aea/committees/equity-diversity-professional-conduct">https://www.aeaweb.org/about-aea/committees/equity-diversity-professional-conduct</a></li>
+
+<br/>
 Committee on the Opportunities and Status of Blacks in Agricultural Economics of the AAEA (COSBAE):
 <li><a href="https://www.aaea.org/membership/sections/cosbae">https://www.aaea.org/membership/sections/cosbae</a></li>
 <li><a href="https://twitter.com/COSBAE_AAEA">https://twitter.com/COSBAE_AAEA</a></li>
@@ -79,6 +83,10 @@ Discover Economics:
 <br/>
 AEA Summer Program:
 <li><a href="https://www.aeaweb.org/about-aea/committees/aeasp">https://www.aeaweb.org/about-aea/committees/aeasp</a></li>
+
+<br/>
+AEA Task Force on Best Practices for Professional Conduct in Economics:
+<li><a href="https://www.aeaweb.org/about-aea/committees/task-force-best-practices-professional-conduct">https://www.aeaweb.org/about-aea/committees/task-force-best-practices-professional-conduct</a></li>
 
 <!--
 <br/>
