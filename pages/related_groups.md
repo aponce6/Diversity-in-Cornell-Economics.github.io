@@ -40,14 +40,38 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
  
 AEA Committee on the Status of Women in the Economics Profession (CSWEP):
 <li><a href="https://www.aeaweb.org/about-aea/committees/cswep">https://www.aeaweb.org/about-aea/committees/cswep</a></li>
+<li><a href="https://twitter.com/AEACSWEP">https://twitter.com/AEACSWEP</a></li>
 
 <br/>
 AEA Committee on the Status of Minority Groups in the Economics Profession (CSMGEP):
 <li><a href="https://www.aeaweb.org/about-aea/committees/csmgep">https://www.aeaweb.org/about-aea/committees/csmgep</a></li>
+<li><a href="https://twitter.com/AEACSMGEP">https://twitter.com/AEACSMGEP</a></li>
 
 <br/>
 AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession:
 <li><a href="https://www.aeaweb.org/about-aea/committees/aealgbtq">https://www.aeaweb.org/about-aea/committees/aealgbtq</a></li>
+<li><a href="https://twitter.com/LGBTQ_Econ">https://twitter.com/LGBTQ_Econ</a></li>
+
+<br/>
+Committee on the Opportunities and Status of Blacks in Agricultural Economics of the AAEA (COSBAE):
+<li><a href="https://www.aaea.org/membership/sections/cosbae">https://www.aaea.org/membership/sections/cosbae</a></li>
+<li><a href="https://twitter.com/COSBAE_AAEA">https://twitter.com/COSBAE_AAEA</a></li>
+
+<br/>
+Committee of Women in Agricultural Economics of the AAEA (CWAE):
+<li><a href="https://www.aaea.org/membership/sections/cwae">https://www.aaea.org/membership/sections/cwae</a></li>
+<li><a href="https://twitter.com/cwae_aaea">https://twitter.com/cwae_aaea</a></li>
+
+<br/>
+AEA Summer Program:
+<li><a href="https://www.aeaweb.org/about-aea/committees/aeasp">https://www.aeaweb.org/about-aea/committees/aeasp</a></li>
+
+<!--
+<br/>
+AEA Mentoring Program:
+<li><a href="https://www.aeaweb.org/about-aea/committees/csmgep/mentoring">https://www.aeaweb.org/about-aea/committees/csmgep/mentoring</a></li>s
+<li><a href="https://twitter.com/AEAMP1">https://twitter.com/AEAMP1</a></li>
+-->
 
 <br/>
 American Society of Hispanic Economists (ASHE):
@@ -68,11 +92,11 @@ Economists for Equity at Berkeley (formerly Women in Economics at Berkeley):
 <br/>
 Harvard Graduate Women in Econ:
 <li><a href="https://harvardgwe.com/">https://harvardgwe.com/</a></li>
+<li><a href="https://twitter.com/HarvardGWE">https://twitter.com/HarvardGWE</a></li>
 
 <br/>
 Harvard Undergrads for Inclusion in Econ:
 <li><a href="https://twitter.com/harvarduie/">https://twitter.com/harvarduie/</a></li>
-
 
 <br/>
 Minnesota Center for Diversity in Economics:
@@ -81,6 +105,7 @@ Minnesota Center for Diversity in Economics:
 <br/>
 The Sadie Collective:
 <li><a href="https://www.sadiecollective.org/">https://www.sadiecollective.org/</a></li>
+<li><a href="https://twitter.com/SadieCollective">https://twitter.com/SadieCollective</a></li>
 
 <br/>
 UC Irvine Women in Econ:
@@ -89,6 +114,7 @@ UC Irvine Women in Econ:
 <br/>
 Diversifying Economics Network:
 <li><a href="https://diversifyeconomics.wixsite.com/home">https://diversifyeconomics.wixsite.com/home</a></li>
+<li><a href="https://twitter.com/DiversifyEcon">https://twitter.com/DiversifyEcon</a></li>
 
 <br/>
 The Black Economists Network:
@@ -101,6 +127,7 @@ Diversity in Economics (at Erasmus School of Economics):
 <br/>
 Research in Color Foundation:
 <li><a href="https://www.researchincolor.org/">https://www.researchincolor.org/</a></li>
+<li><a href="https://twitter.com/ResearchInColor">https://twitter.com/ResearchInColor</a></li>
 
 <br/>
 George Washington University Women in Economics:
@@ -133,6 +160,78 @@ VrauWL (in Vienna, Austria):
 <br/>
 Women's Empowerment and Rational Inclusion at Stanford Economics (WeRISE):
 <li><a href="https://twitter.com/WeRISEStanford">https://twitter.com/WeRISEStanford</a></li>
+
+<br/>
+Women in Economics Initiative (WiE):
+<li><a href="https://women-in-economics.com/">https://women-in-economics.com/</a></li>
+<li><a href="https://twitter.com/Women_in_Econ">https://twitter.com/Women_in_Econ</a></li>
+
+<br/>
+Women in Econ at Toulouse School of Economics:
+<li><a href="https://twitter.com/WomenTSE">https://twitter.com/WomenTSE</a></li>
+
+<br/>
+Women in Macro:
+<li><a href="https://twitter.com/WomenInMacro">https://twitter.com/WomenInMacro</a></li>
+
+<br/>
+Discover Economics:
+<li><a href="https://www.discovereconomics.co.uk/">https://www.discovereconomics.co.uk/</a></li>
+<li><a href="https://twitter.com/DiscoverEcon">https://twitter.com/DiscoverEcon</a></li>
+
+<br/>
+PREDOC.org:
+<li><a href="https://predoc.org/">https://predoc.org/</a></li>
+<li><a href="https://twitter.com/predoc_org">https://twitter.com/predoc_org</a></li>
+
+<br/>
+SOAS Feminist Economics Network:
+<li><a href="https://soasfemecon.wixsite.com/website">https://soasfemecon.wixsite.com/website</a></li>
+<li><a href="https://twitter.com/FemEconSoas">https://twitter.com/FemEconSoas</a></li>
+
+<br/>
+Women's Budget Group Early-Career Network:
+<li><a href="https://wbg.org.uk/early-career-network/">https://wbg.org.uk/early-career-network/</a></li>
+<li><a href="https://twitter.com/WBG_ECN">https://twitter.com/WBG_ECN</a></li>
+
+<br/>
+Working Class Economists' Group:
+<li><a href="https://twitter.com/TheWCEG">https://twitter.com/TheWCEG</a></li>
+
+<br/>
+REPP -- The Brazilian Black Economists Network:
+<li><a href="https://twitter.com/repp_economia">https://twitter.com/repp_economia</a></li>
+
+<br/>
+Women in Econ/Policy:
+<li><a href="https://www.womenineconpolicy.com/">https://www.womenineconpolicy.com/</a></li>
+<li><a href="https://twitter.com/weconpol">https://twitter.com/weconpol</a></li>
+
+<br/>
+Association for Economic Research of Indigenous Peoples (AERIP):
+<li><a href="https://twitter.com/AERIPecon">https://twitter.com/AERIPecon</a></li>
+
+<br/>
+University of San Francisco Women and Diversity in Economics:
+<li><a href="https://twitter.com/WDEusfca">https://twitter.com/WDEusfca</a></li>
+
+<br/>
+Michigan Women in Economics:
+<li><a href="https://twitter.com/UMichWIE">https://twitter.com/UMichWIE</a></li>
+
+<br/>
+Graduate Women in Economics at Ohio State:
+<li><a href="https://twitter.com/OSUGWE">https://twitter.com/OSUGWE</a></li>
+
+<br/>
+Ph.D. Excellence Initiative:
+<li><a href="https://www.phdexcellence.org/">https://www.phdexcellence.org/</a></li>
+<li><a href="https://twitter.com/PhDEI_Econ">https://twitter.com/PhDEI_Econ</a></li>
+
+<br/>
+Indigenous Econ:
+<li><a href="https://indigenousecon.org/">https://indigenousecon.org/</a></li>
+<li><a href="https://twitter.com/IndigenousEcon">https://twitter.com/IndigenousEcon</a></li>
 
     <br/>
     <br/>
