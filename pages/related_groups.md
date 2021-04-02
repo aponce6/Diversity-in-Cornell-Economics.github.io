@@ -70,6 +70,11 @@ Harvard Graduate Women in Econ:
 <li><a href="https://harvardgwe.com/">https://harvardgwe.com/</a></li>
 
 <br/>
+Harvard Undergrads for Inclusion in Econ:
+<li><a href="https://twitter.com/harvarduie/">https://twitter.com/harvarduie/</a></li>
+
+
+<br/>
 Minnesota Center for Diversity in Economics:
 <li><a href="https://www.stkate.edu/academics/centers-and-institutes/mcde">https://www.stkate.edu/academics/centers-and-institutes/mcde</a></li>
 
