@@ -180,7 +180,7 @@ Discover Economics:
 <li><a href="https://twitter.com/DiscoverEcon">https://twitter.com/DiscoverEcon</a></li>
 
 <br/>
-PREDOC.org:
+Pathways to Research and Doctoral Careers (PREDOC):
 <li><a href="https://predoc.org/">https://predoc.org/</a></li>
 <li><a href="https://twitter.com/predoc_org">https://twitter.com/predoc_org</a></li>
 
