@@ -171,6 +171,25 @@ Women in Econ/Policy:
 <li><a href="https://www.womenineconpolicy.com/">https://www.womenineconpolicy.com/</a></li>
 <li><a href="https://twitter.com/weconpol">https://twitter.com/weconpol</a></li>
 
+<br/>
+History of Economics Diversity Caucus:
+<li><a href="https://twitter.com/diversityhet">https://twitter.com/diversityhet</a></li>
+
+<br/>
+Diversifying and Decolonising Economics:
+<li><a href="https://d-econ.org/">https://d-econ.org/</a></li>
+<li><a href="https://twitter.com/DivDecEcon">https://twitter.com/DivDecEcon</a></li>
+
+<!--
+<br/>
+The Association for Heterodox Economics (AHE):
+<li><a href="https://www.hetecon.net/">https://www.hetecon.net/</a></li>
+<li><a href="https://twitter.com/hetecon">https://twitter.com/hetecon</a></li>
+
+International Association for Feminist Economics (IAFFE):
+<li><a href="http://www.iaffe.org/">http://www.iaffe.org/</a></li>
+<li><a href="https://twitter.com/IAFFE">https://twitter.com/IAFFE</a></li>
+-->
 
 <br/>
 
@@ -209,6 +228,10 @@ Econ Seminar Diversity (Jennifer Doleac, Elizabeth Pancotti, Nate Apathy, and Ke
 <br/>
 Graduate Applications International Network (GAIN):
 <li><a href="https://twitter.com/GAIN_Network_">https://twitter.com/GAIN_Network_</a></li>
+
+<br/>
+Williams College Promoting Inclusion in Economic Research (PIER) Conference:
+<li><a href="https://sites.google.com/williams.edu/pier/home">https://sites.google.com/williams.edu/pier/home</a></li>
 
 
 
@@ -274,6 +297,15 @@ Women in Econ at Toulouse School of Economics:
 <br/>
 Consortium for Inclusive Economics at UNSW:
 <li><a href="https://www.ciee.unsw.edu.au">https://www.ciee.unsw.edu.au</a></li>
+
+<br/>
+Women in Economics at Miami University (WE @ MU):
+<li><a href="https://miamioh.campuslabs.com/engage/organization/wemu">https://miamioh.campuslabs.com/engage/organization/wemu</a></li>
+
+<br/>
+Boston University Women in Economics Organization (WEorg):
+<li><a href="https://www.bu.edu/econ/community/studentorgs/weorg/">https://www.bu.edu/econ/community/studentorgs/weorg/</a></li>
+<li><a href="https://twitter.com/BU_WEorg">https://twitter.com/BU_WEorg</a></li>
 
 
 
