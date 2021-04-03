@@ -180,6 +180,11 @@ Diversifying and Decolonising Economics:
 <li><a href="https://d-econ.org/">https://d-econ.org/</a></li>
 <li><a href="https://twitter.com/DivDecEcon">https://twitter.com/DivDecEcon</a></li>
 
+<br/>
+Bahujan Economists:
+<li><a href="https://bahujanecon.org/">https://bahujanecon.org/</a></li>
+<li><a href="https://twitter.com/BahujanEcon">https://twitter.com/BahujanEcon</a></li>
+
 <!--
 <br/>
 The Association for Heterodox Economics (AHE):
