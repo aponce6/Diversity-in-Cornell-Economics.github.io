@@ -206,6 +206,10 @@ Pathways to Research and Doctoral Careers (PREDOC):
 Econ Seminar Diversity (Jennifer Doleac, Elizabeth Pancotti, Nate Apathy, and Kelsey Skvoretz):
 <li><a href="https://econseminardiversity.shinyapps.io/EconSeminarDiversity/">https://econseminardiversity.shinyapps.io/EconSeminarDiversity/</a></li>
 
+<br/>
+Graduate Applications International Network (GAIN):
+<li><a href="https://twitter.com/GAIN_Network_">https://twitter.com/GAIN_Network_</a></li>
+
 
 
 <br/>
