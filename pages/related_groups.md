@@ -185,6 +185,10 @@ Bahujan Economists:
 Association for the Advancement of African Women Economists (AAAWE):
 <li><a href="http://www.aaawe.org">http://www.aaawe.org</a></li>
 
+<br/>
+International Association for Feminist Economics (IAFFE):
+<li><a href="http://www.iaffe.org/">http://www.iaffe.org/</a></li>
+
 <!--
 <br/>
 The Association for Heterodox Economics (AHE):
