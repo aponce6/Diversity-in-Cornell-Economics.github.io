@@ -172,10 +172,6 @@ Women in Econ/Policy:
 <li><a href="https://twitter.com/weconpol">https://twitter.com/weconpol</a></li>
 
 <br/>
-History of Economics Diversity Caucus:
-<li><a href="https://twitter.com/diversityhet">https://twitter.com/diversityhet</a></li>
-
-<br/>
 Diversifying and Decolonising Economics:
 <li><a href="https://d-econ.org/">https://d-econ.org/</a></li>
 <li><a href="https://twitter.com/DivDecEcon">https://twitter.com/DivDecEcon</a></li>
@@ -184,6 +180,10 @@ Diversifying and Decolonising Economics:
 Bahujan Economists:
 <li><a href="https://bahujanecon.org/">https://bahujanecon.org/</a></li>
 <li><a href="https://twitter.com/BahujanEcon">https://twitter.com/BahujanEcon</a></li>
+
+<br/>
+Association for the Advancement of African Women Economists (AAAWE):
+<li><a href="http://www.aaawe.org">http://www.aaawe.org</a></li>
 
 <!--
 <br/>
@@ -194,6 +194,11 @@ The Association for Heterodox Economics (AHE):
 International Association for Feminist Economics (IAFFE):
 <li><a href="http://www.iaffe.org/">http://www.iaffe.org/</a></li>
 <li><a href="https://twitter.com/IAFFE">https://twitter.com/IAFFE</a></li>
+
+<br/>
+History of Economics Diversity Caucus:
+<li><a href="https://twitter.com/diversityhet">https://twitter.com/diversityhet</a></li>
+
 -->
 
 <br/>
@@ -237,6 +242,11 @@ Graduate Applications International Network (GAIN):
 <br/>
 Williams College Promoting Inclusion in Economic Research (PIER) Conference:
 <li><a href="https://sites.google.com/williams.edu/pier/home">https://sites.google.com/williams.edu/pier/home</a></li>
+
+<br/>
+Association for Mentoring and Inclusion in Economics (AMIE):
+<li><a href="https://econmentoring.org/">https://econmentoring.org/</a></li>
+<li><a href="https://twitter.com/econmentoring">https://twitter.com/econmentoring</a></li>
 
 
 
