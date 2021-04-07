@@ -326,6 +326,10 @@ Boston University Women in Economics Organization (WEorg):
 <li><a href="https://www.bu.edu/econ/community/studentorgs/weorg/">https://www.bu.edu/econ/community/studentorgs/weorg/</a></li>
 <li><a href="https://twitter.com/BU_WEorg">https://twitter.com/BU_WEorg</a></li>
 
+<br/>
+Women in Economics at Kansas State University:
+<li><a href="https://www.k-state.edu/economics/wie/index.html">https://www.k-state.edu/economics/wie/index.html</a></li>
+
 
 
 
