@@ -275,7 +275,8 @@ Harvard Undergrads for Inclusion in Econ:
 
 <br/>
 Minnesota Center for Diversity in Economics:
-<li><a href="https://www.stkate.edu/academics/centers-and-institutes/mcde">https://www.stkate.edu/academics/centers-and-institutes/mcde</a></li>
+<li><a href="https://www.stkate.edu/academics/shas/political-science-and-economics-department/mcde">https://www.stkate.edu/academics/shas/political-science-and-economics-department/mcde</a></li>
+<li><a href="https://twitter.com/MCDE_StKate">https://twitter.com/MCDE_StKate</a></li>
 
 <br/>
 UC Irvine Women in Econ:
@@ -291,7 +292,7 @@ George Washington University Women in Economics:
 
 <br/>
 WeSB (at UC Santa Barbara):
-<li><a href="http://econ.ucsb.edu/graduate/resources/women-in-economics-at-santa-barbara-(wesb)">http://econ.ucsb.edu/graduate/resources/women-in-economics-at-santa-barbara-(wesb)</a></li>
+<li><a href="https://econ.ucsb.edu/programs/graduate/wesb">https://econ.ucsb.edu/programs/graduate/wesb</a></li>
 
 <br/>
 University of San Francisco Women and Diversity in Economics:
