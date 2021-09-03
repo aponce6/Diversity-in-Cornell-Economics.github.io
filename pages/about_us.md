@@ -159,7 +159,7 @@
 <br/>
 	
 <div class="page-header">
-  <h2><left>Alumni </></h2>
+  <h2><left>Alumni </left></h2>
 </div>	
 
  <p><center><img src="../assets/abbas.png" alt="" width="30%"/>
