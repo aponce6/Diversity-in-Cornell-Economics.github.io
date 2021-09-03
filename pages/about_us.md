@@ -154,7 +154,9 @@
 
 -->
 	
-	
+<br/>
+<br/>
+<br/>
 	
 <div class="page-header">
   <h2>Alumni </h2>
@@ -187,11 +189,11 @@
     
 <p><img src="../assets/byrne.jpg" alt="" width="30%"/></p>
 
- <p><strong>Anne Byrne</strong> is a Ph.D. candidate in the Applied Economics and Management program. She studies the economics of food, with a particular interest in food assistance programs. </p>
+<p><strong>Anne Byrne</strong> is a Ph.D. candidate in the Applied Economics and Management program. She studies the economics of food, with a particular interest in food assistance programs. </p>
 
-    <a href="https://www.econanne.com">Anne (Byrne's) website</a>
-    <br/>
-    <a href="https://twitter.com/EconAnne">Anne (Byrne's) Twitter (@EconAnne)</a>
+<a href="https://www.econanne.com">Anne (Byrne's) website</a>
+<br/>
+<a href="https://twitter.com/EconAnne">Anne (Byrne's) Twitter (@EconAnne)</a>
     
 	
 <br/>
