@@ -22,7 +22,7 @@
 <br/>
 <br/>
     
-<p><center><img src="../assets/comey.jpg" alt="" width="30%"/></p>
+<p><center><img src="../assets/comey.jpg" alt="" width="30%"/>
 
 <p><strong>Matt Comey</strong> is a Ph.D. candidate in the Economics program. His research interests are in public finance, urban economics, labor economics, and the economics of education. </p>
 
@@ -224,10 +224,10 @@
 <br/>
 <br/>
     
-    <strong>If you would like to join us, feel free to reach out at
-    <br/>
-    <br/>
-    Cornell.DICE@gmail.com</strong>
+<strong>If you would like to join us, feel free to reach out at
+<br/>
+<br/>
+Cornell.DICE@gmail.com</strong>
 
  
 
