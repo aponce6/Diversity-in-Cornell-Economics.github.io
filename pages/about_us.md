@@ -34,7 +34,7 @@
 <p><center><img src="../assets/burton.jpg" alt="" width="30%"/>
  <br/>
 
-<p><strong>Anne Burton</strong> is a Ph.D. candidate in the Economics program. Her research focuses on the social welfare implications of risky health behaviors and crime. </p>
+<p><strong>Anne Burton</strong> received her Ph.D. in Economics from Cornell in 2021. Her research focuses on the spillover effects of risky health behaviors and crime. She is currently an Assistant Professor of Economics at The University of Texas at Dallas. </p>
 
 <a href="https://annemburton.com">Anne (Burton's) website</a>
 <br/>
