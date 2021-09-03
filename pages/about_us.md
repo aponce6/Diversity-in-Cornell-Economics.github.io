@@ -157,9 +157,10 @@
 <br/>
 <br/>
 <br/>
+	</center>
 	
 <div class="page-header">
-  <h2><left>Alumni </left></h2>
+  <h2>Alumni </h2>
 </div>	
 
  <p><center><img src="../assets/abbas.png" alt="" width="30%"/>
