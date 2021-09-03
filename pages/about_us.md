@@ -18,39 +18,7 @@
 </div>
 </html>
         
-  <p><center><img src="../assets/abbas.png" alt="" width="30%"/>
- <br/>
-
-<p><strong>Ali Abbas</strong> is a Ph.D. candidate in the Applied Economics and Management program. His research interests are in public finance, political economy, and development economics, with a focus on fiscal policies in advanced and developing economies. </p>
-
-<a href="https://www.ali-abbas.com/">Ali's website</a>
-<br/>
-<a href="https://twitter.com/AliAbbas_Abidi">Ali's Twitter (@AliAbbas_Abidi)</a>
-
-    <br/>
-    <br/>
-
-
-<p><center><img src="../assets/burton.jpg" alt="" width="30%"/>
- <br/>
-
-<p><strong>Anne Burton</strong> received her Ph.D. in Economics from Cornell in 2021. Her research focuses on the spillover effects of risky health behaviors and crime. She is currently an Assistant Professor of Economics at The University of Texas at Dallas. </p>
-
-<a href="https://annemburton.com">Anne (Burton's) website</a>
-<br/>
-<a href="https://twitter.com/anne_m_burton">Anne (Burton's) Twitter (@anne_m_burton)</a>
-
-    <br/>
-    <br/>
-    
-<p><img src="../assets/byrne.jpg" alt="" width="30%"/></p>
-
- <p><strong>Anne Byrne</strong> is a Ph.D. candidate in the Applied Economics and Management program. She studies the economics of food, with a particular interest in food assistance programs. </p>
-
-    <a href="https://www.econanne.com">Anne (Byrne's) website</a>
-    <br/>
-    <a href="https://twitter.com/EconAnne">Anne (Byrne's) Twitter (@EconAnne)</a>
-    
+ 
 <br/>
     <br/>
     
@@ -81,16 +49,6 @@
 
 <a href="https://www.christa-deneault.com/">Christa's website</a>
 
-<br/>
-<br/>
-
-<p><img src="../assets/dodini.jpg" alt="" width="30%"/></p>
-
-<p><strong>Sam Dodini</strong> is a Ph.D. candidate in the Policy Analysis and Management program. His research interests are broad but mainly focused on worker incentives, labor market institutions, education, and the effects of public expenditures on wellbeing. </p>
-
-<a href="https://samueldodini.com/">Sam's website</a>
-<br/>
-<a href="https://twitter.com/microsamonomics">Sam's Twitter (@microsamonomics)</a>
 
 <br/>
 <br/>
@@ -173,14 +131,6 @@
 
 <a href="https://twitter.com/meredithswelch">Meredith's Twitter (@meredithswelch)</a>
 
-<br/>
-<br/>
-
-<p><img src="../assets/wu.jpg" alt="" width="30%"/></p>
-
-<p><strong>Joy Wu</strong> is a Ph.D. candidate in the Applied Economics and Management program. She studies decision-making in the digital and information world, with a focus on consumer privacy, intellectual property, and data markets. </p>
-
-<a href="https://twitter.com/ZhouyuWu">Joy's Twitter (@ZhouyuWu)</a>
 
 <br/>
 <br/>
@@ -203,6 +153,70 @@
 <p><strong>Adeline Yeh</strong> is a Ph.D. candidate in the Applied Economics and Management program. Her research ... </p>
 
 -->
+	
+	
+	
+<div class="page-header">
+  <h2>Alumni </h2>
+</div>	
+
+ <p><center><img src="../assets/abbas.png" alt="" width="30%"/>
+ <br/>
+
+<p><strong>Ali Abbas</strong> is a Ph.D. candidate in the Applied Economics and Management program. His research interests are in public finance, political economy, and development economics, with a focus on fiscal policies in advanced and developing economies. </p>
+
+<a href="https://www.ali-abbas.com/">Ali's website</a>
+<br/>
+<a href="https://twitter.com/AliAbbas_Abidi">Ali's Twitter (@AliAbbas_Abidi)</a>
+
+    <br/>
+    <br/>
+
+
+<p><center><img src="../assets/burton.jpg" alt="" width="30%"/>
+ <br/>
+
+<p><strong>Anne Burton</strong> received her Ph.D. in Economics from Cornell in 2021. Her research focuses on the spillover effects of risky health behaviors and crime. She is currently an Assistant Professor of Economics at The University of Texas at Dallas. </p>
+
+<a href="https://annemburton.com">Anne (Burton's) website</a>
+<br/>
+<a href="https://twitter.com/anne_m_burton">Anne (Burton's) Twitter (@anne_m_burton)</a>
+
+    <br/>
+    <br/>
+    
+<p><img src="../assets/byrne.jpg" alt="" width="30%"/></p>
+
+ <p><strong>Anne Byrne</strong> is a Ph.D. candidate in the Applied Economics and Management program. She studies the economics of food, with a particular interest in food assistance programs. </p>
+
+    <a href="https://www.econanne.com">Anne (Byrne's) website</a>
+    <br/>
+    <a href="https://twitter.com/EconAnne">Anne (Byrne's) Twitter (@EconAnne)</a>
+    
+	
+<br/>
+<br/>
+
+<p><img src="../assets/dodini.jpg" alt="" width="30%"/></p>
+
+<p><strong>Sam Dodini</strong> is a Ph.D. candidate in the Policy Analysis and Management program. His research interests are broad but mainly focused on worker incentives, labor market institutions, education, and the effects of public expenditures on wellbeing. </p>
+
+<a href="https://samueldodini.com/">Sam's website</a>
+<br/>
+<a href="https://twitter.com/microsamonomics">Sam's Twitter (@microsamonomics)</a>
+	
+	
+<br/>
+<br/>
+
+<p><img src="../assets/wu.jpg" alt="" width="30%"/></p>
+
+<p><strong>Joy Wu</strong> is a Ph.D. candidate in the Applied Economics and Management program. She studies decision-making in the digital and information world, with a focus on consumer privacy, intellectual property, and data markets. </p>
+
+<a href="https://twitter.com/ZhouyuWu">Joy's Twitter (@ZhouyuWu)</a>
+	
+	
+	
 <br/>
 <br/>
 <br/>
