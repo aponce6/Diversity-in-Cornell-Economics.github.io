@@ -41,10 +41,6 @@ keywords: diversity, equity, inclusion, underrepresented, URM, women, BIPOC, LGB
 </div>
 
  
-Diversity in Cornell Economics (DICE) was founded by a group of Cornell graduate students in the fall of 2019.
-
-<br>
-<br>
 
 Our mission is to strive towards equity in economics and related fields, empower students to progress in the field, and provide a sense of belonging for all members of the economics community, particularly those from historically underrepresented groups.
 
