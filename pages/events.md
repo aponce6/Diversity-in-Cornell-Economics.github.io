@@ -37,14 +37,13 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <div class="row-fluid">
   <div class="span12">
-    stay tuned...
    
    <br/>
    <br/>
    <br/>
 
 <div class="page-header">
-<h3>Past Events (includes events organized by Diversity in Cornell Economics members pre-DICE)</h3>
+<h3>Past Events </h3>
 </div>
 
 <br/>
@@ -69,14 +68,12 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <h4>2019-2020 Academic Year</h4>
 </div>
 
-<strong>Proseminar on #EconTwitter.</strong> Friday, January 24, 2020.
+<strong>Proseminar on #EconTwitter with Anne Burton.</strong> Friday, January 24, 2020.
 <li><a href="{{ BASE_PATH }}/assets/burton_econtwitter_slides.pdf">Slides</a></li>
 <br/>
 <strong>Organizers:</strong>
 <li>DICE</li>
 
-<br/>	
-<strong>Presenter: Anne 	Burton</strong>
 
 <br/>
 <br/>
@@ -154,26 +151,9 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <br/>
 <strong>Cosponsoring grad student organizations (representatives listed below):</strong>
 <li>Graduate Student Association For Economics (GSAFE)</li>
-	<ul type="circle">
-	<li>Anne Burton</li>
-	<li>Fikri Pitsuwan</li>
-	<li>Stephanie Schauder</li>
-	</ul>
 <li>Graduate Students in Policy Analysis and Management (GSPAM)</li>
-	<ul type="circle">
-	<li>Erin McCauley</li>
-	<li>Ren&eacute; Crespin</li>
-	<li>Sam Dodini</li>
-	<li>Martha Johnson</li>
-	<li>Julia Zhu</li>
-	</ul>
+
 <li>Applied Economics and Management Graduate Student Association (AEM GSA)</li>
-	<ul type="circle">
-	<li>Ali Abbas</li>
-	<li>Anne Byrne</li>
-	<li>Yuanning Liang</li>
-	<li>Joy Wu</li>
-	</ul>
 
 <br/>	
 <strong>Funded by a microgrant from the President's Council of Cornell Women (PCCW)</strong>
