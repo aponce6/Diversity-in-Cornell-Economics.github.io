@@ -53,7 +53,7 @@ AEA Best Practices for Economists: Building a More Diverse, Inclusive, and Produ
 <br/>
 
 <div class="page-header">
-<h3>News Articles on Diversity in Economics (and the Lack Thereof)</h3>
+<h3>News Articles on Diversity in Economics</h3>
 </div>
 
 Economist article about women in economics:
