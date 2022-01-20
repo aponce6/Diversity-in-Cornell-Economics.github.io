@@ -17,11 +17,7 @@
   </div>
 </div>
 </html>
-        
- 
-<br/>
-<br/>
-    
+   
 
 <p><strong>Matt Comey</strong> is a Ph.D. candidate in the Economics program. His research interests are in public finance, urban economics, labor economics, and the economics of education. </p>
 
