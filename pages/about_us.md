@@ -17,8 +17,25 @@
   </div>
 </div>
 </html>
-   
 
+There are two types of DICE members: general members and executive board members. Executive board members are responsible for planning and implementing programming that furthers the mission of DICE.
+<br/>
+<br/>
+We organize our work across several committees:
+<ul>
+<li> Department Accountability & Department DEI Committees </li>
+<li> External Outreach to other Universities Grad Organizations </li>
+<li> Undergraduate outreach and mentoring </li>
+<li> Social </li>
+<li> Communications </li>
+</ul>
+
+<br/>
+<br/>
+   
+<div class="page-header">
+  <h2>Executive Board </h2>
+</div>
 <p><strong>Matt Comey</strong> is a Ph.D. candidate in the Economics program. His research interests are in public finance, urban economics, labor economics, and the economics of education. </p>
 
 <a href="https://www.matthewcomey.com/">Matt's website</a>
@@ -95,11 +112,6 @@
 <br/>
 
 
-<p><strong>Jose Maria U. Tapia</strong> is an undergraduate Economics major. He is interested in researching the economics of education and economic growth. </p>
-
-<br/>
-<br/>	
-
 <p><strong>David Wasser</strong> is a Ph.D. candidate in the Economics program. He researches the intersection of labor market monopsony and public policy. </p>
 
 <a href="https://www.davidnwasser.com">David's website</a>
@@ -141,10 +153,7 @@
 <br/>
 <br/>
     
-<strong>If you would like to join us, feel free to reach out at
-<br/>
-<br/>
-Cornell.DICE@gmail.com</strong>
+<strong>If you would like to join us, feel free to reach out at Cornell.DICE@gmail.com.</strong>
 
 <br/>
 <br/>
