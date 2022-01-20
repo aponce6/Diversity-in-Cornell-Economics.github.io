@@ -69,7 +69,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <strong>Proseminar on #EconTwitter with Anne Burton.</strong> Friday, January 24, 2020.
 <ul>
 <li><a href="{{ BASE_PATH }}/assets/burton_econtwitter_slides.pdf">Slides</a></li>
-<li>  Organizers: DICE
+<li>  Organizers: DICE </li>
 </ul>
 
 <br/>
@@ -152,7 +152,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 </ul>
 </ul>
 
-</div>
+<div class="page-header"></div>
 
 <br/>
 <br/>
