@@ -10,14 +10,6 @@
 <div class="page-header">
   <h2>About Us </h2>
 </div>
-
-<div class="row-fluid">
-  <div class="span12">
-  
-  </div>
-</div>
-</html>
-
 Diversity in Cornell Economics (DICE) was founded by a group of Cornell graduate students in the fall of 2019. We strive to improve equity in economics and related fields, empower students to progress in the field, and provide a sense of belonging for all members of the economics community, particularly those from historically underrepresented groups.
 <br>
 <br>
@@ -27,14 +19,10 @@ There are two types of DICE members: general members and executive board members
 <br/>
 We organize our work across several committees:
 <ul>
-<li> Department Accountability & Department DEI Committees </li>
-<li> External Outreach to other Universities Grad Organizations </li>
+<li> Department Accountability </li>
 <li> Undergraduate outreach and mentoring </li>
-<li> Social </li>
 <li> Communications </li>
 </ul>
-
-<br/>
 <br/>
    
 <div class="page-header">
