@@ -28,7 +28,7 @@ keywords: diversity, equity, inclusion, underrepresented, URM, women, BIPOC, LGB
             <img src="../assets/DICE.png"
                   title="Diversity in Cornell Economics" alt="Diversity in Cornell Economics logo"/></a>
         </div>
-        <div class="span6">
+        <div class="span5">
             <b><font size="+2">Diversity in Cornell Economics</font></b><br/>
             <br/>
             <br/>
