@@ -84,7 +84,7 @@ If you're an undergraduate or graduate student at Cornell and you (1) are intere
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://github.com/Diversity-in-Cornell-Economics">GitHub</a></li>
-          <li><a href="https://twitter.com/Cornell_DICE">Twitter (@Cornell_DICE)</a></li>
+          <!--<li><a href="https://twitter.com/Cornell_DICE">Twitter (@Cornell_DICE)</a></li>-->
       </ul>
   </div>
 </div>
