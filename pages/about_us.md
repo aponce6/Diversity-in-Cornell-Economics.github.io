@@ -19,6 +19,7 @@ There are two types of DICE members: general members and executive board members
 <br/>
 We organize our work across several committees:
 <ul>
+<li> Women of Cornell Economics </li>
 <li> Department Accountability </li>
 <li> Undergraduate outreach and mentoring </li>
 <li> Communications </li>
@@ -39,6 +40,8 @@ We organize our work across several committees:
 <a href="https://economics.cornell.edu/grace-phillips">Grace Phillips</a>
 <br/>
 <a href="https://economics.cornell.edu/kalie-pierce-0">Kalie Pierce</a>
+<br/>
+<a href="https://danajsmith.com/">Dana Smith</a>
 <br/>
 <a href="https://www.davidnwasser.com">David Wasser</a>
 <br/>
