@@ -39,14 +39,6 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
   <h3>Upcoming Events </h3>
 </div>
 
-<strong>Major &rarr; Career.</strong> Tuesday, March 29, 2022.
-<ul>
-<li>Curious about careers in Economics? Come learn about all the industries you can enter with an economics degree.</li>
-<li>DICE is hosting a panel of Cornell graduate students in economics-related fields for interested undergraduate and masters students.</li>
-<li><a href="{{ BASE_PATH }}/assets/dice_major_career.pdf">Flyer</a></li>
-<li> Organizers: DICE </li>
-</ul>
-
 
 <div class="row-fluid">
   <div class="span12">
@@ -56,6 +48,21 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <div class="page-header">
 <h3>Past Events </h3>
 </div>
+
+<div class="page-header">
+<h4>2021-2022 Academic Year</h4>
+</div>
+
+<strong>Major &rarr; Career.</strong> Tuesday, March 29, 2022.
+<ul>
+<li>Curious about careers in Economics? Come learn about all the industries you can enter with an economics degree.</li>
+<li>DICE is hosting a panel of Cornell graduate students in economics-related fields for interested undergraduate and masters students.</li>
+<li><a href="{{ BASE_PATH }}/assets/dice_major_career.pdf">Flyer</a></li>
+<li> Organizers: DICE </li>
+</ul>
+
+<br/>
+<br/>
 
 <div class="page-header">
 <h4>2020-2021 Academic Year</h4>
