@@ -53,6 +53,14 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <h4>2021-2022 Academic Year</h4>
 </div>
 
+<strong>Women+ of Cornell Economics Roundtable Lunch.</strong> Wednesday, April 27, 2022.
+<ul>
+<li> Organizers: DICE, Dyson Diversity Council </li>
+</ul>
+
+<br/>
+<br/>
+
 <strong>Major &rarr; Career.</strong> Tuesday, March 29, 2022.
 <ul>
 <li>Curious about careers in Economics? Come learn about all the industries you can enter with an economics degree.</li>
