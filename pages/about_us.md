@@ -27,7 +27,25 @@ We organize our work across several committees:
 <br/>
    
 <div class="page-header">
-  <h2>Executive Board </h2>
+  <h2>Executive Board 2022-23</h2>
+</div>
+<a href="https://publicpolicy.cornell.edu/people/daphne-blakey/">Daphne Blakey</a>  
+  <br/>
+<a href="https://economics.cornell.edu/lexin-cai">Lexin Cai</a>
+<br/>
+<a href="http://barrett.dyson.cornell.edu/research/group/molly-doruska.html">Molly Doruska</a>
+<br/>
+<a href="">Michael Meneses</a>
+<br/>
+<a href="https://economics.cornell.edu/kalie-pierce-0">Kalie Pierce</a>
+<br/>
+<a href="https://danajsmith.com/">Dana Smith</a>
+<br/>
+<a href="https://www.human.cornell.edu/people/msw274">Meredith Welch</a>
+<br/>
+<br/>
+  
+<h2>Former Executive Board Members</h2>
 </div>
 <a href="https://www.matthewcomey.com/">Matt Comey</a>
 <br/>
@@ -35,20 +53,12 @@ We organize our work across several committees:
 <br/>
 <a href="https://www.christa-deneault.com/">Christa Deneault</a>
 <br/>
-<a href="http://barrett.dyson.cornell.edu/research/group/molly-doruska.html">Molly Doruska</a>
-<br/>
 <a href="https://economics.cornell.edu/grace-phillips">Grace Phillips</a>
-<br/>
-<a href="https://economics.cornell.edu/kalie-pierce-0">Kalie Pierce</a>
-<br/>
-<a href="https://danajsmith.com/">Dana Smith</a>
-<br/>
 <a href="https://www.davidnwasser.com">David Wasser</a>
-<br/>
-<a href="https://www.human.cornell.edu/people/msw274">Meredith Welch</a>
-<br/>
-<br/>
-<br/>
+
+
+
+
     
 <strong>If you would like to join us, feel free to reach out at Cornell.DICE@gmail.com.</strong>
 
