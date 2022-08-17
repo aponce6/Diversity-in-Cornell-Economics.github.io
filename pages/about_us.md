@@ -14,12 +14,12 @@ Diversity in Cornell Economics (DICE) was founded by a group of Cornell graduate
 <br>
 <br>
 
-There are two types of DICE members: general members and executive board members. Executive board members are responsible for planning and implementing programming that furthers the mission of DICE.
+There are three types of DICE members: general members, committee members, and executive board members. Executive board members and committee members are responsible for planning and implementing programming that furthers the mission of DICE.
 <br/>
 <br/>
 We organize our work across several committees:
 <ul>
-<li> Women of Cornell Economics </li>
+<li> Women+ of Cornell Economics </li>
 <li> Department Accountability </li>
 <li> Undergraduate outreach and mentoring </li>
 <li> Communications </li>
