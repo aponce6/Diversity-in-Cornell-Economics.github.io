@@ -54,7 +54,12 @@ We organize our work across several committees:
 <a href="https://www.christa-deneault.com/">Christa Deneault</a>
 <br/>
 <a href="https://economics.cornell.edu/grace-phillips">Grace Phillips</a>
+<br/>
 <a href="https://www.davidnwasser.com">David Wasser</a>
+<br/>
+<br/>
+<br/>
+
 
 
 
