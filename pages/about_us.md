@@ -29,19 +29,19 @@ We organize our work across several committees:
 <div class="page-header">
   <h2>Executive Board 2022-23</h2>
 </div>
-<a href="https://publicpolicy.cornell.edu/people/daphne-blakey/">Daphne Blakey</a>  
+<a href="https://publicpolicy.cornell.edu/people/daphne-blakey/">Daphne Blakey</a>  - Chair of Undergraduate Outreach and Mentoring
   <br/>
-<a href="https://economics.cornell.edu/lexin-cai">Lexin Cai</a>
+<a href="https://economics.cornell.edu/lexin-cai">Lexin Cai</a> - Economics Diversity and Inclusion Committee, Grad Student Representative 
 <br/>
-<a href="http://barrett.dyson.cornell.edu/research/group/molly-doruska.html">Molly Doruska</a>
+<a href="http://barrett.dyson.cornell.edu/research/group/molly-doruska.html">Molly Doruska</a> - Vice President 
 <br/>
-<a href="">Michael Meneses</a>
+<a href="">Michael Meneses</a> - Chair of Department Accountability 
 <br/>
-<a href="https://economics.cornell.edu/kalie-pierce-0">Kalie Pierce</a>
+<a href="https://economics.cornell.edu/kalie-pierce-0">Kalie Pierce</a> - Economics Diversity and Inclusion Committee, Grad Student Representative 
 <br/>
-<a href="https://danajsmith.com/">Dana Smith</a>
+<a href="https://danajsmith.com/">Dana Smith</a> - Chair of Women+ of Cornell Economics 
 <br/>
-<a href="https://www.human.cornell.edu/people/msw274">Meredith Welch</a>
+<a href="https://www.human.cornell.edu/people/msw274">Meredith Welch</a> - President 
 <br/>
 <br/>
  
