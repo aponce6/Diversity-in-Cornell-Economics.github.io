@@ -44,9 +44,14 @@ We organize our work across several committees:
 <a href="https://www.human.cornell.edu/people/msw274">Meredith Welch</a>
 <br/>
 <br/>
-  
+ 
+<div class="page-header"> 
 <h2>Former Executive Board Members</h2>
 </div>
+<a href="https://annemburton.com/">Anne Burton</a>
+<br/>
+<a href="https://www.econanne.com/">Anne Byrne</a>
+<br/>
 <a href="https://www.matthewcomey.com/">Matt Comey</a>
 <br/>
 <a href="https://www.renecrespin.com/">Ren&eacute; Crespin</a>
@@ -56,6 +61,8 @@ We organize our work across several committees:
 <a href="https://economics.cornell.edu/grace-phillips">Grace Phillips</a>
 <br/>
 <a href="https://www.davidnwasser.com">David Wasser</a>
+<br/>
+<a href="https://joyzwu.github.io/">Joy Wu</a>
 <br/>
 <br/>
 <br/>
