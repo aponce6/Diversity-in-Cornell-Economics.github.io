@@ -21,7 +21,7 @@
 <div class="page-header">
 <h4>2021-2022 Academic Year</h4>
 </div>
-<li><a href="{{ BASE_PATH }}/assets/March 2022 DICE Newsletter.pdf"><strong>March 2022</strong></a></li>
+<li><a href="../assets/March 2022 DICE Newsletter.pdf"><strong>March 2022</strong></a></li>
 <li><a href="../assets/DICE May 2022 Newsletter.pdf"><strong>May 2022</strong></a></li>
   
   
