@@ -23,6 +23,8 @@
 </div>
 <li><a href="{{ BASE_PATH }}/assets/March 2022 DICE Newsletter.pdf"><strong>March 2022</strong></a></li>
 <li><a href="{{ BASE_PATH }}/assets/DICE May 2022 Newsletter.pdf"><strong>May 2022</strong></a></li>
+  
+  
 <br/>
 
 
