@@ -35,9 +35,13 @@ We organize our work across several committees:
 <br/>
 <a href="http://barrett.dyson.cornell.edu/research/group/molly-doruska.html">Molly Doruska</a> - Vice President 
 <br/>
+<a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Luc Esprabens</a> - Co-Chair of Communications
+<br/>
 <a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Michael Meneses</a> - Chair of Department Accountability 
 <br/>
-<a href="https://economics.cornell.edu/kalie-pierce-0">Kalie Pierce</a> - Economics Diversity and Inclusion Committee, Grad Student Representative 
+<a href="https://economics.cornell.edu/kalie-pierce-0">Kalie Pierce</a> - Economics Diversity and Inclusion Committee, Grad Student Representative
+<br/>
+<a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Anthony Ponce</a> - Co-Chair of Communications  
 <br/>
 <a href="https://danajsmith.com/">Dana Smith</a> - Chair of Women+ of Cornell Economics 
 <br/>
