@@ -39,15 +39,13 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
   <h3>Upcoming Events </h3>
 </div>
 
-<div class="page-header">
-<h4>2022-2023 Academic Year</h4>
-</div>
+
 
 <strong>Donuts with DICE - Fields of Economics Research</strong> Friday, April 21st, 11:30am - 1:00pm
 <ul>
 <li>Panel discussion, informal networking to follow</li>
 <li>DICE is hosting a panel of Cornell graduate students in economics-related fields for interested undergraduate and masters students.</li>
-<li>See attached <a href="{{ BASE_PATH }}/assets/DONUTS_W_DICE-APRIL_21.pdf">Flyer</a></li>
+<li>See attached <a href="{{ BASE_PATH }}/assets/DONUTS_W_DICE-APRIL_21.pdf">flyer</a></li>
 <li><a href="https://mail.google.com/mail/u/0?ui=2&ik=7129b3a362&attid=0.0.2&permmsgid=msg-f:1762916478425579501&th=18772332613d3fed&view=att&disp=safe">Calendar Link</a></li>
 <li> Organizers: DICE </li>
 </ul>
@@ -60,6 +58,10 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <div class="page-header">
 <h3>Past Events </h3>
+</div>
+
+<div class="page-header">
+<h4>2022-2023 Academic Year</h4>
 </div>
 
 <div class="page-header">
