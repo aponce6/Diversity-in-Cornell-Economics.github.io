@@ -56,23 +56,17 @@ AEA Best Practices for Economists: Building a More Diverse, Inclusive, and Produ
 <h3>Econ Career Resources for undergrads:</h3>
 </div>
 
-AEA Summer and Scholarship Programs:
-<li><a href="https://www.aeaweb.org/about-aea/committees/AEASP"</a></li>
+<li><a href="https://www.aeaweb.org/about-aea/committees/AEASP">AEA Summer and Scholarship Programs</a></li>
 
-J-PAL advice on preparing for an econ RA position:
-<li><a href="http://bit.ly/2Md710J"</a></li>
+<li><a href="http://bit.ly/2Md710J">J-PAL advice on preparing for an econ RA position</a></li>
 
-NBER list of open RA positions:
-<li><a href="https://www.nber.org/career-resources/research-assistant-positions-not-nber"</a></li>
+<li><a href="https://www.nber.org/career-resources/research-assistant-positions-not-nber">NBER list of open RA positions</a></li>
 
-American Economic Association Resources:
-<li><a href="https://www.aeaweb.org/resources/students"</a></li>
+<li><a href="https://www.aeaweb.org/resources/students">American Economic Association Resources</a></li>
 
-Twitter thread on finding an RA position before grad school:
-<li><a href="https://twitter.com/jenniferdoleac/status/1027546716675997696"</a></li>
+<li><a href="https://twitter.com/jenniferdoleac/status/1027546716675997696">Twitter thread on finding an RA position before grad school</a></li>
 
-Twitter thread on applying to research-focused Econ MA programs:
-<li><a href="https://twitter.com/ProfPieters/status/1161686184269139970"</a></li>
+<li><a href="https://twitter.com/ProfPieters/status/1161686184269139970">Twitter thread on applying to research-focused Econ MA programs</a></li>
 
 
 
