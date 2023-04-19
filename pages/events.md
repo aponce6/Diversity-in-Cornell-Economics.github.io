@@ -41,7 +41,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 
 
-<strong>Donuts with DICE - Fields of Economics Research</strong> Friday, April 21st, 11:30am - 1:00pm MVR 2219
+<strong>Donuts with DICE - Fields of Economics Research</strong> Friday, April 21st, 11:30am - 1:00pm in MVR 2219
 <ul>
 <li>Panel discussion, informal networking to follow</li>
 <li>DICE is hosting a panel of Cornell graduate students in economics-related fields for interested undergraduate and masters students.</li>
@@ -50,8 +50,10 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <li> Organizers: DICE </li>
 </ul>
 
+<br/>
+<br/>
 
-<strong>Donuts with DICE - Applying to Grad School</strong> Friday, April 28th, 11:30am - 1:00pm MVR 2219
+<strong>Donuts with DICE - Applying to Grad School</strong> Friday, April 28th, 11:30am - 1:00pm in MVR 2219
 <ul>
 <li>Hear from a panel of Cornell PhD students in economics-related fields about their experiences applying to graduate school and stay and chat afterwards with donuts and coffee! </li>
 <li>See attached <a href="{{ BASE_PATH }}/assets/DONUTS W DICE - APRIL 28.pdf">flyer</a></li>
