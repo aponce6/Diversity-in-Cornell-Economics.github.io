@@ -41,12 +41,21 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 
 
-<strong>Donuts with DICE - Fields of Economics Research</strong> Friday, April 21st, 11:30am - 1:00pm
+<strong>Donuts with DICE - Fields of Economics Research</strong> Friday, April 21st, 11:30am - 1:00pm MVR 2219
 <ul>
 <li>Panel discussion, informal networking to follow</li>
 <li>DICE is hosting a panel of Cornell graduate students in economics-related fields for interested undergraduate and masters students.</li>
 <li>See attached <a href="{{ BASE_PATH }}/assets/DONUTS_W_DICE-APRIL_21.pdf">flyer</a></li>
 <li><a href="https://mail.google.com/mail/u/0?ui=2&ik=7129b3a362&attid=0.0.2&permmsgid=msg-f:1762916478425579501&th=18772332613d3fed&view=att&disp=safe">Calendar Link</a></li>
+<li> Organizers: DICE </li>
+</ul>
+
+
+<strong>Donuts with DICE - Applying to Grad School</strong> Friday, April 28th, 11:30am - 1:00pm MVR 2219
+<ul>
+<li>Hear from a panel of Cornell PhD students in economics-related fields about their experiences applying to graduate school and stay and chat afterwards with donuts and coffee! </li>
+<li>See attached <a href="{{ BASE_PATH }}/assets/DONUTS W DICE - APRIL 28.pdf">flyer</a></li>
+<li><a href="https://mail.google.com/mail/u/0?ui=2&ik=7129b3a362&attid=0.0.2&permmsgid=msg-f:1763631574236433738&th=1879ad9299068d4a&view=att&disp=safe">Calendar Link</a></li>
 <li> Organizers: DICE </li>
 </ul>
 
