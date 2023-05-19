@@ -67,6 +67,7 @@ We organize our work across several committees:
 <a href="https://www.christa-deneault.com/">Christa Deneault</a>
 <br/>
 <a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Michael Meneses</a>
+<br/>
 <a href="https://gracenphillips.com/">Grace Phillips</a>
 <br/>
 <a href="https://danajsmith.com/">Dana Smith</a>
