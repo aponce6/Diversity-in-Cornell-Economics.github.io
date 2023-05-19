@@ -41,13 +41,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 
 
-<strong>Donuts with DICE - Applying to Grad School</strong> Friday, April 28th, 11:30am - 1:00pm in MVR 2219
-<ul>
-<li>Hear from a panel of Cornell PhD students in economics-related fields about their experiences applying to graduate school and stay and chat afterwards with donuts and coffee! </li>
-<li>See attached <a href="{{ BASE_PATH }}/assets/DONUTS W DICE - APRIL 28.pdf">flyer</a></li>
-<li><a href="https://mail.google.com/mail/u/0?ui=2&ik=7129b3a362&attid=0.0.2&permmsgid=msg-f:1763631574236433738&th=1879ad9299068d4a&view=att&disp=safe">Calendar Link</a></li>
-<li> Organizers: DICE </li>
-</ul>
+
 
 
 <div class="row-fluid">
@@ -62,6 +56,16 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <div class="page-header">
 <h4>2022-2023 Academic Year</h4>
 </div>
+
+
+<strong>Donuts with DICE - Applying to Grad School</strong> Friday, April 28th, 11:30am - 1:00pm in MVR 2219
+<ul>
+<li>Hear from a panel of Cornell PhD students in economics-related fields about their experiences applying to graduate school and stay and chat afterwards with donuts and coffee! </li>
+<li>See attached <a href="{{ BASE_PATH }}/assets/DONUTS W DICE - APRIL 28.pdf">flyer</a></li>
+<li><a href="https://mail.google.com/mail/u/0?ui=2&ik=7129b3a362&attid=0.0.2&permmsgid=msg-f:1763631574236433738&th=1879ad9299068d4a&view=att&disp=safe">Calendar Link</a></li>
+<li> Organizers: DICE </li>
+</ul>
+
 
 <strong>Donuts with DICE - Fields of Economics Research</strong> Friday, April 21st, 11:30am - 1:00pm in MVR 2219
 <ul>
