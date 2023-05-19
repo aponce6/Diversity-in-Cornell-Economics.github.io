@@ -27,7 +27,7 @@ We organize our work across several committees:
 <br/>
    
 <div class="page-header">
-  <h2>Executive Board 2022-23</h2>
+  <h2>Executive Board 2023-24</h2>
 </div>
 <a href="https://publicpolicy.cornell.edu/people/daphne-blakey/">Daphne Blakey</a>  - Chair of Undergraduate Outreach and Mentoring
 <br/>
@@ -50,7 +50,7 @@ We organize our work across several committees:
 
 
 
-"https://danajsmith.com/"
+
  
 <div class="page-header"> 
 <h2>Former Executive Board Members</h2>
@@ -68,6 +68,8 @@ We organize our work across several committees:
 <br/>
 <a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Michael Meneses</a>
 <a href="https://gracenphillips.com/">Grace Phillips</a>
+<br/>
+<a href="https://danajsmith.com/">Dana Smith</a>
 <br/>
 <a href="https://www.davidnwasser.com">David Wasser</a>
 <br/>
