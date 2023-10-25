@@ -97,5 +97,9 @@ If you're an undergraduate or graduate student at Cornell and you (1) are intere
 <hr>
 <span id="lastModified"></span>
 
+<br>
+This organization is a registered student organization of Cornell University.
+<br>
+
 </div>
 </body>
