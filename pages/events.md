@@ -39,13 +39,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
   <h3>Upcoming Events </h3>
 </div>
 
-<strong>Donuts with DICE - Applying to Grad School</strong> Friday, October 27th, 11:30am - 1:00pm in Statler 396
-<ul>
-<li>Hear from Cornell PhD students in economics-related fields about their experiences when applying to grad school. Feel free to stay and chat afterwards with donuts and coffee!</li>
-<li>See attached <a href="{{ BASE_PATH }}/assets/DONUTS W DICE - OCT 2023.pdf">flyer</a></li>
-<li><a href="https://mail.google.com/mail/u/0?ui=2&ik=7129b3a362&attid=0.0.2&permmsgid=msg-f:1780663625386265199&th=18b63022079b8a6f&view=att&disp=safe">Calendar Link</a></li>
-<li> Organizers: DICE </li>
-</ul>
+
 
 
 
@@ -62,6 +56,14 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 <div class="page-header">
 <h4>2023-2024 Academic Year</h4>
 </div>
+
+<strong>Donuts with DICE - Applying to Grad School</strong> Friday, October 27th, 11:30am - 1:00pm in Statler 396
+<ul>
+<li>Hear from Cornell PhD students in economics-related fields about their experiences when applying to grad school. Feel free to stay and chat afterwards with donuts and coffee!</li>
+<li>See attached <a href="{{ BASE_PATH }}/assets/DONUTS W DICE - OCT 2023.pdf">flyer</a></li>
+<li><a href="https://mail.google.com/mail/u/0?ui=2&ik=7129b3a362&attid=0.0.2&permmsgid=msg-f:1780663625386265199&th=18b63022079b8a6f&view=att&disp=safe">Calendar Link</a></li>
+<li> Organizers: DICE </li>
+</ul>
 
 <div class="page-header">
 <h4>2022-2023 Academic Year</h4>
