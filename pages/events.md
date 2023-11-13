@@ -41,7 +41,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 
 
-<strong>this is a test
+
 
 
 <div class="row-fluid">

@@ -4,7 +4,7 @@
 <!--
 layout: page
 title: Mentorship
-description: Upcoming and past events organized by Diversity in Cornell Economics members
+description: Page for undergraduates to find graduate student mentors.
 ---
 -->
 
