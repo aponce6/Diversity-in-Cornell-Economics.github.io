@@ -37,24 +37,19 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 
 
- <div class="page-header">
-  <h3>Upcoming Events </h3>
-</div>
-
-
-
-
-
-
 <div class="row-fluid">
-  <div class="span12">
-   <br/>
-   <br/>
-
-<div class="page-header">
-<h3>Past Events </h3>
-</div>
-
-<div class="page-header">
-<h4>2023-2024 Academic Year</h4>
-</div>
+        <div class="span3">
+        <a href="../assets/mentor_test.png">
+            <img src="../assets/mentor_test.png"
+                  title="Diversity in Cornell Economics" alt="Diversity in Cornell Economics logo"/></a>
+        </div>
+        <div class="span6">
+            <b><font size="+2">Diversity in Cornell Economics</font></b><br/>
+            <br/>
+            <br/>
+            <div id="hide_email">
+            Email: Cornell.DICE@gmail.com<br/>
+            Twitter: <a href="https://twitter.com/Cornell_DICE">@Cornell_DICE</a><br/>
+            </div>
+        </div> 
+    </div>
