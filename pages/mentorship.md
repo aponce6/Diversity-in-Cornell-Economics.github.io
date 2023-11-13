@@ -39,9 +39,9 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <div class="row-fluid">
         <div class="span3">
-        <a href="../assets/mentor_test.png">
-            <img src="../assets/mentor_test.png"
-                  title="Diversity in Cornell Economics" alt="Diversity in Cornell Economics logo"/></a>
+        <a href="../assets/mentor_test.jpg">
+            <img src="../assets/mentor_test.jpg"
+                  title="test photo" alt="test photo"/></a>
         </div>
         <div class="span6">
             <b><font size="+2">Diversity in Cornell Economics</font></b><br/>
